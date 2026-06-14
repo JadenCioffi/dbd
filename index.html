@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dead by Daylight Killer Randomizer</title>
+    <link rel="stylesheet" href="./static/styles.css">
+    <script src="./static/app.js" defer></script>
+</head>
+<body>
+    <main>
+        <section class="hero">
+            <h1>Dead by Daylight Killer Randomizer</h1>
+            <p>Pick how many unique killers you want, then roll the roster.</p>
+        </section>
+
+        <form id="killer-form">
+            <label for="num_selections">
+                Number of selections
+                <input
+                    id="num_selections"
+                    name="num_selections"
+                    type="number"
+                    min="1"
+                    max="43"
+                    value="1"
+                    required
+                >
+            </label>
+            <button type="submit">Choose Killers</button>
+        </form>
+
+        <p id="helper-text" class="helper">Enter a value from 1 to 43.</p>
+        <p id="error-message" class="error is-hidden"></p>
+
+        <section
+            id="results"
+            class="results is-hidden"
+            data-placeholder-template="Image unavailable for __KILLER__"
+        >
+            <p id="selection-title" class="selection-title">Killer is:</p>
+            <section id="selection-grid" class="grid"></section>
+        </section>
+    </main>
+</body>
+</html>
