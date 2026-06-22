@@ -1,0 +1,217 @@
+[
+  {
+    "id": "theTrapper",
+    "name": "The Trapper",
+    "image": "assets/images/killers/K01_The_Trapper.webp"
+  },
+  {
+    "id": "theWraith",
+    "name": "The Wraith",
+    "image": "assets/images/killers/K02_The_Wraith.webp"
+  },
+  {
+    "id": "theHillbilly",
+    "name": "The Hillbilly",
+    "image": "assets/images/killers/K03_The_Hillbilly.webp"
+  },
+  {
+    "id": "theNurse",
+    "name": "The Nurse",
+    "image": "assets/images/killers/K04_The_Nurse.webp"
+  },
+  {
+    "id": "theShape",
+    "name": "The Shape",
+    "image": "assets/images/killers/K06_The_Shape.webp"
+  },
+  {
+    "id": "theHag",
+    "name": "The Hag",
+    "image": "assets/images/killers/K05_The_Hag.webp"
+  },
+  {
+    "id": "theDoctor",
+    "name": "The Doctor",
+    "image": "assets/images/killers/K07_The_Doctor.webp"
+  },
+  {
+    "id": "theHuntress",
+    "name": "The Huntress",
+    "image": "assets/images/killers/K08_The_Huntress.webp"
+  },
+  {
+    "id": "theCannibal",
+    "name": "The Cannibal",
+    "image": "assets/images/killers/K09_The_Cannibal.webp"
+  },
+  {
+    "id": "theNightmare",
+    "name": "The Nightmare",
+    "image": "assets/images/killers/K10_The_Nightmare.webp"
+  },
+  {
+    "id": "thePig",
+    "name": "The Pig",
+    "image": "assets/images/killers/K11_The_Pig.webp"
+  },
+  {
+    "id": "theClown",
+    "name": "The Clown",
+    "image": "assets/images/killers/K12_The_Clown.webp"
+  },
+  {
+    "id": "theSpirit",
+    "name": "The Spirit",
+    "image": "assets/images/killers/K13_The_Spirit.webp"
+  },
+  {
+    "id": "theLegion",
+    "name": "The Legion",
+    "image": "assets/images/killers/K14_The_Legion.webp"
+  },
+  {
+    "id": "thePlague",
+    "name": "The Plague",
+    "image": "assets/images/killers/K15_The_Plague.webp"
+  },
+  {
+    "id": "theGhostFace",
+    "name": "The Ghost Face",
+    "image": "assets/images/killers/K16_The_Ghostface.webp"
+  },
+  {
+    "id": "theDemogorgon",
+    "name": "The Demogorgon",
+    "image": "assets/images/killers/K17_The_Demogorgon.webp"
+  },
+  {
+    "id": "theOni",
+    "name": "The Oni",
+    "image": "assets/images/killers/K18_The_Oni.webp"
+  },
+  {
+    "id": "theDeathslinger",
+    "name": "The Deathslinger",
+    "image": "assets/images/killers/K19_The_Deathslinger.webp"
+  },
+  {
+    "id": "theExecutioner",
+    "name": "The Executioner",
+    "image": "assets/images/killers/K20_The_Executioner.webp"
+  },
+  {
+    "id": "theBlight",
+    "name": "The Blight",
+    "image": "assets/images/killers/K21_The_Blight.webp"
+  },
+  {
+    "id": "theTwins",
+    "name": "The Twins",
+    "image": "assets/images/killers/K22_The_Twins.webp"
+  },
+  {
+    "id": "theTrickster",
+    "name": "The Trickster",
+    "image": "assets/images/killers/K23_The_Trickster.webp"
+  },
+  {
+    "id": "theNemesis",
+    "name": "The Nemesis",
+    "image": "assets/images/killers/K24_The_Nemesis.webp"
+  },
+  {
+    "id": "theCenobite",
+    "name": "The Cenobite",
+    "image": "assets/images/killers/K25_The_Cenobite.webp"
+  },
+  {
+    "id": "theArtist",
+    "name": "The Artist",
+    "image": "assets/images/killers/K26_The_Artist.webp"
+  },
+  {
+    "id": "theOnryo",
+    "name": "The Onryo",
+    "image": "assets/images/killers/K27_The_Onryo.webp"
+  },
+  {
+    "id": "theDredge",
+    "name": "The Dredge",
+    "image": "assets/images/killers/K28_The_Dredge.webp"
+  },
+  {
+    "id": "theMastermind",
+    "name": "The Mastermind",
+    "image": "assets/images/killers/K29_The_Master_Mind.webp"
+  },
+  {
+    "id": "theKnight",
+    "name": "The Knight",
+    "image": "assets/images/killers/K30_The_Knight.webp"
+  },
+  {
+    "id": "theSkullMerchant",
+    "name": "The Skull Merchant",
+    "image": "assets/images/killers/K31_The_Skull_Merchant.webp"
+  },
+  {
+    "id": "theSingularity",
+    "name": "The Singularity",
+    "image": "assets/images/killers/K32_The_Singularity.webp"
+  },
+  {
+    "id": "theXenomorph",
+    "name": "The Xenomorph",
+    "image": "assets/images/killers/K33_The_Xenomorph.webp"
+  },
+  {
+    "id": "theGoodGuy",
+    "name": "The Good Guy",
+    "image": "assets/images/killers/K34_The_Good_Guy.webp"
+  },
+  {
+    "id": "theUnknown",
+    "name": "The Unknown",
+    "image": "assets/images/killers/K35_The_Unknown.webp"
+  },
+  {
+    "id": "theLich",
+    "name": "The Lich",
+    "image": "assets/images/killers/K36_The_Lich.webp"
+  },
+  {
+    "id": "theDarkLord",
+    "name": "The Dark Lord",
+    "image": "assets/images/killers/K37_The_Dark_Lord.webp"
+  },
+  {
+    "id": "theHoundmaster",
+    "name": "The Houndmaster",
+    "image": "assets/images/killers/K38_The_Houndmaster.webp"
+  },
+  {
+    "id": "theGhoul",
+    "name": "The Ghoul",
+    "image": "assets/images/killers/K39_The_Ghoul.webp"
+  },
+  {
+    "id": "theAnimatronic",
+    "name": "The Animatronic",
+    "image": "assets/images/killers/K40_The_Animatronic.webp"
+  },
+  {
+    "id": "theKrasue",
+    "name": "The Krasue",
+    "image": "assets/images/killers/K41_The_Krasue.webp"
+  },
+  {
+    "id": "theFirst",
+    "name": "The First",
+    "image": "assets/images/killers/K42_The_First.webp"
+  },
+  {
+    "id": "theSlasher",
+    "name": "The Slasher",
+    "image": "assets/images/killers/K43_The_Slasher.webp"
+  }
+]

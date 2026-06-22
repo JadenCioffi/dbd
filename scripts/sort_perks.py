@@ -1,6 +1,9 @@
 from pathlib import Path
 import shutil
 
+
+ROOT_DIR = Path(__file__).resolve().parent.parent
+
 killer_perks = {
     "aNursesCalling",
     "agitation",
@@ -134,9 +137,12 @@ killer_perks = {
     "zanshinTactics",
 }
 
-base = Path("perks")
-(base / "killer").mkdir(exist_ok=True)
-(base / "survivor").mkdir(exist_ok=True)
+base = ROOT_DIR / "assets" / "images" / "perks" / "unsorted"
+killer_dir = ROOT_DIR / "assets" / "images" / "perks" / "killer"
+survivor_dir = ROOT_DIR / "assets" / "images" / "perks" / "survivor"
+
+killer_dir.mkdir(parents=True, exist_ok=True)
+survivor_dir.mkdir(parents=True, exist_ok=True)
 
 moved_killer = 0
 moved_survivor = 0
@@ -145,10 +151,10 @@ for png in base.glob("*.png"):
     perk_name = png.stem
 
     if perk_name in killer_perks:
-        shutil.move(str(png), str(base / "killer" / png.name))
+        shutil.move(str(png), str(killer_dir / png.name))
         moved_killer += 1
     else:
-        shutil.move(str(png), str(base / "survivor" / png.name))
+        shutil.move(str(png), str(survivor_dir / png.name))
         moved_survivor += 1
 
 print(f"Killer perks moved: {moved_killer}")

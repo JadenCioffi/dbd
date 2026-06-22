@@ -3,45 +3,88 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dead by Daylight Killer Randomizer</title>
-    <link rel="stylesheet" href="./static/styles.css">
-    <link rel="icon" href="./images/favicon.ico">
-    <script src="./static/app.js" defer></script>
+    <title>Dead by Daylight Randomizer</title>
+    <link rel="stylesheet" href="./assets/css/styles.css">
+    <link rel="icon" href="./assets/images/ui/favicon.ico">
+    <script src="./assets/js/app.js" defer></script>
 </head>
 <body>
     <main>
         <section class="hero">
-            <h1>Dead by Daylight Killer Randomizer</h1>
-            <p>Pick how many unique killers you want, then roll the roster.</p>
-            <a href="https://github.com/JadenCioffi/dbd">Github Page</a>
+            <h1>Dead by Daylight Randomizer</h1>
+            <p id="quote-text" class="quote-text"><em>Pick how many unique killers you want, then roll the roster.</em></p>
+            <a class="hero-link" href="https://github.com/JadenCioffi/dbd">GitHub Repo</a>
         </section>
 
-        <form id="killer-form">
-            <label for="num_selections">
-                Number of selections
-                <input
-                    id="num_selections"
-                    name="num_selections"
-                    type="number"
-                    min="1"
-                    max="43"
-                    value="1"
-                    required
-                >
-            </label>
-            <button type="submit">Choose Killers</button>
-        </form>
+        <section class="randomizer-block">
+            <div class="section-heading">
+                <h2>Killer Selection</h2>
+                <p>Choose how many unique killers you want to randomize.</p>
+            </div>
 
-        <p id="helper-text" class="helper">Enter a value from 1 to 43.</p>
-        <p id="error-message" class="error is-hidden"></p>
+            <form id="killer-form" class="control-panel">
+                <label for="num_selections">
+                    Number of selections
+                    <input id="num_selections" name="num_selections" type="number" min="1" max="43" value="1" required>
+                </label>
+                <button type="submit">Choose Killers</button>
+            </form>
 
-        <section
-            id="results"
-            class="results is-hidden"
-            data-placeholder-template="Image unavailable for __KILLER__"
-        >
-            <p id="selection-title" class="selection-title">Killer is:</p>
-            <section id="selection-grid" class="grid"></section>
+            <p id="helper-text" class="helper">Enter a value from 1 to 43.</p>
+            <p id="killer-error" class="error is-hidden"></p>
+
+            <section
+                id="killer-results"
+                class="results is-hidden"
+                data-placeholder-template="Image unavailable for __NAME__"
+            >
+                <p id="killer-selection-title" class="selection-title">Killer is:</p>
+                <section id="killer-selection-grid" class="grid"></section>
+            </section>
+        </section>
+
+        <section class="randomizer-block">
+            <div class="section-heading">
+                <h2>Survivor Perk Loadout</h2>
+                <p>Generate 4 distinct survivor perks for your next escape attempt.</p>
+            </div>
+
+            <div class="control-panel control-panel--button-only">
+                <button id="survivor-perk-button" type="button">Choose Survivor Perks</button>
+            </div>
+
+            <p id="survivor-perk-error" class="error is-hidden"></p>
+
+            <section
+                id="survivor-perk-results"
+                class="results is-hidden"
+                data-placeholder-template="Image unavailable for __NAME__"
+            >
+                <p id="survivor-perk-title" class="selection-title">Survivor perks are:</p>
+                <section id="survivor-perk-grid" class="perk-grid"></section>
+            </section>
+        </section>
+
+        <section class="randomizer-block">
+            <div class="section-heading">
+                <h2>Killer Perk Loadout</h2>
+                <p>Generate 4 distinct killer perks for a fresh trial build.</p>
+            </div>
+
+            <div class="control-panel control-panel--button-only">
+                <button id="killer-perk-button" type="button">Choose Killer Perks</button>
+            </div>
+
+            <p id="killer-perk-error" class="error is-hidden"></p>
+
+            <section
+                id="killer-perk-results"
+                class="results is-hidden"
+                data-placeholder-template="Image unavailable for __NAME__"
+            >
+                <p id="killer-perk-title" class="selection-title">Killer perks are:</p>
+                <section id="killer-perk-grid" class="perk-grid"></section>
+            </section>
         </section>
     </main>
 </body>

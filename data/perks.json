@@ -3,1981 +3,1981 @@
     "id": "aNursesCalling",
     "name": "A Nurses Calling",
     "type": "killer",
-    "image": "perks/killer/aNursesCalling.png",
+    "image": "assets/images/perks/killer/aNursesCalling.png",
     "description": ""
   },
   {
     "id": "aceInTheHole",
     "name": "Ace In The Hole",
     "type": "survivor",
-    "image": "perks/survivor/aceInTheHole.png",
+    "image": "assets/images/perks/survivor/aceInTheHole.png",
     "description": ""
   },
   {
     "id": "adrenaline",
     "name": "Adrenaline",
     "type": "survivor",
-    "image": "perks/survivor/adrenaline.png",
+    "image": "assets/images/perks/survivor/adrenaline.png",
     "description": ""
   },
   {
     "id": "aftercare",
     "name": "Aftercare",
     "type": "survivor",
-    "image": "perks/survivor/aftercare.png",
+    "image": "assets/images/perks/survivor/aftercare.png",
     "description": ""
   },
   {
     "id": "agitation",
     "name": "Agitation",
     "type": "killer",
-    "image": "perks/killer/agitation.png",
+    "image": "assets/images/perks/killer/agitation.png",
     "description": ""
   },
   {
     "id": "alert",
     "name": "Alert",
     "type": "survivor",
-    "image": "perks/survivor/alert.png",
+    "image": "assets/images/perks/survivor/alert.png",
     "description": ""
   },
   {
     "id": "alienInstinct",
     "name": "Alien Instinct",
     "type": "killer",
-    "image": "perks/killer/alienInstinct.png",
+    "image": "assets/images/perks/killer/alienInstinct.png",
     "description": ""
   },
   {
     "id": "allShakingThunder",
     "name": "All Shaking Thunder",
     "type": "killer",
-    "image": "perks/killer/allShakingThunder.png",
+    "image": "assets/images/perks/killer/allShakingThunder.png",
     "description": ""
   },
   {
     "id": "anyMeansNecessary",
     "name": "Any Means Necessary",
     "type": "survivor",
-    "image": "perks/survivor/anyMeansNecessary.png",
+    "image": "assets/images/perks/survivor/anyMeansNecessary.png",
     "description": ""
   },
   {
     "id": "appraisal",
     "name": "Appraisal",
     "type": "survivor",
-    "image": "perks/survivor/appraisal.png",
+    "image": "assets/images/perks/survivor/appraisal.png",
     "description": ""
   },
   {
     "id": "autodidact",
     "name": "Autodidact",
     "type": "survivor",
-    "image": "perks/survivor/autodidact.png",
+    "image": "assets/images/perks/survivor/autodidact.png",
     "description": ""
   },
   {
     "id": "awakenedAwareness",
     "name": "Awakened Awareness",
     "type": "killer",
-    "image": "perks/killer/awakenedAwareness.png",
+    "image": "assets/images/perks/killer/awakenedAwareness.png",
     "description": ""
   },
   {
     "id": "babysitter",
     "name": "Babysitter",
     "type": "survivor",
-    "image": "perks/survivor/babysitter.png",
+    "image": "assets/images/perks/survivor/babysitter.png",
     "description": ""
   },
   {
     "id": "backgroundPlayer",
     "name": "Background Player",
     "type": "survivor",
-    "image": "perks/survivor/backgroundPlayer.png",
+    "image": "assets/images/perks/survivor/backgroundPlayer.png",
     "description": ""
   },
   {
     "id": "balancedLanding",
     "name": "Balanced Landing",
     "type": "survivor",
-    "image": "perks/survivor/balancedLanding.png",
+    "image": "assets/images/perks/survivor/balancedLanding.png",
     "description": ""
   },
   {
     "id": "bamboozle",
     "name": "Bamboozle",
     "type": "killer",
-    "image": "perks/killer/bamboozle.png",
+    "image": "assets/images/perks/killer/bamboozle.png",
     "description": ""
   },
   {
     "id": "barbecueAndChilli",
     "name": "Barbecue And Chilli",
     "type": "killer",
-    "image": "perks/killer/barbecueAndChilli.png",
+    "image": "assets/images/perks/killer/barbecueAndChilli.png",
     "description": ""
   },
   {
     "id": "bardicInspiration",
     "name": "Bardic Inspiration",
     "type": "survivor",
-    "image": "perks/survivor/bardicInspiration.png",
+    "image": "assets/images/perks/survivor/bardicInspiration.png",
     "description": ""
   },
   {
     "id": "batteriesIncluded",
     "name": "Batteries Included",
     "type": "killer",
-    "image": "perks/killer/batteriesIncluded.png",
+    "image": "assets/images/perks/killer/batteriesIncluded.png",
     "description": ""
   },
   {
     "id": "beastOfPrey",
     "name": "Beast Of Prey",
     "type": "killer",
-    "image": "perks/killer/beastOfPrey.png",
+    "image": "assets/images/perks/killer/beastOfPrey.png",
     "description": ""
   },
   {
     "id": "betterThanNew",
     "name": "Better Than New",
     "type": "survivor",
-    "image": "perks/survivor/betterThanNew.png",
+    "image": "assets/images/perks/survivor/betterThanNew.png",
     "description": ""
   },
   {
     "id": "betterTogether",
     "name": "Better Together",
     "type": "survivor",
-    "image": "perks/survivor/betterTogether.png",
+    "image": "assets/images/perks/survivor/betterTogether.png",
     "description": ""
   },
   {
     "id": "biteTheBullet",
     "name": "Bite The Bullet",
     "type": "survivor",
-    "image": "perks/survivor/biteTheBullet.png",
+    "image": "assets/images/perks/survivor/biteTheBullet.png",
     "description": ""
   },
   {
     "id": "bitterMurmur",
     "name": "Bitter Murmur",
     "type": "killer",
-    "image": "perks/killer/bitterMurmur.png",
+    "image": "assets/images/perks/killer/bitterMurmur.png",
     "description": ""
   },
   {
     "id": "blastMine",
     "name": "Blast Mine",
     "type": "survivor",
-    "image": "perks/survivor/blastMine.png",
+    "image": "assets/images/perks/survivor/blastMine.png",
     "description": ""
   },
   {
     "id": "bloodEcho",
     "name": "Blood Echo",
     "type": "killer",
-    "image": "perks/killer/bloodEcho.png",
+    "image": "assets/images/perks/killer/bloodEcho.png",
     "description": ""
   },
   {
     "id": "bloodPact",
     "name": "Blood Pact",
     "type": "survivor",
-    "image": "perks/survivor/bloodPact.png",
+    "image": "assets/images/perks/survivor/bloodPact.png",
     "description": ""
   },
   {
     "id": "bloodRush",
     "name": "Blood Rush",
     "type": "survivor",
-    "image": "perks/survivor/bloodRush.png",
+    "image": "assets/images/perks/survivor/bloodRush.png",
     "description": ""
   },
   {
     "id": "bloodWarden",
     "name": "Blood Warden",
     "type": "killer",
-    "image": "perks/killer/bloodWarden.png",
+    "image": "assets/images/perks/killer/bloodWarden.png",
     "description": ""
   },
   {
     "id": "bloodhound",
     "name": "Bloodhound",
     "type": "killer",
-    "image": "perks/killer/bloodhound.png",
+    "image": "assets/images/perks/killer/bloodhound.png",
     "description": ""
   },
   {
     "id": "boilOver",
     "name": "Boil Over",
     "type": "survivor",
-    "image": "perks/survivor/boilOver.png",
+    "image": "assets/images/perks/survivor/boilOver.png",
     "description": ""
   },
   {
     "id": "bond",
     "name": "Bond",
     "type": "survivor",
-    "image": "perks/survivor/bond.png",
+    "image": "assets/images/perks/survivor/bond.png",
     "description": ""
   },
   {
     "id": "boonCircleOfHealing",
     "name": "Boon Circle Of Healing",
     "type": "survivor",
-    "image": "perks/survivor/boonCircleOfHealing.png",
+    "image": "assets/images/perks/survivor/boonCircleOfHealing.png",
     "description": ""
   },
   {
     "id": "boonDarkTheory",
     "name": "Boon Dark Theory",
     "type": "survivor",
-    "image": "perks/survivor/boonDarkTheory.png",
+    "image": "assets/images/perks/survivor/boonDarkTheory.png",
     "description": ""
   },
   {
     "id": "boonExponential",
     "name": "Boon Exponential",
     "type": "survivor",
-    "image": "perks/survivor/boonExponential.png",
+    "image": "assets/images/perks/survivor/boonExponential.png",
     "description": ""
   },
   {
     "id": "boonIllumination",
     "name": "Boon Illumination",
     "type": "survivor",
-    "image": "perks/survivor/boonIllumination.png",
+    "image": "assets/images/perks/survivor/boonIllumination.png",
     "description": ""
   },
   {
     "id": "boonShadowStep",
     "name": "Boon Shadow Step",
     "type": "survivor",
-    "image": "perks/survivor/boonShadowStep.png",
+    "image": "assets/images/perks/survivor/boonShadowStep.png",
     "description": ""
   },
   {
     "id": "borrowedTime",
     "name": "Borrowed Time",
     "type": "survivor",
-    "image": "perks/survivor/borrowedTime.png",
+    "image": "assets/images/perks/survivor/borrowedTime.png",
     "description": ""
   },
   {
     "id": "botanyKnowledge",
     "name": "Botany Knowledge",
     "type": "survivor",
-    "image": "perks/survivor/botanyKnowledge.png",
+    "image": "assets/images/perks/survivor/botanyKnowledge.png",
     "description": ""
   },
   {
     "id": "breakdown",
     "name": "Breakdown",
     "type": "survivor",
-    "image": "perks/survivor/breakdown.png",
+    "image": "assets/images/perks/survivor/breakdown.png",
     "description": ""
   },
   {
     "id": "breakout",
     "name": "Breakout",
     "type": "survivor",
-    "image": "perks/survivor/breakout.png",
+    "image": "assets/images/perks/survivor/breakout.png",
     "description": ""
   },
   {
     "id": "brutalStrength",
     "name": "Brutal Strength",
     "type": "killer",
-    "image": "perks/killer/brutalStrength.png",
+    "image": "assets/images/perks/killer/brutalStrength.png",
     "description": ""
   },
   {
     "id": "buckleUp",
     "name": "Buckle Up",
     "type": "survivor",
-    "image": "perks/survivor/buckleUp.png",
+    "image": "assets/images/perks/survivor/buckleUp.png",
     "description": ""
   },
   {
     "id": "builtToLast",
     "name": "Built To Last",
     "type": "survivor",
-    "image": "perks/survivor/builtToLast.png",
+    "image": "assets/images/perks/survivor/builtToLast.png",
     "description": ""
   },
   {
     "id": "callOfBrine",
     "name": "Call Of Brine",
     "type": "killer",
-    "image": "perks/killer/callOfBrine.png",
+    "image": "assets/images/perks/killer/callOfBrine.png",
     "description": ""
   },
   {
     "id": "calmSpirit",
     "name": "Calm Spirit",
     "type": "survivor",
-    "image": "perks/survivor/calmSpirit.png",
+    "image": "assets/images/perks/survivor/calmSpirit.png",
     "description": ""
   },
   {
     "id": "camaraderie",
     "name": "Camaraderie",
     "type": "survivor",
-    "image": "perks/survivor/camaraderie.png",
+    "image": "assets/images/perks/survivor/camaraderie.png",
     "description": ""
   },
   {
     "id": "championOfLight",
     "name": "Champion Of Light",
     "type": "survivor",
-    "image": "perks/survivor/championOfLight.png",
+    "image": "assets/images/perks/survivor/championOfLight.png",
     "description": ""
   },
   {
     "id": "chemicalTrap",
     "name": "Chemical Trap",
     "type": "survivor",
-    "image": "perks/survivor/chemicalTrap.png",
+    "image": "assets/images/perks/survivor/chemicalTrap.png",
     "description": ""
   },
   {
     "id": "clairvoyance",
     "name": "Clairvoyance",
     "type": "survivor",
-    "image": "perks/survivor/clairvoyance.png",
+    "image": "assets/images/perks/survivor/clairvoyance.png",
     "description": ""
   },
   {
     "id": "cleanBreak",
     "name": "Clean Break",
     "type": "survivor",
-    "image": "perks/survivor/cleanBreak.png",
+    "image": "assets/images/perks/survivor/cleanBreak.png",
     "description": ""
   },
   {
     "id": "correctiveAction",
     "name": "Corrective Action",
     "type": "survivor",
-    "image": "perks/survivor/correctiveAction.png",
+    "image": "assets/images/perks/survivor/correctiveAction.png",
     "description": ""
   },
   {
     "id": "corruptIntervention",
     "name": "Corrupt Intervention",
     "type": "killer",
-    "image": "perks/killer/corruptIntervention.png",
+    "image": "assets/images/perks/killer/corruptIntervention.png",
     "description": ""
   },
   {
     "id": "coulrophobia",
     "name": "Coulrophobia",
     "type": "killer",
-    "image": "perks/killer/coulrophobia.png",
+    "image": "assets/images/perks/killer/coulrophobia.png",
     "description": ""
   },
   {
     "id": "counterforce",
     "name": "Counterforce",
     "type": "survivor",
-    "image": "perks/survivor/counterforce.png",
+    "image": "assets/images/perks/survivor/counterforce.png",
     "description": ""
   },
   {
     "id": "coupDeGrace",
     "name": "Coup De Grace",
     "type": "killer",
-    "image": "perks/killer/coupDeGrace.png",
+    "image": "assets/images/perks/killer/coupDeGrace.png",
     "description": ""
   },
   {
     "id": "cruelLimits",
     "name": "Cruel Limits",
     "type": "killer",
-    "image": "perks/killer/cruelLimits.png",
+    "image": "assets/images/perks/killer/cruelLimits.png",
     "description": ""
   },
   {
     "id": "cutLoose",
     "name": "Cut Loose",
     "type": "survivor",
-    "image": "perks/survivor/cutLoose.png",
+    "image": "assets/images/perks/survivor/cutLoose.png",
     "description": ""
   },
   {
     "id": "danceWithMe",
     "name": "Dance With Me",
     "type": "survivor",
-    "image": "perks/survivor/danceWithMe.png",
+    "image": "assets/images/perks/survivor/danceWithMe.png",
     "description": ""
   },
   {
     "id": "darkArrogance",
     "name": "Dark Arrogance",
     "type": "killer",
-    "image": "perks/killer/darkArrogance.png",
+    "image": "assets/images/perks/killer/darkArrogance.png",
     "description": ""
   },
   {
     "id": "darkDevotion",
     "name": "Dark Devotion",
     "type": "killer",
-    "image": "perks/killer/darkDevotion.png",
+    "image": "assets/images/perks/killer/darkDevotion.png",
     "description": ""
   },
   {
     "id": "darkSense",
     "name": "Dark Sense",
     "type": "survivor",
-    "image": "perks/survivor/darkSense.png",
+    "image": "assets/images/perks/survivor/darkSense.png",
     "description": ""
   },
   {
     "id": "darknessRevealed",
     "name": "Darkness Revealed",
     "type": "killer",
-    "image": "perks/killer/darknessRevealed.png",
+    "image": "assets/images/perks/killer/darknessRevealed.png",
     "description": ""
   },
   {
     "id": "deadHard",
     "name": "Dead Hard",
     "type": "survivor",
-    "image": "perks/survivor/deadHard.png",
+    "image": "assets/images/perks/survivor/deadHard.png",
     "description": ""
   },
   {
     "id": "deadMansSwitch",
     "name": "Dead Mans Switch",
     "type": "killer",
-    "image": "perks/killer/deadMansSwitch.png",
+    "image": "assets/images/perks/killer/deadMansSwitch.png",
     "description": ""
   },
   {
     "id": "deadline",
     "name": "Deadline",
     "type": "survivor",
-    "image": "perks/survivor/deadline.png",
+    "image": "assets/images/perks/survivor/deadline.png",
     "description": ""
   },
   {
     "id": "deathbound",
     "name": "Deathbound",
     "type": "killer",
-    "image": "perks/killer/deathbound.png",
+    "image": "assets/images/perks/killer/deathbound.png",
     "description": ""
   },
   {
     "id": "deception",
     "name": "Deception",
     "type": "survivor",
-    "image": "perks/survivor/deception.png",
+    "image": "assets/images/perks/survivor/deception.png",
     "description": ""
   },
   {
     "id": "decisiveStrike",
     "name": "Decisive Strike",
     "type": "survivor",
-    "image": "perks/survivor/decisiveStrike.png",
+    "image": "assets/images/perks/survivor/decisiveStrike.png",
     "description": ""
   },
   {
     "id": "deerstalker",
     "name": "Deerstalker",
     "type": "killer",
-    "image": "perks/killer/deerstalker.png",
+    "image": "assets/images/perks/killer/deerstalker.png",
     "description": ""
   },
   {
     "id": "dejaVu",
     "name": "Deja Vu",
     "type": "survivor",
-    "image": "perks/survivor/dejaVu.png",
+    "image": "assets/images/perks/survivor/dejaVu.png",
     "description": ""
   },
   {
     "id": "deliverance",
     "name": "Deliverance",
     "type": "survivor",
-    "image": "perks/survivor/deliverance.png",
+    "image": "assets/images/perks/survivor/deliverance.png",
     "description": ""
   },
   {
     "id": "desperateMeasures",
     "name": "Desperate Measures",
     "type": "survivor",
-    "image": "perks/survivor/desperateMeasures.png",
+    "image": "assets/images/perks/survivor/desperateMeasures.png",
     "description": ""
   },
   {
     "id": "detectivesHunch",
     "name": "Detectives Hunch",
     "type": "survivor",
-    "image": "perks/survivor/detectivesHunch.png",
+    "image": "assets/images/perks/survivor/detectivesHunch.png",
     "description": ""
   },
   {
     "id": "discordance",
     "name": "Discordance",
     "type": "killer",
-    "image": "perks/killer/discordance.png",
+    "image": "assets/images/perks/killer/discordance.png",
     "description": ""
   },
   {
     "id": "dissolution",
     "name": "Dissolution",
     "type": "killer",
-    "image": "perks/killer/dissolution.png",
+    "image": "assets/images/perks/killer/dissolution.png",
     "description": ""
   },
   {
     "id": "distortion",
     "name": "Distortion",
     "type": "survivor",
-    "image": "perks/survivor/distortion.png",
+    "image": "assets/images/perks/survivor/distortion.png",
     "description": ""
   },
   {
     "id": "distressing",
     "name": "Distressing",
     "type": "killer",
-    "image": "perks/killer/distressing.png",
+    "image": "assets/images/perks/killer/distressing.png",
     "description": ""
   },
   {
     "id": "diversion",
     "name": "Diversion",
     "type": "survivor",
-    "image": "perks/survivor/diversion.png",
+    "image": "assets/images/perks/survivor/diversion.png",
     "description": ""
   },
   {
     "id": "dominance",
     "name": "Dominance",
     "type": "killer",
-    "image": "perks/killer/dominance.png",
+    "image": "assets/images/perks/killer/dominance.png",
     "description": ""
   },
   {
     "id": "dragonsGrip",
     "name": "Dragons Grip",
     "type": "killer",
-    "image": "perks/killer/dragonsGrip.png",
+    "image": "assets/images/perks/killer/dragonsGrip.png",
     "description": ""
   },
   {
     "id": "dramaturgy",
     "name": "Dramaturgy",
     "type": "survivor",
-    "image": "perks/survivor/dramaturgy.png",
+    "image": "assets/images/perks/survivor/dramaturgy.png",
     "description": ""
   },
   {
     "id": "dyingLight",
     "name": "Dying Light",
     "type": "killer",
-    "image": "perks/killer/dyingLight.png",
+    "image": "assets/images/perks/killer/dyingLight.png",
     "description": ""
   },
   {
     "id": "empathicConnection",
     "name": "Empathic Connection",
     "type": "survivor",
-    "image": "perks/survivor/empathicConnection.png",
+    "image": "assets/images/perks/survivor/empathicConnection.png",
     "description": ""
   },
   {
     "id": "empathy",
     "name": "Empathy",
     "type": "survivor",
-    "image": "perks/survivor/empathy.png",
+    "image": "assets/images/perks/survivor/empathy.png",
     "description": ""
   },
   {
     "id": "enduring",
     "name": "Enduring",
     "type": "killer",
-    "image": "perks/killer/enduring.png",
+    "image": "assets/images/perks/killer/enduring.png",
     "description": ""
   },
   {
     "id": "eruption",
     "name": "Eruption",
     "type": "killer",
-    "image": "perks/killer/eruption.png",
+    "image": "assets/images/perks/killer/eruption.png",
     "description": ""
   },
   {
     "id": "Exultation",
     "name": "Exultation",
     "type": "survivor",
-    "image": "perks/survivor/Exultation.png",
+    "image": "assets/images/perks/survivor/Exultation.png",
     "description": ""
   },
   {
     "id": "EyesOfBelmont",
     "name": "Eyes Of Belmont",
     "type": "survivor",
-    "image": "perks/survivor/EyesOfBelmont.png",
+    "image": "assets/images/perks/survivor/EyesOfBelmont.png",
     "description": ""
   },
   {
     "id": "fastTrack",
     "name": "Fast Track",
     "type": "survivor",
-    "image": "perks/survivor/fastTrack.png",
+    "image": "assets/images/perks/survivor/fastTrack.png",
     "description": ""
   },
   {
     "id": "finesse",
     "name": "Finesse",
     "type": "survivor",
-    "image": "perks/survivor/finesse.png",
+    "image": "assets/images/perks/survivor/finesse.png",
     "description": ""
   },
   {
     "id": "fireUp",
     "name": "Fire Up",
     "type": "killer",
-    "image": "perks/killer/fireUp.png",
+    "image": "assets/images/perks/killer/fireUp.png",
     "description": ""
   },
   {
     "id": "fixated",
     "name": "Fixated",
     "type": "survivor",
-    "image": "perks/survivor/fixated.png",
+    "image": "assets/images/perks/survivor/fixated.png",
     "description": ""
   },
   {
     "id": "flashbang",
     "name": "Flashbang",
     "type": "survivor",
-    "image": "perks/survivor/flashbang.png",
+    "image": "assets/images/perks/survivor/flashbang.png",
     "description": ""
   },
   {
     "id": "flip-Flop",
     "name": "Flip- Flop",
     "type": "survivor",
-    "image": "perks/survivor/flip-Flop.png",
+    "image": "assets/images/perks/survivor/flip-Flop.png",
     "description": ""
   },
   {
     "id": "fogwise",
     "name": "Fogwise",
     "type": "survivor",
-    "image": "perks/survivor/fogwise.png",
+    "image": "assets/images/perks/survivor/fogwise.png",
     "description": ""
   },
   {
     "id": "forThePeople",
     "name": "For The People",
     "type": "survivor",
-    "image": "perks/survivor/forThePeople.png",
+    "image": "assets/images/perks/survivor/forThePeople.png",
     "description": ""
   },
   {
     "id": "forcedHesitation",
     "name": "Forced Hesitation",
     "type": "killer",
-    "image": "perks/killer/forcedHesitation.png",
+    "image": "assets/images/perks/killer/forcedHesitation.png",
     "description": ""
   },
   {
     "id": "forcedPenance",
     "name": "Forced Penance",
     "type": "killer",
-    "image": "perks/killer/forcedPenance.png",
+    "image": "assets/images/perks/killer/forcedPenance.png",
     "description": ""
   },
   {
     "id": "foreverEntwined",
     "name": "Forever Entwined",
     "type": "killer",
-    "image": "perks/killer/foreverEntwined.png",
+    "image": "assets/images/perks/killer/foreverEntwined.png",
     "description": ""
   },
   {
     "id": "franklinsDemise",
     "name": "Franklins Demise",
     "type": "killer",
-    "image": "perks/killer/franklinsDemise.png",
+    "image": "assets/images/perks/killer/franklinsDemise.png",
     "description": ""
   },
   {
     "id": "friendlyCompetition",
     "name": "Friendly Competition",
     "type": "survivor",
-    "image": "perks/survivor/friendlyCompetition.png",
+    "image": "assets/images/perks/survivor/friendlyCompetition.png",
     "description": ""
   },
   {
     "id": "friendsTilTheEnd",
     "name": "Friends Til The End",
     "type": "killer",
-    "image": "perks/killer/friendsTilTheEnd.png",
+    "image": "assets/images/perks/killer/friendsTilTheEnd.png",
     "description": ""
   },
   {
     "id": "furtiveChase",
     "name": "Furtive Chase",
     "type": "killer",
-    "image": "perks/killer/furtiveChase.png",
+    "image": "assets/images/perks/killer/furtiveChase.png",
     "description": ""
   },
   {
     "id": "gameAfoot",
     "name": "Game Afoot",
     "type": "killer",
-    "image": "perks/killer/gameAfoot.png",
+    "image": "assets/images/perks/killer/gameAfoot.png",
     "description": ""
   },
   {
     "id": "gearhead",
     "name": "Gearhead",
     "type": "killer",
-    "image": "perks/killer/gearhead.png",
+    "image": "assets/images/perks/killer/gearhead.png",
     "description": ""
   },
   {
     "id": "geneticLimits",
     "name": "Genetic Limits",
     "type": "killer",
-    "image": "perks/killer/geneticLimits.png",
+    "image": "assets/images/perks/killer/geneticLimits.png",
     "description": ""
   },
   {
     "id": "grimEmbrace",
     "name": "Grim Embrace",
     "type": "killer",
-    "image": "perks/killer/grimEmbrace.png",
+    "image": "assets/images/perks/killer/grimEmbrace.png",
     "description": ""
   },
   {
     "id": "guardian",
     "name": "Guardian",
     "type": "survivor",
-    "image": "perks/survivor/guardian.png",
+    "image": "assets/images/perks/survivor/guardian.png",
     "description": ""
   },
   {
     "id": "hardened",
     "name": "Hardened",
     "type": "survivor",
-    "image": "perks/survivor/hardened.png",
+    "image": "assets/images/perks/survivor/hardened.png",
     "description": ""
   },
   {
     "id": "haywire",
     "name": "Haywire",
     "type": "killer",
-    "image": "perks/killer/haywire.png",
+    "image": "assets/images/perks/killer/haywire.png",
     "description": ""
   },
   {
     "id": "headOn",
     "name": "Head On",
     "type": "survivor",
-    "image": "perks/survivor/headOn.png",
+    "image": "assets/images/perks/survivor/headOn.png",
     "description": ""
   },
   {
     "id": "helpWanted",
     "name": "Help Wanted",
     "type": "killer",
-    "image": "perks/killer/helpWanted.png",
+    "image": "assets/images/perks/killer/helpWanted.png",
     "description": ""
   },
   {
     "id": "hexBloodFavour",
     "name": "Hex Blood Favour",
     "type": "killer",
-    "image": "perks/killer/hexBloodFavour.png",
+    "image": "assets/images/perks/killer/hexBloodFavour.png",
     "description": ""
   },
   {
     "id": "hexCrowdControl",
     "name": "Hex Crowd Control",
     "type": "killer",
-    "image": "perks/killer/hexCrowdControl.png",
+    "image": "assets/images/perks/killer/hexCrowdControl.png",
     "description": ""
   },
   {
     "id": "hexDevourHope",
     "name": "Hex Devour Hope",
     "type": "killer",
-    "image": "perks/killer/hexDevourHope.png",
+    "image": "assets/images/perks/killer/hexDevourHope.png",
     "description": ""
   },
   {
     "id": "hexFaceTheDarkness",
     "name": "Hex Face The Darkness",
     "type": "killer",
-    "image": "perks/killer/hexFaceTheDarkness.png",
+    "image": "assets/images/perks/killer/hexFaceTheDarkness.png",
     "description": ""
   },
   {
     "id": "hexHauntedGround",
     "name": "Hex Haunted Ground",
     "type": "killer",
-    "image": "perks/killer/hexHauntedGround.png",
+    "image": "assets/images/perks/killer/hexHauntedGround.png",
     "description": ""
   },
   {
     "id": "hexHuntressLullaby",
     "name": "Hex Huntress Lullaby",
     "type": "killer",
-    "image": "perks/killer/hexHuntressLullaby.png",
+    "image": "assets/images/perks/killer/hexHuntressLullaby.png",
     "description": ""
   },
   {
     "id": "hexNoOneEscapesDeath",
     "name": "Hex No One Escapes Death",
     "type": "killer",
-    "image": "perks/killer/hexNoOneEscapesDeath.png",
+    "image": "assets/images/perks/killer/hexNoOneEscapesDeath.png",
     "description": ""
   },
   {
     "id": "hexNothingButMisery",
     "name": "Hex Nothing But Misery",
     "type": "killer",
-    "image": "perks/killer/hexNothingButMisery.png",
+    "image": "assets/images/perks/killer/hexNothingButMisery.png",
     "description": ""
   },
   {
     "id": "hexPentimento",
     "name": "Hex Pentimento",
     "type": "killer",
-    "image": "perks/killer/hexPentimento.png",
+    "image": "assets/images/perks/killer/hexPentimento.png",
     "description": ""
   },
   {
     "id": "hexRetribution",
     "name": "Hex Retribution",
     "type": "killer",
-    "image": "perks/killer/hexRetribution.png",
+    "image": "assets/images/perks/killer/hexRetribution.png",
     "description": ""
   },
   {
     "id": "hexRuin",
     "name": "Hex Ruin",
     "type": "killer",
-    "image": "perks/killer/hexRuin.png",
+    "image": "assets/images/perks/killer/hexRuin.png",
     "description": ""
   },
   {
     "id": "hexTheThirdSeal",
     "name": "Hex The Third Seal",
     "type": "killer",
-    "image": "perks/killer/hexTheThirdSeal.png",
+    "image": "assets/images/perks/killer/hexTheThirdSeal.png",
     "description": ""
   },
   {
     "id": "hexThrillOfTheHunt",
     "name": "Hex Thrill Of The Hunt",
     "type": "killer",
-    "image": "perks/killer/hexThrillOfTheHunt.png",
+    "image": "assets/images/perks/killer/hexThrillOfTheHunt.png",
     "description": ""
   },
   {
     "id": "hexTwoCanPlay",
     "name": "Hex Two Can Play",
     "type": "killer",
-    "image": "perks/killer/hexTwoCanPlay.png",
+    "image": "assets/images/perks/killer/hexTwoCanPlay.png",
     "description": ""
   },
   {
     "id": "hexUndying",
     "name": "Hex Undying",
     "type": "killer",
-    "image": "perks/killer/hexUndying.png",
+    "image": "assets/images/perks/killer/hexUndying.png",
     "description": ""
   },
   {
     "id": "hexWretchedFate",
     "name": "Hex Wretched Fate",
     "type": "killer",
-    "image": "perks/killer/hexWretchedFate.png",
+    "image": "assets/images/perks/killer/hexWretchedFate.png",
     "description": ""
   },
   {
     "id": "hoarder",
     "name": "Hoarder",
     "type": "killer",
-    "image": "perks/killer/hoarder.png",
+    "image": "assets/images/perks/killer/hoarder.png",
     "description": ""
   },
   {
     "id": "hope",
     "name": "Hope",
     "type": "survivor",
-    "image": "perks/survivor/hope.png",
+    "image": "assets/images/perks/survivor/hope.png",
     "description": ""
   },
   {
     "id": "hubris",
     "name": "Hubris",
     "type": "killer",
-    "image": "perks/killer/hubris.png",
+    "image": "assets/images/perks/killer/hubris.png",
     "description": ""
   },
   {
     "id": "humanGreed",
     "name": "Human Greed",
     "type": "killer",
-    "image": "perks/killer/humanGreed.png",
+    "image": "assets/images/perks/killer/humanGreed.png",
     "description": ""
   },
   {
     "id": "hyperfocus",
     "name": "Hyperfocus",
     "type": "survivor",
-    "image": "perks/survivor/hyperfocus.png",
+    "image": "assets/images/perks/survivor/hyperfocus.png",
     "description": ""
   },
   {
     "id": "hysteria",
     "name": "Hysteria",
     "type": "killer",
-    "image": "perks/killer/hysteria.png",
+    "image": "assets/images/perks/killer/hysteria.png",
     "description": ""
   },
   {
     "id": "imAllEars",
     "name": "Im All Ears",
     "type": "killer",
-    "image": "perks/killer/imAllEars.png",
+    "image": "assets/images/perks/killer/imAllEars.png",
     "description": ""
   },
   {
     "id": "infectiousFright",
     "name": "Infectious Fright",
     "type": "killer",
-    "image": "perks/killer/infectiousFright.png",
+    "image": "assets/images/perks/killer/infectiousFright.png",
     "description": ""
   },
   {
     "id": "innerFocus",
     "name": "Inner Focus",
     "type": "survivor",
-    "image": "perks/survivor/innerFocus.png",
+    "image": "assets/images/perks/survivor/innerFocus.png",
     "description": ""
   },
   {
     "id": "innerHealing",
     "name": "Inner Healing",
     "type": "survivor",
-    "image": "perks/survivor/innerHealing.png",
+    "image": "assets/images/perks/survivor/innerHealing.png",
     "description": ""
   },
   {
     "id": "innerStrength",
     "name": "Inner Strength",
     "type": "survivor",
-    "image": "perks/survivor/innerStrength.png",
+    "image": "assets/images/perks/survivor/innerStrength.png",
     "description": ""
   },
   {
     "id": "insidious",
     "name": "Insidious",
     "type": "killer",
-    "image": "perks/killer/insidious.png",
+    "image": "assets/images/perks/killer/insidious.png",
     "description": ""
   },
   {
     "id": "invocationTreacherousCrows",
     "name": "Invocation Treacherous Crows",
     "type": "survivor",
-    "image": "perks/survivor/invocationTreacherousCrows.png",
+    "image": "assets/images/perks/survivor/invocationTreacherousCrows.png",
     "description": ""
   },
   {
     "id": "invocationWeavingSpiders",
     "name": "Invocation Weaving Spiders",
     "type": "survivor",
-    "image": "perks/survivor/invocationWeavingSpiders.png",
+    "image": "assets/images/perks/survivor/invocationWeavingSpiders.png",
     "description": ""
   },
   {
     "id": "ironGrasp",
     "name": "Iron Grasp",
     "type": "killer",
-    "image": "perks/killer/ironGrasp.png",
+    "image": "assets/images/perks/killer/ironGrasp.png",
     "description": ""
   },
   {
     "id": "ironMaiden",
     "name": "Iron Maiden",
     "type": "killer",
-    "image": "perks/killer/ironMaiden.png",
+    "image": "assets/images/perks/killer/ironMaiden.png",
     "description": ""
   },
   {
     "id": "ironWill",
     "name": "Iron Will",
     "type": "survivor",
-    "image": "perks/survivor/ironWill.png",
+    "image": "assets/images/perks/survivor/ironWill.png",
     "description": ""
   },
   {
     "id": "kindred",
     "name": "Kindred",
     "type": "survivor",
-    "image": "perks/survivor/kindred.png",
+    "image": "assets/images/perks/survivor/kindred.png",
     "description": ""
   },
   {
     "id": "knockOut",
     "name": "Knock Out",
     "type": "killer",
-    "image": "perks/killer/knockOut.png",
+    "image": "assets/images/perks/killer/knockOut.png",
     "description": ""
   },
   {
     "id": "languidTouch",
     "name": "Languid Touch",
     "type": "killer",
-    "image": "perks/killer/languidTouch.png",
+    "image": "assets/images/perks/killer/languidTouch.png",
     "description": ""
   },
   {
     "id": "leader",
     "name": "Leader",
     "type": "survivor",
-    "image": "perks/survivor/leader.png",
+    "image": "assets/images/perks/survivor/leader.png",
     "description": ""
   },
   {
     "id": "leftBehind",
     "name": "Left Behind",
     "type": "survivor",
-    "image": "perks/survivor/leftBehind.png",
+    "image": "assets/images/perks/survivor/leftBehind.png",
     "description": ""
   },
   {
     "id": "lethalPursuer",
     "name": "Lethal Pursuer",
     "type": "killer",
-    "image": "perks/killer/lethalPursuer.png",
+    "image": "assets/images/perks/killer/lethalPursuer.png",
     "description": ""
   },
   {
     "id": "leverage",
     "name": "Leverage",
     "type": "killer",
-    "image": "perks/killer/leverage.png",
+    "image": "assets/images/perks/killer/leverage.png",
     "description": ""
   },
   {
     "id": "light-Footed",
     "name": "Light- Footed",
     "type": "survivor",
-    "image": "perks/survivor/light-Footed.png",
+    "image": "assets/images/perks/survivor/light-Footed.png",
     "description": ""
   },
   {
     "id": "lightborn",
     "name": "Lightborn",
     "type": "killer",
-    "image": "perks/killer/lightborn.png",
+    "image": "assets/images/perks/killer/lightborn.png",
     "description": ""
   },
   {
     "id": "lightweight",
     "name": "Lightweight",
     "type": "survivor",
-    "image": "perks/survivor/lightweight.png",
+    "image": "assets/images/perks/survivor/lightweight.png",
     "description": ""
   },
   {
     "id": "lithe",
     "name": "Lithe",
     "type": "survivor",
-    "image": "perks/survivor/lithe.png",
+    "image": "assets/images/perks/survivor/lithe.png",
     "description": ""
   },
   {
     "id": "lowProfile",
     "name": "Low Profile",
     "type": "survivor",
-    "image": "perks/survivor/lowProfile.png",
+    "image": "assets/images/perks/survivor/lowProfile.png",
     "description": ""
   },
   {
     "id": "luckyBreak",
     "name": "Lucky Break",
     "type": "survivor",
-    "image": "perks/survivor/luckyBreak.png",
+    "image": "assets/images/perks/survivor/luckyBreak.png",
     "description": ""
   },
   {
     "id": "luckyStar",
     "name": "Lucky Star",
     "type": "survivor",
-    "image": "perks/survivor/luckyStar.png",
+    "image": "assets/images/perks/survivor/luckyStar.png",
     "description": ""
   },
   {
     "id": "machineLearning",
     "name": "Machine Learning",
     "type": "killer",
-    "image": "perks/killer/machineLearning.png",
+    "image": "assets/images/perks/killer/machineLearning.png",
     "description": ""
   },
   {
     "id": "madGrit",
     "name": "Mad Grit",
     "type": "killer",
-    "image": "perks/killer/madGrit.png",
+    "image": "assets/images/perks/killer/madGrit.png",
     "description": ""
   },
   {
     "id": "madeForThis",
     "name": "Made For This",
     "type": "survivor",
-    "image": "perks/survivor/madeForThis.png",
+    "image": "assets/images/perks/survivor/madeForThis.png",
     "description": ""
   },
   {
     "id": "makeYourChoice",
     "name": "Make Your Choice",
     "type": "killer",
-    "image": "perks/killer/makeYourChoice.png",
+    "image": "assets/images/perks/killer/makeYourChoice.png",
     "description": ""
   },
   {
     "id": "mercilessStorm",
     "name": "Merciless Storm",
     "type": "killer",
-    "image": "perks/killer/mercilessStorm.png",
+    "image": "assets/images/perks/killer/mercilessStorm.png",
     "description": ""
   },
   {
     "id": "mettleOfMan",
     "name": "Mettle Of Man",
     "type": "survivor",
-    "image": "perks/survivor/mettleOfMan.png",
+    "image": "assets/images/perks/survivor/mettleOfMan.png",
     "description": ""
   },
   {
     "id": "mindbreaker",
     "name": "Mindbreaker",
     "type": "killer",
-    "image": "perks/killer/mindbreaker.png",
+    "image": "assets/images/perks/killer/mindbreaker.png",
     "description": ""
   },
   {
     "id": "mirroredIllusion",
     "name": "Mirrored Illusion",
     "type": "survivor",
-    "image": "perks/survivor/mirroredIllusion.png",
+    "image": "assets/images/perks/survivor/mirroredIllusion.png",
     "description": ""
   },
   {
     "id": "MomentOfGlory",
     "name": "Moment Of Glory",
     "type": "survivor",
-    "image": "perks/survivor/MomentOfGlory.png",
+    "image": "assets/images/perks/survivor/MomentOfGlory.png",
     "description": ""
   },
   {
     "id": "monitorAndAbuse",
     "name": "Monitor And Abuse",
     "type": "killer",
-    "image": "perks/killer/monitorAndAbuse.png",
+    "image": "assets/images/perks/killer/monitorAndAbuse.png",
     "description": ""
   },
   {
     "id": "nemesis",
     "name": "Nemesis",
     "type": "killer",
-    "image": "perks/killer/nemesis.png",
+    "image": "assets/images/perks/killer/nemesis.png",
     "description": ""
   },
   {
     "id": "noMither",
     "name": "No Mither",
     "type": "survivor",
-    "image": "perks/survivor/noMither.png",
+    "image": "assets/images/perks/survivor/noMither.png",
     "description": ""
   },
   {
     "id": "noOneLeftBehind",
     "name": "No One Left Behind",
     "type": "survivor",
-    "image": "perks/survivor/noOneLeftBehind.png",
+    "image": "assets/images/perks/survivor/noOneLeftBehind.png",
     "description": ""
   },
   {
     "id": "noQuarter",
     "name": "No Quarter",
     "type": "killer",
-    "image": "perks/killer/noQuarter.png",
+    "image": "assets/images/perks/killer/noQuarter.png",
     "description": ""
   },
   {
     "id": "noWayOut",
     "name": "No Way Out",
     "type": "killer",
-    "image": "perks/killer/noWayOut.png",
+    "image": "assets/images/perks/killer/noWayOut.png",
     "description": ""
   },
   {
     "id": "noneAreFree",
     "name": "None Are Free",
     "type": "killer",
-    "image": "perks/killer/noneAreFree.png",
+    "image": "assets/images/perks/killer/noneAreFree.png",
     "description": ""
   },
   {
     "id": "nowhereToHide",
     "name": "Nowhere To Hide",
     "type": "killer",
-    "image": "perks/killer/nowhereToHide.png",
+    "image": "assets/images/perks/killer/nowhereToHide.png",
     "description": ""
   },
   {
     "id": "objectOfObsession",
     "name": "Object Of Obsession",
     "type": "survivor",
-    "image": "perks/survivor/objectOfObsession.png",
+    "image": "assets/images/perks/survivor/objectOfObsession.png",
     "description": ""
   },
   {
     "id": "offTheRecord",
     "name": "Off The Record",
     "type": "survivor",
-    "image": "perks/survivor/offTheRecord.png",
+    "image": "assets/images/perks/survivor/offTheRecord.png",
     "description": ""
   },
   {
     "id": "open-Handed",
     "name": "Open- Handed",
     "type": "survivor",
-    "image": "perks/survivor/open-Handed.png",
+    "image": "assets/images/perks/survivor/open-Handed.png",
     "description": ""
   },
   {
     "id": "oppression",
     "name": "Oppression",
     "type": "killer",
-    "image": "perks/killer/oppression.png",
+    "image": "assets/images/perks/killer/oppression.png",
     "description": ""
   },
   {
     "id": "overcharge",
     "name": "Overcharge",
     "type": "killer",
-    "image": "perks/killer/overcharge.png",
+    "image": "assets/images/perks/killer/overcharge.png",
     "description": ""
   },
   {
     "id": "overcome",
     "name": "Overcome",
     "type": "survivor",
-    "image": "perks/survivor/overcome.png",
+    "image": "assets/images/perks/survivor/overcome.png",
     "description": ""
   },
   {
     "id": "overwhelmingPresence",
     "name": "Overwhelming Presence",
     "type": "killer",
-    "image": "perks/killer/overwhelmingPresence.png",
+    "image": "assets/images/perks/killer/overwhelmingPresence.png",
     "description": ""
   },
   {
     "id": "overzealous",
     "name": "Overzealous",
     "type": "survivor",
-    "image": "perks/survivor/overzealous.png",
+    "image": "assets/images/perks/survivor/overzealous.png",
     "description": ""
   },
   {
     "id": "parentalGuidance",
     "name": "Parental Guidance",
     "type": "survivor",
-    "image": "perks/survivor/parentalGuidance.png",
+    "image": "assets/images/perks/survivor/parentalGuidance.png",
     "description": ""
   },
   {
     "id": "phantomFear",
     "name": "Phantom Fear",
     "type": "killer",
-    "image": "perks/killer/phantomFear.png",
+    "image": "assets/images/perks/killer/phantomFear.png",
     "description": ""
   },
   {
     "id": "pharmacy",
     "name": "Pharmacy",
     "type": "survivor",
-    "image": "perks/survivor/pharmacy.png",
+    "image": "assets/images/perks/survivor/pharmacy.png",
     "description": ""
   },
   {
     "id": "playWithYourFood",
     "name": "Play With Your Food",
     "type": "killer",
-    "image": "perks/killer/playWithYourFood.png",
+    "image": "assets/images/perks/killer/playWithYourFood.png",
     "description": ""
   },
   {
     "id": "plotTwist",
     "name": "Plot Twist",
     "type": "survivor",
-    "image": "perks/survivor/plotTwist.png",
+    "image": "assets/images/perks/survivor/plotTwist.png",
     "description": ""
   },
   {
     "id": "plunderersInstinct",
     "name": "Plunderers Instinct",
     "type": "survivor",
-    "image": "perks/survivor/plunderersInstinct.png",
+    "image": "assets/images/perks/survivor/plunderersInstinct.png",
     "description": ""
   },
   {
     "id": "poised",
     "name": "Poised",
     "type": "survivor",
-    "image": "perks/survivor/poised.png",
+    "image": "assets/images/perks/survivor/poised.png",
     "description": ""
   },
   {
     "id": "popGoesTheWeasel",
     "name": "Pop Goes The Weasel",
     "type": "killer",
-    "image": "perks/killer/popGoesTheWeasel.png",
+    "image": "assets/images/perks/killer/popGoesTheWeasel.png",
     "description": ""
   },
   {
     "id": "potentialEnergy",
     "name": "Potential Energy",
     "type": "survivor",
-    "image": "perks/survivor/potentialEnergy.png",
+    "image": "assets/images/perks/survivor/potentialEnergy.png",
     "description": ""
   },
   {
     "id": "powerStruggle",
     "name": "Power Struggle",
     "type": "survivor",
-    "image": "perks/survivor/powerStruggle.png",
+    "image": "assets/images/perks/survivor/powerStruggle.png",
     "description": ""
   },
   {
     "id": "predator",
     "name": "Predator",
     "type": "killer",
-    "image": "perks/killer/predator.png",
+    "image": "assets/images/perks/killer/predator.png",
     "description": ""
   },
   {
     "id": "premonition",
     "name": "Premonition",
     "type": "survivor",
-    "image": "perks/survivor/premonition.png",
+    "image": "assets/images/perks/survivor/premonition.png",
     "description": ""
   },
   {
     "id": "proveThyself",
     "name": "Prove Thyself",
     "type": "survivor",
-    "image": "perks/survivor/proveThyself.png",
+    "image": "assets/images/perks/survivor/proveThyself.png",
     "description": ""
   },
   {
     "id": "quickAndQuiet",
     "name": "Quick And Quiet",
     "type": "survivor",
-    "image": "perks/survivor/quickAndQuiet.png",
+    "image": "assets/images/perks/survivor/quickAndQuiet.png",
     "description": ""
   },
   {
     "id": "quickGambit",
     "name": "Quick Gambit",
     "type": "survivor",
-    "image": "perks/survivor/quickGambit.png",
+    "image": "assets/images/perks/survivor/quickGambit.png",
     "description": ""
   },
   {
     "id": "rancor",
     "name": "Rancor",
     "type": "killer",
-    "image": "perks/killer/rancor.png",
+    "image": "assets/images/perks/killer/rancor.png",
     "description": ""
   },
   {
     "id": "rapidBrutality",
     "name": "Rapid Brutality",
     "type": "killer",
-    "image": "perks/killer/rapidBrutality.png",
+    "image": "assets/images/perks/killer/rapidBrutality.png",
     "description": ""
   },
   {
     "id": "reactiveHealing",
     "name": "Reactive Healing",
     "type": "survivor",
-    "image": "perks/survivor/reactiveHealing.png",
+    "image": "assets/images/perks/survivor/reactiveHealing.png",
     "description": ""
   },
   {
     "id": "reassurance",
     "name": "Reassurance",
     "type": "survivor",
-    "image": "perks/survivor/reassurance.png",
+    "image": "assets/images/perks/survivor/reassurance.png",
     "description": ""
   },
   {
     "id": "redHerring",
     "name": "Red Herring",
     "type": "survivor",
-    "image": "perks/survivor/redHerring.png",
+    "image": "assets/images/perks/survivor/redHerring.png",
     "description": ""
   },
   {
     "id": "rememberMe",
     "name": "Remember Me",
     "type": "killer",
-    "image": "perks/killer/rememberMe.png",
+    "image": "assets/images/perks/killer/rememberMe.png",
     "description": ""
   },
   {
     "id": "renewal",
     "name": "Renewal",
     "type": "survivor",
-    "image": "perks/survivor/renewal.png",
+    "image": "assets/images/perks/survivor/renewal.png",
     "description": ""
   },
   {
     "id": "repressedAlliance",
     "name": "Repressed Alliance",
     "type": "survivor",
-    "image": "perks/survivor/repressedAlliance.png",
+    "image": "assets/images/perks/survivor/repressedAlliance.png",
     "description": ""
   },
   {
     "id": "residualManifest",
     "name": "Residual Manifest",
     "type": "survivor",
-    "image": "perks/survivor/residualManifest.png",
+    "image": "assets/images/perks/survivor/residualManifest.png",
     "description": ""
   },
   {
     "id": "resilience",
     "name": "Resilience",
     "type": "survivor",
-    "image": "perks/survivor/resilience.png",
+    "image": "assets/images/perks/survivor/resilience.png",
     "description": ""
   },
   {
     "id": "resurgence",
     "name": "Resurgence",
     "type": "survivor",
-    "image": "perks/survivor/resurgence.png",
+    "image": "assets/images/perks/survivor/resurgence.png",
     "description": ""
   },
   {
     "id": "rookieSpirit",
     "name": "Rookie Spirit",
     "type": "survivor",
-    "image": "perks/survivor/rookieSpirit.png",
+    "image": "assets/images/perks/survivor/rookieSpirit.png",
     "description": ""
   },
   {
     "id": "saboteur",
     "name": "Saboteur",
     "type": "survivor",
-    "image": "perks/survivor/saboteur.png",
+    "image": "assets/images/perks/survivor/saboteur.png",
     "description": ""
   },
   {
     "id": "saveTheBestForLast",
     "name": "Save The Best For Last",
     "type": "killer",
-    "image": "perks/killer/saveTheBestForLast.png",
+    "image": "assets/images/perks/killer/saveTheBestForLast.png",
     "description": ""
   },
   {
     "id": "scavenger",
     "name": "Scavenger",
     "type": "survivor",
-    "image": "perks/survivor/scavenger.png",
+    "image": "assets/images/perks/survivor/scavenger.png",
     "description": ""
   },
   {
     "id": "scenePartner",
     "name": "Scene Partner",
     "type": "survivor",
-    "image": "perks/survivor/scenePartner.png",
+    "image": "assets/images/perks/survivor/scenePartner.png",
     "description": ""
   },
   {
     "id": "scourgeHookFloodsOfRage",
     "name": "Scourge Hook Floods Of Rage",
     "type": "killer",
-    "image": "perks/killer/scourgeHookFloodsOfRage.png",
+    "image": "assets/images/perks/killer/scourgeHookFloodsOfRage.png",
     "description": ""
   },
   {
     "id": "scourgeHookHangmansTrick",
     "name": "Scourge Hook Hangmans Trick",
     "type": "killer",
-    "image": "perks/killer/scourgeHookHangmansTrick.png",
+    "image": "assets/images/perks/killer/scourgeHookHangmansTrick.png",
     "description": ""
   },
   {
     "id": "scourgeHookJaggedCompass",
     "name": "Scourge Hook Jagged Compass",
     "type": "killer",
-    "image": "perks/killer/scourgeHookJaggedCompass.png",
+    "image": "assets/images/perks/killer/scourgeHookJaggedCompass.png",
     "description": ""
   },
   {
     "id": "scourgeHookMonstrousShrine",
     "name": "Scourge Hook Monstrous Shrine",
     "type": "killer",
-    "image": "perks/killer/scourgeHookMonstrousShrine.png",
+    "image": "assets/images/perks/killer/scourgeHookMonstrousShrine.png",
     "description": ""
   },
   {
     "id": "scourgeHookPainResonance",
     "name": "Scourge Hook Pain Resonance",
     "type": "killer",
-    "image": "perks/killer/scourgeHookPainResonance.png",
+    "image": "assets/images/perks/killer/scourgeHookPainResonance.png",
     "description": ""
   },
   {
     "id": "secondWind",
     "name": "Second Wind",
     "type": "survivor",
-    "image": "perks/survivor/secondWind.png",
+    "image": "assets/images/perks/survivor/secondWind.png",
     "description": ""
   },
   {
     "id": "self-Care",
     "name": "Self- Care",
     "type": "survivor",
-    "image": "perks/survivor/self-Care.png",
+    "image": "assets/images/perks/survivor/self-Care.png",
     "description": ""
   },
   {
     "id": "self-Preservation",
     "name": "Self- Preservation",
     "type": "survivor",
-    "image": "perks/survivor/self-Preservation.png",
+    "image": "assets/images/perks/survivor/self-Preservation.png",
     "description": ""
   },
   {
     "id": "septicTouch",
     "name": "Septic Touch",
     "type": "killer",
-    "image": "perks/killer/septicTouch.png",
+    "image": "assets/images/perks/killer/septicTouch.png",
     "description": ""
   },
   {
     "id": "shadowborn",
     "name": "Shadowborn",
     "type": "killer",
-    "image": "perks/killer/shadowborn.png",
+    "image": "assets/images/perks/killer/shadowborn.png",
     "description": ""
   },
   {
     "id": "shatteredHope",
     "name": "Shattered Hope",
     "type": "killer",
-    "image": "perks/killer/shatteredHope.png",
+    "image": "assets/images/perks/killer/shatteredHope.png",
     "description": ""
   },
   {
     "id": "shoulderTheBurden",
     "name": "Shoulder The Burden",
     "type": "survivor",
-    "image": "perks/survivor/shoulderTheBurden.png",
+    "image": "assets/images/perks/survivor/shoulderTheBurden.png",
     "description": ""
   },
   {
     "id": "situationalAwareness",
     "name": "Situational Awareness",
     "type": "survivor",
-    "image": "perks/survivor/situationalAwareness.png",
+    "image": "assets/images/perks/survivor/situationalAwareness.png",
     "description": ""
   },
   {
     "id": "slipperyMeat",
     "name": "Slippery Meat",
     "type": "survivor",
-    "image": "perks/survivor/slipperyMeat.png",
+    "image": "assets/images/perks/survivor/slipperyMeat.png",
     "description": ""
   },
   {
     "id": "sloppyButcher",
     "name": "Sloppy Butcher",
     "type": "killer",
-    "image": "perks/killer/sloppyButcher.png",
+    "image": "assets/images/perks/killer/sloppyButcher.png",
     "description": ""
   },
   {
     "id": "smallGame",
     "name": "Small Game",
     "type": "survivor",
-    "image": "perks/survivor/smallGame.png",
+    "image": "assets/images/perks/survivor/smallGame.png",
     "description": ""
   },
   {
     "id": "smashHit",
     "name": "Smash Hit",
     "type": "survivor",
-    "image": "perks/survivor/smashHit.png",
+    "image": "assets/images/perks/survivor/smashHit.png",
     "description": ""
   },
   {
     "id": "soleSurvivor",
     "name": "Sole Survivor",
     "type": "survivor",
-    "image": "perks/survivor/soleSurvivor.png",
+    "image": "assets/images/perks/survivor/soleSurvivor.png",
     "description": ""
   },
   {
     "id": "solidarity",
     "name": "Solidarity",
     "type": "survivor",
-    "image": "perks/survivor/solidarity.png",
+    "image": "assets/images/perks/survivor/solidarity.png",
     "description": ""
   },
   {
     "id": "soulGuard",
     "name": "Soul Guard",
     "type": "survivor",
-    "image": "perks/survivor/soulGuard.png",
+    "image": "assets/images/perks/survivor/soulGuard.png",
     "description": ""
   },
   {
     "id": "specialist",
     "name": "Specialist",
     "type": "survivor",
-    "image": "perks/survivor/specialist.png",
+    "image": "assets/images/perks/survivor/specialist.png",
     "description": ""
   },
   {
     "id": "spiesFromTheShadows",
     "name": "Spies From The Shadows",
     "type": "killer",
-    "image": "perks/killer/spiesFromTheShadows.png",
+    "image": "assets/images/perks/killer/spiesFromTheShadows.png",
     "description": ""
   },
   {
     "id": "spineChill",
     "name": "Spine Chill",
     "type": "survivor",
-    "image": "perks/survivor/spineChill.png",
+    "image": "assets/images/perks/survivor/spineChill.png",
     "description": ""
   },
   {
     "id": "spiritFury",
     "name": "Spirit Fury",
     "type": "killer",
-    "image": "perks/killer/spiritFury.png",
+    "image": "assets/images/perks/killer/spiritFury.png",
     "description": ""
   },
   {
     "id": "sprintBurst",
     "name": "Sprint Burst",
     "type": "survivor",
-    "image": "perks/survivor/sprintBurst.png",
+    "image": "assets/images/perks/survivor/sprintBurst.png",
     "description": ""
   },
   {
     "id": "stakeOut",
     "name": "Stake Out",
     "type": "survivor",
-    "image": "perks/survivor/stakeOut.png",
+    "image": "assets/images/perks/survivor/stakeOut.png",
     "description": ""
   },
   {
     "id": "starstruck",
     "name": "Starstruck",
     "type": "killer",
-    "image": "perks/killer/starstruck.png",
+    "image": "assets/images/perks/killer/starstruck.png",
     "description": ""
   },
   {
     "id": "stillSight",
     "name": "Still Sight",
     "type": "survivor",
-    "image": "perks/survivor/stillSight.png",
+    "image": "assets/images/perks/survivor/stillSight.png",
     "description": ""
   },
   {
     "id": "streetwise",
     "name": "Streetwise",
     "type": "survivor",
-    "image": "perks/survivor/streetwise.png",
+    "image": "assets/images/perks/survivor/streetwise.png",
     "description": ""
   },
   {
     "id": "strengthInShadows",
     "name": "Strength In Shadows",
     "type": "survivor",
-    "image": "perks/survivor/strengthInShadows.png",
+    "image": "assets/images/perks/survivor/strengthInShadows.png",
     "description": ""
   },
   {
     "id": "stridor",
     "name": "Stridor",
     "type": "killer",
-    "image": "perks/killer/stridor.png",
+    "image": "assets/images/perks/killer/stridor.png",
     "description": ""
   },
   {
     "id": "superiorAnatomy",
     "name": "Superior Anatomy",
     "type": "killer",
-    "image": "perks/killer/superiorAnatomy.png",
+    "image": "assets/images/perks/killer/superiorAnatomy.png",
     "description": ""
   },
   {
     "id": "surge",
     "name": "Surge",
     "type": "killer",
-    "image": "perks/killer/surge.png",
+    "image": "assets/images/perks/killer/surge.png",
     "description": ""
   },
   {
     "id": "surveillance",
     "name": "Surveillance",
     "type": "killer",
-    "image": "perks/killer/surveillance.png",
+    "image": "assets/images/perks/killer/surveillance.png",
     "description": ""
   },
   {
     "id": "teamworkCollectiveStealth",
     "name": "Teamwork Collective Stealth",
     "type": "survivor",
-    "image": "perks/survivor/teamworkCollectiveStealth.png",
+    "image": "assets/images/perks/survivor/teamworkCollectiveStealth.png",
     "description": ""
   },
   {
     "id": "teamworkPowerOfTwo",
     "name": "Teamwork Power Of Two",
     "type": "survivor",
-    "image": "perks/survivor/teamworkPowerOfTwo.png",
+    "image": "assets/images/perks/survivor/teamworkPowerOfTwo.png",
     "description": ""
   },
   {
     "id": "technician",
     "name": "Technician",
     "type": "survivor",
-    "image": "perks/survivor/technician.png",
+    "image": "assets/images/perks/survivor/technician.png",
     "description": ""
   },
   {
     "id": "tenacity",
     "name": "Tenacity",
     "type": "survivor",
-    "image": "perks/survivor/tenacity.png",
+    "image": "assets/images/perks/survivor/tenacity.png",
     "description": ""
   },
   {
     "id": "terminus",
     "name": "Terminus",
     "type": "killer",
-    "image": "perks/killer/terminus.png",
+    "image": "assets/images/perks/killer/terminus.png",
     "description": ""
   },
   {
     "id": "territorialImperative",
     "name": "Territorial Imperative",
     "type": "killer",
-    "image": "perks/killer/territorialImperative.png",
+    "image": "assets/images/perks/killer/territorialImperative.png",
     "description": ""
   },
   {
     "id": "thanatophobia",
     "name": "Thanatophobia",
     "type": "killer",
-    "image": "perks/killer/thanatophobia.png",
+    "image": "assets/images/perks/killer/thanatophobia.png",
     "description": ""
   },
   {
     "id": "thisIsNotHappening",
     "name": "This Is Not Happening",
     "type": "survivor",
-    "image": "perks/survivor/thisIsNotHappening.png",
+    "image": "assets/images/perks/survivor/thisIsNotHappening.png",
     "description": ""
   },
   {
     "id": "thrillingTremors",
     "name": "Thrilling Tremors",
     "type": "killer",
-    "image": "perks/killer/thrillingTremors.png",
+    "image": "assets/images/perks/killer/thrillingTremors.png",
     "description": ""
   },
   {
     "id": "thwack",
     "name": "Thwack",
     "type": "killer",
-    "image": "perks/killer/thwack.png",
+    "image": "assets/images/perks/killer/thwack.png",
     "description": ""
   },
   {
     "id": "tinkerer",
     "name": "Tinkerer",
     "type": "killer",
-    "image": "perks/killer/tinkerer.png",
+    "image": "assets/images/perks/killer/tinkerer.png",
     "description": ""
   },
   {
     "id": "trailOfTorment",
     "name": "Trail Of Torment",
     "type": "killer",
-    "image": "perks/killer/trailOfTorment.png",
+    "image": "assets/images/perks/killer/trailOfTorment.png",
     "description": ""
   },
   {
     "id": "troubleshooter",
     "name": "Troubleshooter",
     "type": "survivor",
-    "image": "perks/survivor/troubleshooter.png",
+    "image": "assets/images/perks/survivor/troubleshooter.png",
     "description": ""
   },
   {
     "id": "ultimateWeapon",
     "name": "Ultimate Weapon",
     "type": "killer",
-    "image": "perks/killer/ultimateWeapon.png",
+    "image": "assets/images/perks/killer/ultimateWeapon.png",
     "description": ""
   },
   {
     "id": "unbound",
     "name": "Unbound",
     "type": "killer",
-    "image": "perks/killer/unbound.png",
+    "image": "assets/images/perks/killer/unbound.png",
     "description": ""
   },
   {
     "id": "unbreakable",
     "name": "Unbreakable",
     "type": "survivor",
-    "image": "perks/survivor/unbreakable.png",
+    "image": "assets/images/perks/survivor/unbreakable.png",
     "description": ""
   },
   {
     "id": "undone",
     "name": "Undone",
     "type": "killer",
-    "image": "perks/killer/undone.png",
+    "image": "assets/images/perks/killer/undone.png",
     "description": ""
   },
   {
     "id": "unforeseen",
     "name": "Unforeseen",
     "type": "killer",
-    "image": "perks/killer/unforeseen.png",
+    "image": "assets/images/perks/killer/unforeseen.png",
     "description": ""
   },
   {
     "id": "unnervingPresence",
     "name": "Unnerving Presence",
     "type": "killer",
-    "image": "perks/killer/unnervingPresence.png",
+    "image": "assets/images/perks/killer/unnervingPresence.png",
     "description": ""
   },
   {
     "id": "unrelenting",
     "name": "Unrelenting",
     "type": "killer",
-    "image": "perks/killer/unrelenting.png",
+    "image": "assets/images/perks/killer/unrelenting.png",
     "description": ""
   },
   {
     "id": "upTheAnte",
     "name": "Up The Ante",
     "type": "survivor",
-    "image": "perks/survivor/upTheAnte.png",
+    "image": "assets/images/perks/survivor/upTheAnte.png",
     "description": ""
   },
   {
     "id": "urbanEvasion",
     "name": "Urban Evasion",
     "type": "survivor",
-    "image": "perks/survivor/urbanEvasion.png",
+    "image": "assets/images/perks/survivor/urbanEvasion.png",
     "description": ""
   },
   {
     "id": "vigil",
     "name": "Vigil",
     "type": "survivor",
-    "image": "perks/survivor/vigil.png",
+    "image": "assets/images/perks/survivor/vigil.png",
     "description": ""
   },
   {
     "id": "visionary",
     "name": "Visionary",
     "type": "survivor",
-    "image": "perks/survivor/visionary.png",
+    "image": "assets/images/perks/survivor/visionary.png",
     "description": ""
   },
   {
     "id": "wakeUp",
     "name": "Wake Up",
     "type": "survivor",
-    "image": "perks/survivor/wakeUp.png",
+    "image": "assets/images/perks/survivor/wakeUp.png",
     "description": ""
   },
   {
     "id": "weaveAttunement",
     "name": "Weave Attunement",
     "type": "killer",
-    "image": "perks/killer/weaveAttunement.png",
+    "image": "assets/images/perks/killer/weaveAttunement.png",
     "description": ""
   },
   {
     "id": "wellMakeIt",
     "name": "Well Make It",
     "type": "survivor",
-    "image": "perks/survivor/wellMakeIt.png",
+    "image": "assets/images/perks/survivor/wellMakeIt.png",
     "description": ""
   },
   {
     "id": "wereGonnaLiveForever",
     "name": "Were Gonna Live Forever",
     "type": "survivor",
-    "image": "perks/survivor/wereGonnaLiveForever.png",
+    "image": "assets/images/perks/survivor/wereGonnaLiveForever.png",
     "description": ""
   },
   {
     "id": "whispers",
     "name": "Whispers",
     "type": "killer",
-    "image": "perks/killer/whispers.png",
+    "image": "assets/images/perks/killer/whispers.png",
     "description": ""
   },
   {
     "id": "wicked",
     "name": "Wicked",
     "type": "survivor",
-    "image": "perks/survivor/wicked.png",
+    "image": "assets/images/perks/survivor/wicked.png",
     "description": ""
   },
   {
     "id": "windowsOfOpportunity",
     "name": "Windows Of Opportunity",
     "type": "survivor",
-    "image": "perks/survivor/windowsOfOpportunity.png",
+    "image": "assets/images/perks/survivor/windowsOfOpportunity.png",
     "description": ""
   },
   {
     "id": "wiretap",
     "name": "Wiretap",
     "type": "survivor",
-    "image": "perks/survivor/wiretap.png",
+    "image": "assets/images/perks/survivor/wiretap.png",
     "description": ""
   },
   {
     "id": "zanshinTactics",
     "name": "Zanshin Tactics",
     "type": "killer",
-    "image": "perks/killer/zanshinTactics.png",
+    "image": "assets/images/perks/killer/zanshinTactics.png",
     "description": ""
   }
 ]
