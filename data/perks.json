@@ -1400,6 +1400,13 @@
     "description": ""
   },
   {
+    "id": "rampage",
+    "name": "Rampage",
+    "type": "killer",
+    "image": "assets/images/perks/killer/rampage.png",
+    "description": ""
+  },
+  {
     "id": "rancor",
     "name": "Rancor",
     "type": "killer",
@@ -1498,6 +1505,13 @@
     "description": ""
   },
   {
+    "id": "scaredToDeath",
+    "name": "Scared To Death",
+    "type": "killer",
+    "image": "assets/images/perks/killer/scaredToDeath.png",
+    "description": ""
+  },
+  {
     "id": "scavenger",
     "name": "Scavenger",
     "type": "survivor",
@@ -1555,14 +1569,14 @@
   },
   {
     "id": "self-Care",
-    "name": "Self- Care",
+    "name": "Self-Care",
     "type": "survivor",
     "image": "assets/images/perks/survivor/self-Care.png",
     "description": ""
   },
   {
     "id": "self-Preservation",
-    "name": "Self- Preservation",
+    "name": "Self-Preservation",
     "type": "survivor",
     "image": "assets/images/perks/survivor/self-Preservation.png",
     "description": ""
@@ -1593,6 +1607,13 @@
     "name": "Shoulder The Burden",
     "type": "survivor",
     "image": "assets/images/perks/survivor/shoulderTheBurden.png",
+    "description": ""
+  },
+  {
+    "id": "silentShadow",
+    "name": "Silent Shadow",
+    "type": "killer",
+    "image": "assets/images/perks/killer/silentShadow.png",
     "description": ""
   },
   {

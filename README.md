@@ -133,6 +133,10 @@ For perks, [data/perks.json](data/perks.json) is the source of truth.
 
 For killers, [data/killers.json](data/killers.json) is the source of truth.
 
+Killer image source: [deadbydaylight.com/game/characters](https://deadbydaylight.com/game/characters/)
+
+Perk image source: [deadbydaylight.wiki.gg/wiki/perks](https://deadbydaylight.wiki.gg/wiki/Perks)
+
 If a name or filename format is slightly off, the item may still randomize but show no image.
 
 The killer and perk maintenance process is now intentionally similar.
