@@ -756,13 +756,6 @@
     "description": ""
   },
   {
-    "id": "guardian",
-    "name": "Guardian",
-    "type": "survivor",
-    "image": "assets/images/perks/survivor/guardian.png",
-    "description": ""
-  },
-  {
     "id": "hardened",
     "name": "Hardened",
     "type": "survivor",
@@ -963,13 +956,6 @@
     "name": "Inner Focus",
     "type": "survivor",
     "image": "assets/images/perks/survivor/innerFocus.png",
-    "description": ""
-  },
-  {
-    "id": "innerHealing",
-    "name": "Inner Healing",
-    "type": "survivor",
-    "image": "assets/images/perks/survivor/innerHealing.png",
     "description": ""
   },
   {
@@ -1449,13 +1435,6 @@
     "description": ""
   },
   {
-    "id": "renewal",
-    "name": "Renewal",
-    "type": "survivor",
-    "image": "assets/images/perks/survivor/renewal.png",
-    "description": ""
-  },
-  {
     "id": "repressedAlliance",
     "name": "Repressed Alliance",
     "type": "survivor",
@@ -1614,13 +1593,6 @@
     "name": "Silent Shadow",
     "type": "killer",
     "image": "assets/images/perks/killer/silentShadow.png",
-    "description": ""
-  },
-  {
-    "id": "situationalAwareness",
-    "name": "Situational Awareness",
-    "type": "survivor",
-    "image": "assets/images/perks/survivor/situationalAwareness.png",
     "description": ""
   },
   {
