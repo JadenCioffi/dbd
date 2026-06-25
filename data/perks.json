@@ -392,6 +392,13 @@
     "description": ""
   },
   {
+    "id": "crossExamination",
+    "name": "Cross Examination",
+    "type": "survivor",
+    "image": "assets/images/perks/survivor/crossExamination.png",
+    "description": ""
+  },
+  {
     "id": "cruelLimits",
     "name": "Cruel Limits",
     "type": "killer",
@@ -1040,6 +1047,13 @@
     "name": "Left Behind",
     "type": "survivor",
     "image": "assets/images/perks/survivor/leftBehind.png",
+    "description": ""
+  },
+  {
+    "id": "lendAHand",
+    "name": "Lend A Hand",
+    "type": "survivor",
+    "image": "assets/images/perks/survivor/lendAHand.png",
     "description": ""
   },
   {
@@ -1950,6 +1964,13 @@
     "name": "Wicked",
     "type": "survivor",
     "image": "assets/images/perks/survivor/wicked.png",
+    "description": ""
+  },
+  {
+    "id": "wideOpenThrottle",
+    "name": "Wide Open Throttle",
+    "type": "survivor",
+    "image": "assets/images/perks/survivor/wideOpenThrottle.png",
     "description": ""
   },
   {
