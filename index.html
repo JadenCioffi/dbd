@@ -67,6 +67,24 @@
 
         <section class="randomizer-block">
             <div class="section-heading">
+                <h2>Survivor Item Loadout</h2>
+                <p>Generate 1 survivor item and 2 compatible add-ons. Firecrackers are excluded because they currently have no usable add-ons.</p>
+            </div>
+
+            <div class="control-panel control-panel--button-only">
+                <button id="survivor-item-button" type="button">Choose Survivor Item</button>
+            </div>
+
+            <p id="survivor-item-error" class="error is-hidden"></p>
+
+            <section id="survivor-item-results" class="results is-hidden">
+                <p id="survivor-item-title" class="selection-title">Survivor item is:</p>
+                <section id="survivor-item-loadout" class="text-loadout"></section>
+            </section>
+        </section>
+
+        <section class="randomizer-block">
+            <div class="section-heading">
                 <h2>Killer Perk Loadout</h2>
                 <p>Generate 4 distinct killer perks for a fresh trial build.</p>
             </div>

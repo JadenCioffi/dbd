@@ -1,5 +1,6 @@
 const PERK_BACKGROUND_IMAGE = "./assets/images/perks/bg/very_rare_bg.png";
 const PERK_LOADOUT_SIZE = 4;
+const ITEM_ADDON_COUNT = 2;
 
 function chooseDistinct(items, count) {
     const pool = [...items];
@@ -156,6 +157,56 @@ function updatePerkResults(config, perks) {
     });
 }
 
+function buildItemLoadoutCard(item, addOns) {
+    const article = document.createElement("article");
+    article.className = "text-loadout-card";
+
+    const categoryLabel = document.createElement("p");
+    categoryLabel.className = "text-loadout-label";
+    categoryLabel.textContent = item.category;
+    article.appendChild(categoryLabel);
+
+    const heading = document.createElement("h2");
+    heading.textContent = item.name;
+    article.appendChild(heading);
+
+    const addOnLabel = document.createElement("p");
+    addOnLabel.className = "text-loadout-subtitle";
+    addOnLabel.textContent = "Add-ons";
+    article.appendChild(addOnLabel);
+
+    const list = document.createElement("ul");
+    list.className = "text-loadout-list";
+
+    addOns.forEach((addOn) => {
+        const listItem = document.createElement("li");
+        listItem.textContent = addOn;
+        list.appendChild(listItem);
+    });
+
+    article.appendChild(list);
+
+    return article;
+}
+
+function updateItemResults(payload) {
+    const results = document.getElementById("survivor-item-results");
+    const title = document.getElementById("survivor-item-title");
+    const loadout = document.getElementById("survivor-item-loadout");
+
+    setErrorMessage("survivor-item-error", payload.error);
+    loadout.replaceChildren();
+
+    if (!payload.item) {
+        results.classList.add("is-hidden");
+        return;
+    }
+
+    results.classList.remove("is-hidden");
+    title.textContent = "Survivor item is:";
+    loadout.appendChild(buildItemLoadoutCard(payload.item, payload.addOns));
+}
+
 async function loadQuotes() {
     const response = await fetch("./data/quotes/attributed_quotes.txt");
 
@@ -216,6 +267,16 @@ async function loadPerks() {
     };
 }
 
+async function loadItems() {
+    const response = await fetch("./data/items.json");
+
+    if (!response.ok) {
+        throw new Error(`Unable to load item data (${response.status})`);
+    }
+
+    return response.json();
+}
+
 function createKillerHandler(killersPromise) {
     return async function handleKillerSubmit(event) {
         event.preventDefault();
@@ -246,6 +307,28 @@ function createPerkHandler(perksPromise, perkType, config) {
     };
 }
 
+function createItemHandler(itemsPromise) {
+    return async function handleItemSelection() {
+        try {
+            const items = await itemsPromise;
+            const [selectedItem] = chooseDistinct(items, 1);
+            const selectedAddOns = chooseDistinct(selectedItem.addOns, ITEM_ADDON_COUNT);
+
+            updateItemResults({
+                error: null,
+                item: selectedItem,
+                addOns: selectedAddOns,
+            });
+        } catch (error) {
+            updateItemResults({
+                error: "Unable to load survivor items right now.",
+                item: null,
+                addOns: [],
+            });
+        }
+    };
+}
+
 function initializeQuote(quotesPromise) {
     const quoteText = document.getElementById("quote-text");
 
@@ -270,16 +353,18 @@ function initializeQuote(quotesPromise) {
 document.addEventListener("DOMContentLoaded", () => {
     const killerForm = document.getElementById("killer-form");
     const survivorPerkButton = document.getElementById("survivor-perk-button");
+    const survivorItemButton = document.getElementById("survivor-item-button");
     const killerPerkButton = document.getElementById("killer-perk-button");
     const numSelectionsInput = document.getElementById("num_selections");
     const helperText = document.getElementById("helper-text");
     const quotesPromise = loadQuotes();
     const killersPromise = loadKillers();
     const perksPromise = loadPerks();
+    const itemsPromise = loadItems();
 
     initializeQuote(quotesPromise);
 
-    if (!killerForm || !survivorPerkButton || !killerPerkButton || !numSelectionsInput || !helperText) {
+    if (!killerForm || !survivorPerkButton || !survivorItemButton || !killerPerkButton || !numSelectionsInput || !helperText) {
         return;
     }
 
@@ -303,6 +388,7 @@ document.addEventListener("DOMContentLoaded", () => {
             titleText: "Survivor perks are:",
         }),
     );
+    survivorItemButton.addEventListener("click", createItemHandler(itemsPromise));
     killerPerkButton.addEventListener(
         "click",
         createPerkHandler(perksPromise, "killer", {

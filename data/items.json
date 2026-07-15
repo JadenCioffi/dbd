@@ -1,0 +1,547 @@
+[
+  {
+    "name": "Flashlight",
+    "category": "Flashlights",
+    "addOns": [
+      "Battery",
+      "Leather Grip",
+      "Power Bulb",
+      "Wide Lens",
+      "Focus Lens",
+      "Heavy Duty Battery",
+      "Low Amp Filament",
+      "Rubber Grip",
+      "TIR Optic",
+      "Intense Halogen",
+      "Long Life Battery",
+      "High-End Sapphire Lens",
+      "Odd Bulb",
+      "Broken Bulb"
+    ]
+  },
+  {
+    "name": "Sport Flashlight",
+    "category": "Flashlights",
+    "addOns": [
+      "Battery",
+      "Leather Grip",
+      "Power Bulb",
+      "Wide Lens",
+      "Focus Lens",
+      "Heavy Duty Battery",
+      "Low Amp Filament",
+      "Rubber Grip",
+      "TIR Optic",
+      "Intense Halogen",
+      "Long Life Battery",
+      "High-End Sapphire Lens",
+      "Odd Bulb",
+      "Broken Bulb"
+    ]
+  },
+  {
+    "name": "Utility Flashlight",
+    "category": "Flashlights",
+    "addOns": [
+      "Battery",
+      "Leather Grip",
+      "Power Bulb",
+      "Wide Lens",
+      "Focus Lens",
+      "Heavy Duty Battery",
+      "Low Amp Filament",
+      "Rubber Grip",
+      "TIR Optic",
+      "Intense Halogen",
+      "Long Life Battery",
+      "High-End Sapphire Lens",
+      "Odd Bulb",
+      "Broken Bulb"
+    ]
+  },
+  {
+    "name": "Will O' Wisp",
+    "category": "Flashlights",
+    "addOns": [
+      "Battery",
+      "Leather Grip",
+      "Power Bulb",
+      "Wide Lens",
+      "Focus Lens",
+      "Heavy Duty Battery",
+      "Low Amp Filament",
+      "Rubber Grip",
+      "TIR Optic",
+      "Intense Halogen",
+      "Long Life Battery",
+      "High-End Sapphire Lens",
+      "Odd Bulb",
+      "Broken Bulb"
+    ]
+  },
+  {
+    "name": "Anniversary Flashlight",
+    "category": "Flashlights",
+    "addOns": [
+      "Battery",
+      "Leather Grip",
+      "Power Bulb",
+      "Wide Lens",
+      "Focus Lens",
+      "Heavy Duty Battery",
+      "Low Amp Filament",
+      "Rubber Grip",
+      "TIR Optic",
+      "Intense Halogen",
+      "Long Life Battery",
+      "High-End Sapphire Lens",
+      "Odd Bulb",
+      "Broken Bulb"
+    ]
+  },
+  {
+    "name": "Masquerade Flashlight",
+    "category": "Flashlights",
+    "addOns": [
+      "Battery",
+      "Leather Grip",
+      "Power Bulb",
+      "Wide Lens",
+      "Focus Lens",
+      "Heavy Duty Battery",
+      "Low Amp Filament",
+      "Rubber Grip",
+      "TIR Optic",
+      "Intense Halogen",
+      "Long Life Battery",
+      "High-End Sapphire Lens",
+      "Odd Bulb",
+      "Broken Bulb"
+    ]
+  },
+  {
+    "name": "First Aid Kit",
+    "category": "Med-Kits",
+    "addOns": [
+      "Bandages",
+      "Butterfly Tape",
+      "Rubber Gloves",
+      "Medical Scissors",
+      "Needle & Thread",
+      "Self Adherent Wrap",
+      "Sponge",
+      "Gauze Roll",
+      "Surgical Suture",
+      "Abdominal Dressing",
+      "Styptic Agent",
+      "Anti-Exhaustion Syringe",
+      "Gel Dressings",
+      "Refined Serum"
+    ]
+  },
+  {
+    "name": "Camping Aid Kit",
+    "category": "Med-Kits",
+    "addOns": [
+      "Bandages",
+      "Butterfly Tape",
+      "Rubber Gloves",
+      "Medical Scissors",
+      "Needle & Thread",
+      "Self Adherent Wrap",
+      "Sponge",
+      "Gauze Roll",
+      "Surgical Suture",
+      "Abdominal Dressing",
+      "Styptic Agent",
+      "Anti-Exhaustion Syringe",
+      "Gel Dressings",
+      "Refined Serum"
+    ]
+  },
+  {
+    "name": "Emergency Med-Kit",
+    "category": "Med-Kits",
+    "addOns": [
+      "Bandages",
+      "Butterfly Tape",
+      "Rubber Gloves",
+      "Medical Scissors",
+      "Needle & Thread",
+      "Self Adherent Wrap",
+      "Sponge",
+      "Gauze Roll",
+      "Surgical Suture",
+      "Abdominal Dressing",
+      "Styptic Agent",
+      "Anti-Exhaustion Syringe",
+      "Gel Dressings",
+      "Refined Serum"
+    ]
+  },
+  {
+    "name": "Ranger Med-Kit",
+    "category": "Med-Kits",
+    "addOns": [
+      "Bandages",
+      "Butterfly Tape",
+      "Rubber Gloves",
+      "Medical Scissors",
+      "Needle & Thread",
+      "Self Adherent Wrap",
+      "Sponge",
+      "Gauze Roll",
+      "Surgical Suture",
+      "Abdominal Dressing",
+      "Styptic Agent",
+      "Anti-Exhaustion Syringe",
+      "Gel Dressings",
+      "Refined Serum"
+    ]
+  },
+  {
+    "name": "All Hallows' Eve Lunchbox",
+    "category": "Med-Kits",
+    "addOns": [
+      "Bandages",
+      "Butterfly Tape",
+      "Rubber Gloves",
+      "Medical Scissors",
+      "Needle & Thread",
+      "Self Adherent Wrap",
+      "Sponge",
+      "Gauze Roll",
+      "Surgical Suture",
+      "Abdominal Dressing",
+      "Styptic Agent",
+      "Anti-Exhaustion Syringe",
+      "Gel Dressings",
+      "Refined Serum"
+    ]
+  },
+  {
+    "name": "Anniversary Med-Kit",
+    "category": "Med-Kits",
+    "addOns": [
+      "Bandages",
+      "Butterfly Tape",
+      "Rubber Gloves",
+      "Medical Scissors",
+      "Needle & Thread",
+      "Self Adherent Wrap",
+      "Sponge",
+      "Gauze Roll",
+      "Surgical Suture",
+      "Abdominal Dressing",
+      "Styptic Agent",
+      "Anti-Exhaustion Syringe",
+      "Gel Dressings",
+      "Refined Serum"
+    ]
+  },
+  {
+    "name": "Masquerade Med-Kit",
+    "category": "Med-Kits",
+    "addOns": [
+      "Bandages",
+      "Butterfly Tape",
+      "Rubber Gloves",
+      "Medical Scissors",
+      "Needle & Thread",
+      "Self Adherent Wrap",
+      "Sponge",
+      "Gauze Roll",
+      "Surgical Suture",
+      "Abdominal Dressing",
+      "Styptic Agent",
+      "Anti-Exhaustion Syringe",
+      "Gel Dressings",
+      "Refined Serum"
+    ]
+  },
+  {
+    "name": "Toolbox",
+    "category": "Toolboxes",
+    "addOns": [
+      "Clean Rag",
+      "Instructions",
+      "Scraps",
+      "Cutting Wire",
+      "Protective Gloves",
+      "Socket Swivels",
+      "Spring Clamp",
+      "Wire Spool",
+      "Grip Wrench",
+      "Hacksaw",
+      "Brand New Part"
+    ]
+  },
+  {
+    "name": "Worn-Out Tools",
+    "category": "Toolboxes",
+    "addOns": [
+      "Clean Rag",
+      "Instructions",
+      "Scraps",
+      "Cutting Wire",
+      "Protective Gloves",
+      "Socket Swivels",
+      "Spring Clamp",
+      "Wire Spool",
+      "Grip Wrench",
+      "Hacksaw",
+      "Brand New Part"
+    ]
+  },
+  {
+    "name": "Mechanic's Toolbox",
+    "category": "Toolboxes",
+    "addOns": [
+      "Clean Rag",
+      "Instructions",
+      "Scraps",
+      "Cutting Wire",
+      "Protective Gloves",
+      "Socket Swivels",
+      "Spring Clamp",
+      "Wire Spool",
+      "Grip Wrench",
+      "Hacksaw",
+      "Brand New Part"
+    ]
+  },
+  {
+    "name": "Commodious Toolbox",
+    "category": "Toolboxes",
+    "addOns": [
+      "Clean Rag",
+      "Instructions",
+      "Scraps",
+      "Cutting Wire",
+      "Protective Gloves",
+      "Socket Swivels",
+      "Spring Clamp",
+      "Wire Spool",
+      "Grip Wrench",
+      "Hacksaw",
+      "Brand New Part"
+    ]
+  },
+  {
+    "name": "Engineer's Toolbox",
+    "category": "Toolboxes",
+    "addOns": [
+      "Clean Rag",
+      "Instructions",
+      "Scraps",
+      "Cutting Wire",
+      "Protective Gloves",
+      "Socket Swivels",
+      "Spring Clamp",
+      "Wire Spool",
+      "Grip Wrench",
+      "Hacksaw",
+      "Brand New Part"
+    ]
+  },
+  {
+    "name": "Alex's Toolbox",
+    "category": "Toolboxes",
+    "addOns": [
+      "Clean Rag",
+      "Instructions",
+      "Scraps",
+      "Cutting Wire",
+      "Protective Gloves",
+      "Socket Swivels",
+      "Spring Clamp",
+      "Wire Spool",
+      "Grip Wrench",
+      "Hacksaw",
+      "Brand New Part"
+    ]
+  },
+  {
+    "name": "Festive Toolbox",
+    "category": "Toolboxes",
+    "addOns": [
+      "Clean Rag",
+      "Instructions",
+      "Scraps",
+      "Cutting Wire",
+      "Protective Gloves",
+      "Socket Swivels",
+      "Spring Clamp",
+      "Wire Spool",
+      "Grip Wrench",
+      "Hacksaw",
+      "Brand New Part"
+    ]
+  },
+  {
+    "name": "Anniversary Toolbox",
+    "category": "Toolboxes",
+    "addOns": [
+      "Clean Rag",
+      "Instructions",
+      "Scraps",
+      "Cutting Wire",
+      "Protective Gloves",
+      "Socket Swivels",
+      "Spring Clamp",
+      "Wire Spool",
+      "Grip Wrench",
+      "Hacksaw",
+      "Brand New Part"
+    ]
+  },
+  {
+    "name": "Masquerade Toolbox",
+    "category": "Toolboxes",
+    "addOns": [
+      "Clean Rag",
+      "Instructions",
+      "Scraps",
+      "Cutting Wire",
+      "Protective Gloves",
+      "Socket Swivels",
+      "Spring Clamp",
+      "Wire Spool",
+      "Grip Wrench",
+      "Hacksaw",
+      "Brand New Part"
+    ]
+  },
+  {
+    "name": "Broken Key",
+    "category": "Keys",
+    "addOns": [
+      "Friendship Charm",
+      "Shrill Whistle",
+      "Braided Bauble",
+      "Unique Wedding Ring",
+      "Blood Amber"
+    ]
+  },
+  {
+    "name": "Dull Key",
+    "category": "Keys",
+    "addOns": [
+      "Friendship Charm",
+      "Shrill Whistle",
+      "Braided Bauble",
+      "Unique Wedding Ring",
+      "Blood Amber"
+    ]
+  },
+  {
+    "name": "Skeleton Key",
+    "category": "Keys",
+    "addOns": [
+      "Friendship Charm",
+      "Shrill Whistle",
+      "Braided Bauble",
+      "Unique Wedding Ring",
+      "Blood Amber"
+    ]
+  },
+  {
+    "name": "Cryptic Map",
+    "category": "Maps",
+    "addOns": [
+      "Glowing Ink",
+      "Gnarled Compass",
+      "Battered Tape",
+      "Sharpened Flint",
+      "Crimson Stamp"
+    ]
+  },
+  {
+    "name": "Scribbled Map",
+    "category": "Maps",
+    "addOns": [
+      "Glowing Ink",
+      "Gnarled Compass",
+      "Battered Tape",
+      "Sharpened Flint",
+      "Crimson Stamp"
+    ]
+  },
+  {
+    "name": "Annotated Map",
+    "category": "Maps",
+    "addOns": [
+      "Glowing Ink",
+      "Gnarled Compass",
+      "Battered Tape",
+      "Sharpened Flint",
+      "Crimson Stamp"
+    ]
+  },
+  {
+    "name": "Bloodsense Map",
+    "category": "Maps",
+    "addOns": [
+      "Glowing Ink",
+      "Gnarled Compass",
+      "Battered Tape",
+      "Sharpened Flint",
+      "Crimson Stamp"
+    ]
+  },
+  {
+    "name": "Apprentice's Fog Vial",
+    "category": "Fog Vials",
+    "addOns": [
+      "Volcanic Stone",
+      "Reactive Compound",
+      "Oily Sap",
+      "Mushroom Formula",
+      "Potent Extract"
+    ]
+  },
+  {
+    "name": "Artisan's Fog Vial",
+    "category": "Fog Vials",
+    "addOns": [
+      "Volcanic Stone",
+      "Reactive Compound",
+      "Oily Sap",
+      "Mushroom Formula",
+      "Potent Extract"
+    ]
+  },
+  {
+    "name": "Vigo's Fog Vial",
+    "category": "Fog Vials",
+    "addOns": [
+      "Volcanic Stone",
+      "Reactive Compound",
+      "Oily Sap",
+      "Mushroom Formula",
+      "Potent Extract"
+    ]
+  },
+  {
+    "name": "Fog Crystal",
+    "category": "Fog Vials",
+    "addOns": [
+      "Volcanic Stone",
+      "Reactive Compound",
+      "Oily Sap",
+      "Mushroom Formula",
+      "Potent Extract"
+    ]
+  },
+  {
+    "name": "Void Crystal",
+    "category": "Fog Vials",
+    "addOns": [
+      "Volcanic Stone",
+      "Reactive Compound",
+      "Oily Sap",
+      "Mushroom Formula",
+      "Potent Extract"
+    ]
+  }
+]
