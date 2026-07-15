@@ -372,8 +372,9 @@ button {
 .item-loadout-media {
     display: grid;
     place-items: center;
-    width: 100%;
+    width: min(100%, 8.5rem);
     aspect-ratio: 1 / 1;
+    margin: 0 auto;
     border-radius: 0.9rem;
     background:
         radial-gradient(circle at top, rgba(255, 255, 255, 0.12), transparent 58%),
@@ -381,12 +382,12 @@ button {
 }
 
 .item-loadout-entry--item .item-loadout-media {
-    aspect-ratio: 1 / 1;
+    width: min(100%, 9.5rem);
 }
 
 .item-loadout-image {
-    width: 78%;
-    height: 78%;
+    width: 68%;
+    height: 68%;
     object-fit: contain;
     filter: drop-shadow(0 0.7rem 0.9rem rgba(0, 0, 0, 0.38));
 }
@@ -397,7 +398,7 @@ button {
 }
 
 .item-loadout-meta {
-    margin-top: 0.9rem;
+    margin-top: 0.75rem;
 }
 
 .item-loadout-kind {
@@ -479,6 +480,14 @@ button {
     .item-loadout-addon-grid {
         grid-template-columns: repeat(2, minmax(0, 1fr));
     }
+
+    .item-loadout-media {
+        width: min(100%, 7.25rem);
+    }
+
+    .item-loadout-entry--item .item-loadout-media {
+        width: min(100%, 8rem);
+    }
 }
 
 @media (max-width: 560px) {
@@ -498,5 +507,10 @@ button {
 
     .checkbox-label {
         white-space: normal;
+    }
+
+    .item-loadout-media,
+    .item-loadout-entry--item .item-loadout-media {
+        width: min(100%, 6.5rem);
     }
 }
