@@ -2,546 +2,1978 @@
   {
     "name": "Flashlight",
     "category": "Flashlights",
+    "rarity": "Uncommon",
+    "image": "assets/images/items/flashlight.png",
     "addOns": [
-      "Battery",
-      "Leather Grip",
-      "Power Bulb",
-      "Wide Lens",
-      "Focus Lens",
-      "Heavy Duty Battery",
-      "Low Amp Filament",
-      "Rubber Grip",
-      "TIR Optic",
-      "Intense Halogen",
-      "Long Life Battery",
-      "High-End Sapphire Lens",
-      "Odd Bulb",
-      "Broken Bulb"
+      {
+        "name": "Battery",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/battery.png"
+      },
+      {
+        "name": "Leather Grip",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/leatherGrip.png"
+      },
+      {
+        "name": "Power Bulb",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/powerBulb.png"
+      },
+      {
+        "name": "Wide Lens",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/wideLens.png"
+      },
+      {
+        "name": "Focus Lens",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/focusLens.png"
+      },
+      {
+        "name": "Heavy Duty Battery",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/heavyDutyBattery.png"
+      },
+      {
+        "name": "Low Amp Filament",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/lowAmpFilament.png"
+      },
+      {
+        "name": "Rubber Grip",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/rubberGrip.png"
+      },
+      {
+        "name": "TIR Optic",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/tirOptic.png"
+      },
+      {
+        "name": "Intense Halogen",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/intenseHalogen.png"
+      },
+      {
+        "name": "Long Life Battery",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/longLifeBattery.png"
+      },
+      {
+        "name": "High-End Sapphire Lens",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/high-EndSapphireLens.png"
+      },
+      {
+        "name": "Odd Bulb",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/oddBulb.png"
+      },
+      {
+        "name": "Broken Bulb",
+        "rarity": "Event",
+        "image": "assets/images/item-addons/brokenBulb.png"
+      }
     ]
   },
   {
     "name": "Sport Flashlight",
     "category": "Flashlights",
+    "rarity": "Rare",
+    "image": "assets/images/items/sportFlashlight.png",
     "addOns": [
-      "Battery",
-      "Leather Grip",
-      "Power Bulb",
-      "Wide Lens",
-      "Focus Lens",
-      "Heavy Duty Battery",
-      "Low Amp Filament",
-      "Rubber Grip",
-      "TIR Optic",
-      "Intense Halogen",
-      "Long Life Battery",
-      "High-End Sapphire Lens",
-      "Odd Bulb",
-      "Broken Bulb"
+      {
+        "name": "Battery",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/battery.png"
+      },
+      {
+        "name": "Leather Grip",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/leatherGrip.png"
+      },
+      {
+        "name": "Power Bulb",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/powerBulb.png"
+      },
+      {
+        "name": "Wide Lens",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/wideLens.png"
+      },
+      {
+        "name": "Focus Lens",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/focusLens.png"
+      },
+      {
+        "name": "Heavy Duty Battery",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/heavyDutyBattery.png"
+      },
+      {
+        "name": "Low Amp Filament",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/lowAmpFilament.png"
+      },
+      {
+        "name": "Rubber Grip",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/rubberGrip.png"
+      },
+      {
+        "name": "TIR Optic",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/tirOptic.png"
+      },
+      {
+        "name": "Intense Halogen",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/intenseHalogen.png"
+      },
+      {
+        "name": "Long Life Battery",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/longLifeBattery.png"
+      },
+      {
+        "name": "High-End Sapphire Lens",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/high-EndSapphireLens.png"
+      },
+      {
+        "name": "Odd Bulb",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/oddBulb.png"
+      },
+      {
+        "name": "Broken Bulb",
+        "rarity": "Event",
+        "image": "assets/images/item-addons/brokenBulb.png"
+      }
     ]
   },
   {
     "name": "Utility Flashlight",
     "category": "Flashlights",
+    "rarity": "Very Rare",
+    "image": "assets/images/items/utilityFlashlight.png",
     "addOns": [
-      "Battery",
-      "Leather Grip",
-      "Power Bulb",
-      "Wide Lens",
-      "Focus Lens",
-      "Heavy Duty Battery",
-      "Low Amp Filament",
-      "Rubber Grip",
-      "TIR Optic",
-      "Intense Halogen",
-      "Long Life Battery",
-      "High-End Sapphire Lens",
-      "Odd Bulb",
-      "Broken Bulb"
+      {
+        "name": "Battery",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/battery.png"
+      },
+      {
+        "name": "Leather Grip",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/leatherGrip.png"
+      },
+      {
+        "name": "Power Bulb",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/powerBulb.png"
+      },
+      {
+        "name": "Wide Lens",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/wideLens.png"
+      },
+      {
+        "name": "Focus Lens",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/focusLens.png"
+      },
+      {
+        "name": "Heavy Duty Battery",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/heavyDutyBattery.png"
+      },
+      {
+        "name": "Low Amp Filament",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/lowAmpFilament.png"
+      },
+      {
+        "name": "Rubber Grip",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/rubberGrip.png"
+      },
+      {
+        "name": "TIR Optic",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/tirOptic.png"
+      },
+      {
+        "name": "Intense Halogen",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/intenseHalogen.png"
+      },
+      {
+        "name": "Long Life Battery",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/longLifeBattery.png"
+      },
+      {
+        "name": "High-End Sapphire Lens",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/high-EndSapphireLens.png"
+      },
+      {
+        "name": "Odd Bulb",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/oddBulb.png"
+      },
+      {
+        "name": "Broken Bulb",
+        "rarity": "Event",
+        "image": "assets/images/item-addons/brokenBulb.png"
+      }
     ]
   },
   {
     "name": "Will O' Wisp",
     "category": "Flashlights",
+    "rarity": "Event",
+    "image": "assets/images/items/willOWisp.png",
     "addOns": [
-      "Battery",
-      "Leather Grip",
-      "Power Bulb",
-      "Wide Lens",
-      "Focus Lens",
-      "Heavy Duty Battery",
-      "Low Amp Filament",
-      "Rubber Grip",
-      "TIR Optic",
-      "Intense Halogen",
-      "Long Life Battery",
-      "High-End Sapphire Lens",
-      "Odd Bulb",
-      "Broken Bulb"
+      {
+        "name": "Battery",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/battery.png"
+      },
+      {
+        "name": "Leather Grip",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/leatherGrip.png"
+      },
+      {
+        "name": "Power Bulb",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/powerBulb.png"
+      },
+      {
+        "name": "Wide Lens",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/wideLens.png"
+      },
+      {
+        "name": "Focus Lens",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/focusLens.png"
+      },
+      {
+        "name": "Heavy Duty Battery",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/heavyDutyBattery.png"
+      },
+      {
+        "name": "Low Amp Filament",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/lowAmpFilament.png"
+      },
+      {
+        "name": "Rubber Grip",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/rubberGrip.png"
+      },
+      {
+        "name": "TIR Optic",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/tirOptic.png"
+      },
+      {
+        "name": "Intense Halogen",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/intenseHalogen.png"
+      },
+      {
+        "name": "Long Life Battery",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/longLifeBattery.png"
+      },
+      {
+        "name": "High-End Sapphire Lens",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/high-EndSapphireLens.png"
+      },
+      {
+        "name": "Odd Bulb",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/oddBulb.png"
+      },
+      {
+        "name": "Broken Bulb",
+        "rarity": "Event",
+        "image": "assets/images/item-addons/brokenBulb.png"
+      }
     ]
   },
   {
     "name": "Anniversary Flashlight",
     "category": "Flashlights",
+    "rarity": "Event",
+    "image": "assets/images/items/anniversaryFlashlight.png",
     "addOns": [
-      "Battery",
-      "Leather Grip",
-      "Power Bulb",
-      "Wide Lens",
-      "Focus Lens",
-      "Heavy Duty Battery",
-      "Low Amp Filament",
-      "Rubber Grip",
-      "TIR Optic",
-      "Intense Halogen",
-      "Long Life Battery",
-      "High-End Sapphire Lens",
-      "Odd Bulb",
-      "Broken Bulb"
+      {
+        "name": "Battery",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/battery.png"
+      },
+      {
+        "name": "Leather Grip",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/leatherGrip.png"
+      },
+      {
+        "name": "Power Bulb",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/powerBulb.png"
+      },
+      {
+        "name": "Wide Lens",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/wideLens.png"
+      },
+      {
+        "name": "Focus Lens",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/focusLens.png"
+      },
+      {
+        "name": "Heavy Duty Battery",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/heavyDutyBattery.png"
+      },
+      {
+        "name": "Low Amp Filament",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/lowAmpFilament.png"
+      },
+      {
+        "name": "Rubber Grip",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/rubberGrip.png"
+      },
+      {
+        "name": "TIR Optic",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/tirOptic.png"
+      },
+      {
+        "name": "Intense Halogen",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/intenseHalogen.png"
+      },
+      {
+        "name": "Long Life Battery",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/longLifeBattery.png"
+      },
+      {
+        "name": "High-End Sapphire Lens",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/high-EndSapphireLens.png"
+      },
+      {
+        "name": "Odd Bulb",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/oddBulb.png"
+      },
+      {
+        "name": "Broken Bulb",
+        "rarity": "Event",
+        "image": "assets/images/item-addons/brokenBulb.png"
+      }
     ]
   },
   {
     "name": "Masquerade Flashlight",
     "category": "Flashlights",
+    "rarity": "Event",
+    "image": "assets/images/items/masqueradeFlashlight.png",
     "addOns": [
-      "Battery",
-      "Leather Grip",
-      "Power Bulb",
-      "Wide Lens",
-      "Focus Lens",
-      "Heavy Duty Battery",
-      "Low Amp Filament",
-      "Rubber Grip",
-      "TIR Optic",
-      "Intense Halogen",
-      "Long Life Battery",
-      "High-End Sapphire Lens",
-      "Odd Bulb",
-      "Broken Bulb"
+      {
+        "name": "Battery",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/battery.png"
+      },
+      {
+        "name": "Leather Grip",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/leatherGrip.png"
+      },
+      {
+        "name": "Power Bulb",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/powerBulb.png"
+      },
+      {
+        "name": "Wide Lens",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/wideLens.png"
+      },
+      {
+        "name": "Focus Lens",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/focusLens.png"
+      },
+      {
+        "name": "Heavy Duty Battery",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/heavyDutyBattery.png"
+      },
+      {
+        "name": "Low Amp Filament",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/lowAmpFilament.png"
+      },
+      {
+        "name": "Rubber Grip",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/rubberGrip.png"
+      },
+      {
+        "name": "TIR Optic",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/tirOptic.png"
+      },
+      {
+        "name": "Intense Halogen",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/intenseHalogen.png"
+      },
+      {
+        "name": "Long Life Battery",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/longLifeBattery.png"
+      },
+      {
+        "name": "High-End Sapphire Lens",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/high-EndSapphireLens.png"
+      },
+      {
+        "name": "Odd Bulb",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/oddBulb.png"
+      },
+      {
+        "name": "Broken Bulb",
+        "rarity": "Event",
+        "image": "assets/images/item-addons/brokenBulb.png"
+      }
     ]
   },
   {
     "name": "First Aid Kit",
     "category": "Med-Kits",
+    "rarity": "Uncommon",
+    "image": "assets/images/items/firstAidKit.png",
     "addOns": [
-      "Bandages",
-      "Butterfly Tape",
-      "Rubber Gloves",
-      "Medical Scissors",
-      "Needle & Thread",
-      "Self Adherent Wrap",
-      "Sponge",
-      "Gauze Roll",
-      "Surgical Suture",
-      "Abdominal Dressing",
-      "Styptic Agent",
-      "Anti-Exhaustion Syringe",
-      "Gel Dressings",
-      "Refined Serum"
+      {
+        "name": "Bandages",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/bandages.png"
+      },
+      {
+        "name": "Butterfly Tape",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/butterflyTape.png"
+      },
+      {
+        "name": "Rubber Gloves",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/rubberGloves.png"
+      },
+      {
+        "name": "Medical Scissors",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/medicalScissors.png"
+      },
+      {
+        "name": "Needle & Thread",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/needle&Thread.png"
+      },
+      {
+        "name": "Self Adherent Wrap",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/selfAdherentWrap.png"
+      },
+      {
+        "name": "Sponge",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/sponge.png"
+      },
+      {
+        "name": "Gauze Roll",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gauzeRoll.png"
+      },
+      {
+        "name": "Surgical Suture",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/surgicalSuture.png"
+      },
+      {
+        "name": "Abdominal Dressing",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/abdominalDressing.png"
+      },
+      {
+        "name": "Styptic Agent",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/stypticAgent.png"
+      },
+      {
+        "name": "Anti-Exhaustion Syringe",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/anti-haemorrhagicSyringe.png"
+      },
+      {
+        "name": "Gel Dressings",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/gelDressings.png"
+      },
+      {
+        "name": "Refined Serum",
+        "rarity": "Event",
+        "image": "assets/images/item-addons/refinedSerum.png"
+      }
     ]
   },
   {
     "name": "Camping Aid Kit",
     "category": "Med-Kits",
+    "rarity": "Common",
+    "image": "assets/images/items/campingAidKit.png",
     "addOns": [
-      "Bandages",
-      "Butterfly Tape",
-      "Rubber Gloves",
-      "Medical Scissors",
-      "Needle & Thread",
-      "Self Adherent Wrap",
-      "Sponge",
-      "Gauze Roll",
-      "Surgical Suture",
-      "Abdominal Dressing",
-      "Styptic Agent",
-      "Anti-Exhaustion Syringe",
-      "Gel Dressings",
-      "Refined Serum"
+      {
+        "name": "Bandages",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/bandages.png"
+      },
+      {
+        "name": "Butterfly Tape",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/butterflyTape.png"
+      },
+      {
+        "name": "Rubber Gloves",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/rubberGloves.png"
+      },
+      {
+        "name": "Medical Scissors",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/medicalScissors.png"
+      },
+      {
+        "name": "Needle & Thread",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/needle&Thread.png"
+      },
+      {
+        "name": "Self Adherent Wrap",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/selfAdherentWrap.png"
+      },
+      {
+        "name": "Sponge",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/sponge.png"
+      },
+      {
+        "name": "Gauze Roll",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gauzeRoll.png"
+      },
+      {
+        "name": "Surgical Suture",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/surgicalSuture.png"
+      },
+      {
+        "name": "Abdominal Dressing",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/abdominalDressing.png"
+      },
+      {
+        "name": "Styptic Agent",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/stypticAgent.png"
+      },
+      {
+        "name": "Anti-Exhaustion Syringe",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/anti-haemorrhagicSyringe.png"
+      },
+      {
+        "name": "Gel Dressings",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/gelDressings.png"
+      },
+      {
+        "name": "Refined Serum",
+        "rarity": "Event",
+        "image": "assets/images/item-addons/refinedSerum.png"
+      }
     ]
   },
   {
     "name": "Emergency Med-Kit",
     "category": "Med-Kits",
+    "rarity": "Rare",
+    "image": "assets/images/items/emergencyMedKit.png",
     "addOns": [
-      "Bandages",
-      "Butterfly Tape",
-      "Rubber Gloves",
-      "Medical Scissors",
-      "Needle & Thread",
-      "Self Adherent Wrap",
-      "Sponge",
-      "Gauze Roll",
-      "Surgical Suture",
-      "Abdominal Dressing",
-      "Styptic Agent",
-      "Anti-Exhaustion Syringe",
-      "Gel Dressings",
-      "Refined Serum"
+      {
+        "name": "Bandages",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/bandages.png"
+      },
+      {
+        "name": "Butterfly Tape",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/butterflyTape.png"
+      },
+      {
+        "name": "Rubber Gloves",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/rubberGloves.png"
+      },
+      {
+        "name": "Medical Scissors",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/medicalScissors.png"
+      },
+      {
+        "name": "Needle & Thread",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/needle&Thread.png"
+      },
+      {
+        "name": "Self Adherent Wrap",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/selfAdherentWrap.png"
+      },
+      {
+        "name": "Sponge",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/sponge.png"
+      },
+      {
+        "name": "Gauze Roll",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gauzeRoll.png"
+      },
+      {
+        "name": "Surgical Suture",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/surgicalSuture.png"
+      },
+      {
+        "name": "Abdominal Dressing",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/abdominalDressing.png"
+      },
+      {
+        "name": "Styptic Agent",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/stypticAgent.png"
+      },
+      {
+        "name": "Anti-Exhaustion Syringe",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/anti-haemorrhagicSyringe.png"
+      },
+      {
+        "name": "Gel Dressings",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/gelDressings.png"
+      },
+      {
+        "name": "Refined Serum",
+        "rarity": "Event",
+        "image": "assets/images/item-addons/refinedSerum.png"
+      }
     ]
   },
   {
     "name": "Ranger Med-Kit",
     "category": "Med-Kits",
+    "rarity": "Very Rare",
+    "image": "assets/images/items/rangerMedKit.png",
     "addOns": [
-      "Bandages",
-      "Butterfly Tape",
-      "Rubber Gloves",
-      "Medical Scissors",
-      "Needle & Thread",
-      "Self Adherent Wrap",
-      "Sponge",
-      "Gauze Roll",
-      "Surgical Suture",
-      "Abdominal Dressing",
-      "Styptic Agent",
-      "Anti-Exhaustion Syringe",
-      "Gel Dressings",
-      "Refined Serum"
+      {
+        "name": "Bandages",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/bandages.png"
+      },
+      {
+        "name": "Butterfly Tape",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/butterflyTape.png"
+      },
+      {
+        "name": "Rubber Gloves",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/rubberGloves.png"
+      },
+      {
+        "name": "Medical Scissors",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/medicalScissors.png"
+      },
+      {
+        "name": "Needle & Thread",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/needle&Thread.png"
+      },
+      {
+        "name": "Self Adherent Wrap",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/selfAdherentWrap.png"
+      },
+      {
+        "name": "Sponge",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/sponge.png"
+      },
+      {
+        "name": "Gauze Roll",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gauzeRoll.png"
+      },
+      {
+        "name": "Surgical Suture",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/surgicalSuture.png"
+      },
+      {
+        "name": "Abdominal Dressing",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/abdominalDressing.png"
+      },
+      {
+        "name": "Styptic Agent",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/stypticAgent.png"
+      },
+      {
+        "name": "Anti-Exhaustion Syringe",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/anti-haemorrhagicSyringe.png"
+      },
+      {
+        "name": "Gel Dressings",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/gelDressings.png"
+      },
+      {
+        "name": "Refined Serum",
+        "rarity": "Event",
+        "image": "assets/images/item-addons/refinedSerum.png"
+      }
     ]
   },
   {
     "name": "All Hallows' Eve Lunchbox",
     "category": "Med-Kits",
+    "rarity": "Event",
+    "image": "assets/images/items/allHallowsEveLunchbox.png",
     "addOns": [
-      "Bandages",
-      "Butterfly Tape",
-      "Rubber Gloves",
-      "Medical Scissors",
-      "Needle & Thread",
-      "Self Adherent Wrap",
-      "Sponge",
-      "Gauze Roll",
-      "Surgical Suture",
-      "Abdominal Dressing",
-      "Styptic Agent",
-      "Anti-Exhaustion Syringe",
-      "Gel Dressings",
-      "Refined Serum"
+      {
+        "name": "Bandages",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/bandages.png"
+      },
+      {
+        "name": "Butterfly Tape",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/butterflyTape.png"
+      },
+      {
+        "name": "Rubber Gloves",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/rubberGloves.png"
+      },
+      {
+        "name": "Medical Scissors",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/medicalScissors.png"
+      },
+      {
+        "name": "Needle & Thread",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/needle&Thread.png"
+      },
+      {
+        "name": "Self Adherent Wrap",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/selfAdherentWrap.png"
+      },
+      {
+        "name": "Sponge",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/sponge.png"
+      },
+      {
+        "name": "Gauze Roll",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gauzeRoll.png"
+      },
+      {
+        "name": "Surgical Suture",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/surgicalSuture.png"
+      },
+      {
+        "name": "Abdominal Dressing",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/abdominalDressing.png"
+      },
+      {
+        "name": "Styptic Agent",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/stypticAgent.png"
+      },
+      {
+        "name": "Anti-Exhaustion Syringe",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/anti-haemorrhagicSyringe.png"
+      },
+      {
+        "name": "Gel Dressings",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/gelDressings.png"
+      },
+      {
+        "name": "Refined Serum",
+        "rarity": "Event",
+        "image": "assets/images/item-addons/refinedSerum.png"
+      }
     ]
   },
   {
     "name": "Anniversary Med-Kit",
     "category": "Med-Kits",
+    "rarity": "Event",
+    "image": "assets/images/items/anniversaryMedKit.png",
     "addOns": [
-      "Bandages",
-      "Butterfly Tape",
-      "Rubber Gloves",
-      "Medical Scissors",
-      "Needle & Thread",
-      "Self Adherent Wrap",
-      "Sponge",
-      "Gauze Roll",
-      "Surgical Suture",
-      "Abdominal Dressing",
-      "Styptic Agent",
-      "Anti-Exhaustion Syringe",
-      "Gel Dressings",
-      "Refined Serum"
+      {
+        "name": "Bandages",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/bandages.png"
+      },
+      {
+        "name": "Butterfly Tape",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/butterflyTape.png"
+      },
+      {
+        "name": "Rubber Gloves",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/rubberGloves.png"
+      },
+      {
+        "name": "Medical Scissors",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/medicalScissors.png"
+      },
+      {
+        "name": "Needle & Thread",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/needle&Thread.png"
+      },
+      {
+        "name": "Self Adherent Wrap",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/selfAdherentWrap.png"
+      },
+      {
+        "name": "Sponge",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/sponge.png"
+      },
+      {
+        "name": "Gauze Roll",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gauzeRoll.png"
+      },
+      {
+        "name": "Surgical Suture",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/surgicalSuture.png"
+      },
+      {
+        "name": "Abdominal Dressing",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/abdominalDressing.png"
+      },
+      {
+        "name": "Styptic Agent",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/stypticAgent.png"
+      },
+      {
+        "name": "Anti-Exhaustion Syringe",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/anti-haemorrhagicSyringe.png"
+      },
+      {
+        "name": "Gel Dressings",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/gelDressings.png"
+      },
+      {
+        "name": "Refined Serum",
+        "rarity": "Event",
+        "image": "assets/images/item-addons/refinedSerum.png"
+      }
     ]
   },
   {
     "name": "Masquerade Med-Kit",
     "category": "Med-Kits",
+    "rarity": "Event",
+    "image": "assets/images/items/masqueradeMedKit.png",
     "addOns": [
-      "Bandages",
-      "Butterfly Tape",
-      "Rubber Gloves",
-      "Medical Scissors",
-      "Needle & Thread",
-      "Self Adherent Wrap",
-      "Sponge",
-      "Gauze Roll",
-      "Surgical Suture",
-      "Abdominal Dressing",
-      "Styptic Agent",
-      "Anti-Exhaustion Syringe",
-      "Gel Dressings",
-      "Refined Serum"
+      {
+        "name": "Bandages",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/bandages.png"
+      },
+      {
+        "name": "Butterfly Tape",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/butterflyTape.png"
+      },
+      {
+        "name": "Rubber Gloves",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/rubberGloves.png"
+      },
+      {
+        "name": "Medical Scissors",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/medicalScissors.png"
+      },
+      {
+        "name": "Needle & Thread",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/needle&Thread.png"
+      },
+      {
+        "name": "Self Adherent Wrap",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/selfAdherentWrap.png"
+      },
+      {
+        "name": "Sponge",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/sponge.png"
+      },
+      {
+        "name": "Gauze Roll",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gauzeRoll.png"
+      },
+      {
+        "name": "Surgical Suture",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/surgicalSuture.png"
+      },
+      {
+        "name": "Abdominal Dressing",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/abdominalDressing.png"
+      },
+      {
+        "name": "Styptic Agent",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/stypticAgent.png"
+      },
+      {
+        "name": "Anti-Exhaustion Syringe",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/anti-haemorrhagicSyringe.png"
+      },
+      {
+        "name": "Gel Dressings",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/gelDressings.png"
+      },
+      {
+        "name": "Refined Serum",
+        "rarity": "Event",
+        "image": "assets/images/item-addons/refinedSerum.png"
+      }
     ]
   },
   {
     "name": "Toolbox",
     "category": "Toolboxes",
+    "rarity": "Uncommon",
+    "image": "assets/images/items/toolbox.png",
     "addOns": [
-      "Clean Rag",
-      "Instructions",
-      "Scraps",
-      "Cutting Wire",
-      "Protective Gloves",
-      "Socket Swivels",
-      "Spring Clamp",
-      "Wire Spool",
-      "Grip Wrench",
-      "Hacksaw",
-      "Brand New Part"
+      {
+        "name": "Clean Rag",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/cleanRag.png"
+      },
+      {
+        "name": "Instructions",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/instructions.png"
+      },
+      {
+        "name": "Scraps",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/scraps.png"
+      },
+      {
+        "name": "Cutting Wire",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/cuttingWire.png"
+      },
+      {
+        "name": "Protective Gloves",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/protectiveGloves.png"
+      },
+      {
+        "name": "Socket Swivels",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/socketSwivels.png"
+      },
+      {
+        "name": "Spring Clamp",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/springClamp.png"
+      },
+      {
+        "name": "Wire Spool",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/wireSpool.png"
+      },
+      {
+        "name": "Grip Wrench",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gripWrench.png"
+      },
+      {
+        "name": "Hacksaw",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/hacksaw.png"
+      },
+      {
+        "name": "Brand New Part",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/brandNewPart.png"
+      }
     ]
   },
   {
     "name": "Worn-Out Tools",
     "category": "Toolboxes",
+    "rarity": "Common",
+    "image": "assets/images/items/wornOutTools.png",
     "addOns": [
-      "Clean Rag",
-      "Instructions",
-      "Scraps",
-      "Cutting Wire",
-      "Protective Gloves",
-      "Socket Swivels",
-      "Spring Clamp",
-      "Wire Spool",
-      "Grip Wrench",
-      "Hacksaw",
-      "Brand New Part"
+      {
+        "name": "Clean Rag",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/cleanRag.png"
+      },
+      {
+        "name": "Instructions",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/instructions.png"
+      },
+      {
+        "name": "Scraps",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/scraps.png"
+      },
+      {
+        "name": "Cutting Wire",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/cuttingWire.png"
+      },
+      {
+        "name": "Protective Gloves",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/protectiveGloves.png"
+      },
+      {
+        "name": "Socket Swivels",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/socketSwivels.png"
+      },
+      {
+        "name": "Spring Clamp",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/springClamp.png"
+      },
+      {
+        "name": "Wire Spool",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/wireSpool.png"
+      },
+      {
+        "name": "Grip Wrench",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gripWrench.png"
+      },
+      {
+        "name": "Hacksaw",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/hacksaw.png"
+      },
+      {
+        "name": "Brand New Part",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/brandNewPart.png"
+      }
     ]
   },
   {
     "name": "Mechanic's Toolbox",
     "category": "Toolboxes",
+    "rarity": "Rare",
+    "image": "assets/images/items/mechanicsToolbox.png",
     "addOns": [
-      "Clean Rag",
-      "Instructions",
-      "Scraps",
-      "Cutting Wire",
-      "Protective Gloves",
-      "Socket Swivels",
-      "Spring Clamp",
-      "Wire Spool",
-      "Grip Wrench",
-      "Hacksaw",
-      "Brand New Part"
+      {
+        "name": "Clean Rag",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/cleanRag.png"
+      },
+      {
+        "name": "Instructions",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/instructions.png"
+      },
+      {
+        "name": "Scraps",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/scraps.png"
+      },
+      {
+        "name": "Cutting Wire",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/cuttingWire.png"
+      },
+      {
+        "name": "Protective Gloves",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/protectiveGloves.png"
+      },
+      {
+        "name": "Socket Swivels",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/socketSwivels.png"
+      },
+      {
+        "name": "Spring Clamp",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/springClamp.png"
+      },
+      {
+        "name": "Wire Spool",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/wireSpool.png"
+      },
+      {
+        "name": "Grip Wrench",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gripWrench.png"
+      },
+      {
+        "name": "Hacksaw",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/hacksaw.png"
+      },
+      {
+        "name": "Brand New Part",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/brandNewPart.png"
+      }
     ]
   },
   {
     "name": "Commodious Toolbox",
     "category": "Toolboxes",
+    "rarity": "Rare",
+    "image": "assets/images/items/commodiousToolbox.png",
     "addOns": [
-      "Clean Rag",
-      "Instructions",
-      "Scraps",
-      "Cutting Wire",
-      "Protective Gloves",
-      "Socket Swivels",
-      "Spring Clamp",
-      "Wire Spool",
-      "Grip Wrench",
-      "Hacksaw",
-      "Brand New Part"
+      {
+        "name": "Clean Rag",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/cleanRag.png"
+      },
+      {
+        "name": "Instructions",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/instructions.png"
+      },
+      {
+        "name": "Scraps",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/scraps.png"
+      },
+      {
+        "name": "Cutting Wire",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/cuttingWire.png"
+      },
+      {
+        "name": "Protective Gloves",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/protectiveGloves.png"
+      },
+      {
+        "name": "Socket Swivels",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/socketSwivels.png"
+      },
+      {
+        "name": "Spring Clamp",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/springClamp.png"
+      },
+      {
+        "name": "Wire Spool",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/wireSpool.png"
+      },
+      {
+        "name": "Grip Wrench",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gripWrench.png"
+      },
+      {
+        "name": "Hacksaw",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/hacksaw.png"
+      },
+      {
+        "name": "Brand New Part",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/brandNewPart.png"
+      }
     ]
   },
   {
     "name": "Engineer's Toolbox",
     "category": "Toolboxes",
+    "rarity": "Very Rare",
+    "image": "assets/images/items/engineersToolbox.png",
     "addOns": [
-      "Clean Rag",
-      "Instructions",
-      "Scraps",
-      "Cutting Wire",
-      "Protective Gloves",
-      "Socket Swivels",
-      "Spring Clamp",
-      "Wire Spool",
-      "Grip Wrench",
-      "Hacksaw",
-      "Brand New Part"
+      {
+        "name": "Clean Rag",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/cleanRag.png"
+      },
+      {
+        "name": "Instructions",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/instructions.png"
+      },
+      {
+        "name": "Scraps",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/scraps.png"
+      },
+      {
+        "name": "Cutting Wire",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/cuttingWire.png"
+      },
+      {
+        "name": "Protective Gloves",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/protectiveGloves.png"
+      },
+      {
+        "name": "Socket Swivels",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/socketSwivels.png"
+      },
+      {
+        "name": "Spring Clamp",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/springClamp.png"
+      },
+      {
+        "name": "Wire Spool",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/wireSpool.png"
+      },
+      {
+        "name": "Grip Wrench",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gripWrench.png"
+      },
+      {
+        "name": "Hacksaw",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/hacksaw.png"
+      },
+      {
+        "name": "Brand New Part",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/brandNewPart.png"
+      }
     ]
   },
   {
     "name": "Alex's Toolbox",
     "category": "Toolboxes",
+    "rarity": "Very Rare",
+    "image": "assets/images/items/alexsToolbox.png",
     "addOns": [
-      "Clean Rag",
-      "Instructions",
-      "Scraps",
-      "Cutting Wire",
-      "Protective Gloves",
-      "Socket Swivels",
-      "Spring Clamp",
-      "Wire Spool",
-      "Grip Wrench",
-      "Hacksaw",
-      "Brand New Part"
+      {
+        "name": "Clean Rag",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/cleanRag.png"
+      },
+      {
+        "name": "Instructions",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/instructions.png"
+      },
+      {
+        "name": "Scraps",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/scraps.png"
+      },
+      {
+        "name": "Cutting Wire",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/cuttingWire.png"
+      },
+      {
+        "name": "Protective Gloves",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/protectiveGloves.png"
+      },
+      {
+        "name": "Socket Swivels",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/socketSwivels.png"
+      },
+      {
+        "name": "Spring Clamp",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/springClamp.png"
+      },
+      {
+        "name": "Wire Spool",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/wireSpool.png"
+      },
+      {
+        "name": "Grip Wrench",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gripWrench.png"
+      },
+      {
+        "name": "Hacksaw",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/hacksaw.png"
+      },
+      {
+        "name": "Brand New Part",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/brandNewPart.png"
+      }
     ]
   },
   {
     "name": "Festive Toolbox",
     "category": "Toolboxes",
+    "rarity": "Event",
+    "image": "assets/images/items/festiveToolbox.png",
     "addOns": [
-      "Clean Rag",
-      "Instructions",
-      "Scraps",
-      "Cutting Wire",
-      "Protective Gloves",
-      "Socket Swivels",
-      "Spring Clamp",
-      "Wire Spool",
-      "Grip Wrench",
-      "Hacksaw",
-      "Brand New Part"
+      {
+        "name": "Clean Rag",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/cleanRag.png"
+      },
+      {
+        "name": "Instructions",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/instructions.png"
+      },
+      {
+        "name": "Scraps",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/scraps.png"
+      },
+      {
+        "name": "Cutting Wire",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/cuttingWire.png"
+      },
+      {
+        "name": "Protective Gloves",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/protectiveGloves.png"
+      },
+      {
+        "name": "Socket Swivels",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/socketSwivels.png"
+      },
+      {
+        "name": "Spring Clamp",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/springClamp.png"
+      },
+      {
+        "name": "Wire Spool",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/wireSpool.png"
+      },
+      {
+        "name": "Grip Wrench",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gripWrench.png"
+      },
+      {
+        "name": "Hacksaw",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/hacksaw.png"
+      },
+      {
+        "name": "Brand New Part",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/brandNewPart.png"
+      }
     ]
   },
   {
     "name": "Anniversary Toolbox",
     "category": "Toolboxes",
+    "rarity": "Event",
+    "image": "assets/images/items/anniversaryToolbox.png",
     "addOns": [
-      "Clean Rag",
-      "Instructions",
-      "Scraps",
-      "Cutting Wire",
-      "Protective Gloves",
-      "Socket Swivels",
-      "Spring Clamp",
-      "Wire Spool",
-      "Grip Wrench",
-      "Hacksaw",
-      "Brand New Part"
+      {
+        "name": "Clean Rag",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/cleanRag.png"
+      },
+      {
+        "name": "Instructions",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/instructions.png"
+      },
+      {
+        "name": "Scraps",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/scraps.png"
+      },
+      {
+        "name": "Cutting Wire",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/cuttingWire.png"
+      },
+      {
+        "name": "Protective Gloves",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/protectiveGloves.png"
+      },
+      {
+        "name": "Socket Swivels",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/socketSwivels.png"
+      },
+      {
+        "name": "Spring Clamp",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/springClamp.png"
+      },
+      {
+        "name": "Wire Spool",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/wireSpool.png"
+      },
+      {
+        "name": "Grip Wrench",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gripWrench.png"
+      },
+      {
+        "name": "Hacksaw",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/hacksaw.png"
+      },
+      {
+        "name": "Brand New Part",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/brandNewPart.png"
+      }
     ]
   },
   {
     "name": "Masquerade Toolbox",
     "category": "Toolboxes",
+    "rarity": "Event",
+    "image": "assets/images/items/masqueradeToolbox.png",
     "addOns": [
-      "Clean Rag",
-      "Instructions",
-      "Scraps",
-      "Cutting Wire",
-      "Protective Gloves",
-      "Socket Swivels",
-      "Spring Clamp",
-      "Wire Spool",
-      "Grip Wrench",
-      "Hacksaw",
-      "Brand New Part"
+      {
+        "name": "Clean Rag",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/cleanRag.png"
+      },
+      {
+        "name": "Instructions",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/instructions.png"
+      },
+      {
+        "name": "Scraps",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/scraps.png"
+      },
+      {
+        "name": "Cutting Wire",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/cuttingWire.png"
+      },
+      {
+        "name": "Protective Gloves",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/protectiveGloves.png"
+      },
+      {
+        "name": "Socket Swivels",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/socketSwivels.png"
+      },
+      {
+        "name": "Spring Clamp",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/springClamp.png"
+      },
+      {
+        "name": "Wire Spool",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/wireSpool.png"
+      },
+      {
+        "name": "Grip Wrench",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/gripWrench.png"
+      },
+      {
+        "name": "Hacksaw",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/hacksaw.png"
+      },
+      {
+        "name": "Brand New Part",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/brandNewPart.png"
+      }
     ]
   },
   {
     "name": "Broken Key",
     "category": "Keys",
+    "rarity": "Common",
+    "image": "assets/images/items/brokenKey.png",
     "addOns": [
-      "Friendship Charm",
-      "Shrill Whistle",
-      "Braided Bauble",
-      "Unique Wedding Ring",
-      "Blood Amber"
+      {
+        "name": "Friendship Charm",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/friendshipCharm.png"
+      },
+      {
+        "name": "Shrill Whistle",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/shrillWhistle.png"
+      },
+      {
+        "name": "Braided Bauble",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/braidedBauble.png"
+      },
+      {
+        "name": "Unique Wedding Ring",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/uniqueWeddingRing.png"
+      },
+      {
+        "name": "Blood Amber",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/bloodAmber.png"
+      }
     ]
   },
   {
     "name": "Dull Key",
     "category": "Keys",
+    "rarity": "Uncommon",
+    "image": "assets/images/items/dullKey.png",
     "addOns": [
-      "Friendship Charm",
-      "Shrill Whistle",
-      "Braided Bauble",
-      "Unique Wedding Ring",
-      "Blood Amber"
+      {
+        "name": "Friendship Charm",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/friendshipCharm.png"
+      },
+      {
+        "name": "Shrill Whistle",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/shrillWhistle.png"
+      },
+      {
+        "name": "Braided Bauble",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/braidedBauble.png"
+      },
+      {
+        "name": "Unique Wedding Ring",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/uniqueWeddingRing.png"
+      },
+      {
+        "name": "Blood Amber",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/bloodAmber.png"
+      }
     ]
   },
   {
     "name": "Skeleton Key",
     "category": "Keys",
+    "rarity": "Rare",
+    "image": "assets/images/items/skeletonKey.png",
     "addOns": [
-      "Friendship Charm",
-      "Shrill Whistle",
-      "Braided Bauble",
-      "Unique Wedding Ring",
-      "Blood Amber"
+      {
+        "name": "Friendship Charm",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/friendshipCharm.png"
+      },
+      {
+        "name": "Shrill Whistle",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/shrillWhistle.png"
+      },
+      {
+        "name": "Braided Bauble",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/braidedBauble.png"
+      },
+      {
+        "name": "Unique Wedding Ring",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/uniqueWeddingRing.png"
+      },
+      {
+        "name": "Blood Amber",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/bloodAmber.png"
+      }
     ]
   },
   {
     "name": "Cryptic Map",
     "category": "Maps",
+    "rarity": "Common",
+    "image": "assets/images/items/CrypticMap.png",
     "addOns": [
-      "Glowing Ink",
-      "Gnarled Compass",
-      "Battered Tape",
-      "Sharpened Flint",
-      "Crimson Stamp"
+      {
+        "name": "Glowing Ink",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/glowingInk.png"
+      },
+      {
+        "name": "Gnarled Compass",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/gnarledCompass.png"
+      },
+      {
+        "name": "Battered Tape",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/batteredTape.png"
+      },
+      {
+        "name": "Sharpened Flint",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/sharpenedFlint.png"
+      },
+      {
+        "name": "Crimson Stamp",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/crimsonStamp.png"
+      }
     ]
   },
   {
     "name": "Scribbled Map",
     "category": "Maps",
+    "rarity": "Uncommon",
+    "image": "assets/images/items/map.png",
     "addOns": [
-      "Glowing Ink",
-      "Gnarled Compass",
-      "Battered Tape",
-      "Sharpened Flint",
-      "Crimson Stamp"
+      {
+        "name": "Glowing Ink",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/glowingInk.png"
+      },
+      {
+        "name": "Gnarled Compass",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/gnarledCompass.png"
+      },
+      {
+        "name": "Battered Tape",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/batteredTape.png"
+      },
+      {
+        "name": "Sharpened Flint",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/sharpenedFlint.png"
+      },
+      {
+        "name": "Crimson Stamp",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/crimsonStamp.png"
+      }
     ]
   },
   {
     "name": "Annotated Map",
     "category": "Maps",
+    "rarity": "Rare",
+    "image": "assets/images/items/rainbowMap.png",
     "addOns": [
-      "Glowing Ink",
-      "Gnarled Compass",
-      "Battered Tape",
-      "Sharpened Flint",
-      "Crimson Stamp"
+      {
+        "name": "Glowing Ink",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/glowingInk.png"
+      },
+      {
+        "name": "Gnarled Compass",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/gnarledCompass.png"
+      },
+      {
+        "name": "Battered Tape",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/batteredTape.png"
+      },
+      {
+        "name": "Sharpened Flint",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/sharpenedFlint.png"
+      },
+      {
+        "name": "Crimson Stamp",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/crimsonStamp.png"
+      }
     ]
   },
   {
     "name": "Bloodsense Map",
     "category": "Maps",
+    "rarity": "Event",
+    "image": "assets/images/items/bloodsenseMap.png",
     "addOns": [
-      "Glowing Ink",
-      "Gnarled Compass",
-      "Battered Tape",
-      "Sharpened Flint",
-      "Crimson Stamp"
+      {
+        "name": "Glowing Ink",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/glowingInk.png"
+      },
+      {
+        "name": "Gnarled Compass",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/gnarledCompass.png"
+      },
+      {
+        "name": "Battered Tape",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/batteredTape.png"
+      },
+      {
+        "name": "Sharpened Flint",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/sharpenedFlint.png"
+      },
+      {
+        "name": "Crimson Stamp",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/crimsonStamp.png"
+      }
     ]
   },
   {
     "name": "Apprentice's Fog Vial",
     "category": "Fog Vials",
+    "rarity": "Common",
+    "image": "assets/images/items/apprenticesFogVial.png",
     "addOns": [
-      "Volcanic Stone",
-      "Reactive Compound",
-      "Oily Sap",
-      "Mushroom Formula",
-      "Potent Extract"
+      {
+        "name": "Volcanic Stone",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/volcanicStone.png"
+      },
+      {
+        "name": "Reactive Compound",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/reactiveCompound.png"
+      },
+      {
+        "name": "Oily Sap",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/oilySap.png"
+      },
+      {
+        "name": "Mushroom Formula",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/mushroomFormula.png"
+      },
+      {
+        "name": "Potent Extract",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/potentExtract.png"
+      }
     ]
   },
   {
     "name": "Artisan's Fog Vial",
     "category": "Fog Vials",
+    "rarity": "Uncommon",
+    "image": "assets/images/items/artisansFogVial.png",
     "addOns": [
-      "Volcanic Stone",
-      "Reactive Compound",
-      "Oily Sap",
-      "Mushroom Formula",
-      "Potent Extract"
+      {
+        "name": "Volcanic Stone",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/volcanicStone.png"
+      },
+      {
+        "name": "Reactive Compound",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/reactiveCompound.png"
+      },
+      {
+        "name": "Oily Sap",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/oilySap.png"
+      },
+      {
+        "name": "Mushroom Formula",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/mushroomFormula.png"
+      },
+      {
+        "name": "Potent Extract",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/potentExtract.png"
+      }
     ]
   },
   {
     "name": "Vigo's Fog Vial",
     "category": "Fog Vials",
+    "rarity": "Rare",
+    "image": "assets/images/items/vigosFogVial.png",
     "addOns": [
-      "Volcanic Stone",
-      "Reactive Compound",
-      "Oily Sap",
-      "Mushroom Formula",
-      "Potent Extract"
+      {
+        "name": "Volcanic Stone",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/volcanicStone.png"
+      },
+      {
+        "name": "Reactive Compound",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/reactiveCompound.png"
+      },
+      {
+        "name": "Oily Sap",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/oilySap.png"
+      },
+      {
+        "name": "Mushroom Formula",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/mushroomFormula.png"
+      },
+      {
+        "name": "Potent Extract",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/potentExtract.png"
+      }
     ]
   },
   {
     "name": "Fog Crystal",
     "category": "Fog Vials",
+    "rarity": "Limited",
+    "image": "assets/images/items/calamariSmokeBomb.png",
     "addOns": [
-      "Volcanic Stone",
-      "Reactive Compound",
-      "Oily Sap",
-      "Mushroom Formula",
-      "Potent Extract"
+      {
+        "name": "Volcanic Stone",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/volcanicStone.png"
+      },
+      {
+        "name": "Reactive Compound",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/reactiveCompound.png"
+      },
+      {
+        "name": "Oily Sap",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/oilySap.png"
+      },
+      {
+        "name": "Mushroom Formula",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/mushroomFormula.png"
+      },
+      {
+        "name": "Potent Extract",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/potentExtract.png"
+      }
     ]
   },
   {
     "name": "Void Crystal",
     "category": "Fog Vials",
+    "rarity": "Limited",
+    "image": "assets/images/items/voidCrystal.png",
     "addOns": [
-      "Volcanic Stone",
-      "Reactive Compound",
-      "Oily Sap",
-      "Mushroom Formula",
-      "Potent Extract"
+      {
+        "name": "Volcanic Stone",
+        "rarity": "Common",
+        "image": "assets/images/item-addons/volcanicStone.png"
+      },
+      {
+        "name": "Reactive Compound",
+        "rarity": "Uncommon",
+        "image": "assets/images/item-addons/reactiveCompound.png"
+      },
+      {
+        "name": "Oily Sap",
+        "rarity": "Rare",
+        "image": "assets/images/item-addons/oilySap.png"
+      },
+      {
+        "name": "Mushroom Formula",
+        "rarity": "Very Rare",
+        "image": "assets/images/item-addons/mushroomFormula.png"
+      },
+      {
+        "name": "Potent Extract",
+        "rarity": "Ultra Rare",
+        "image": "assets/images/item-addons/potentExtract.png"
+      }
     ]
   }
 ]

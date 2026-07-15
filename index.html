@@ -50,11 +50,11 @@
             </div>
 
             <div class="control-panel control-panel--button-only">
+                <button id="survivor-perk-button" type="button">Choose Survivor Perks</button>
                 <label class="checkbox-label" for="survivor-perk-force-exhaustion">
                     <input id="survivor-perk-force-exhaustion" type="checkbox">
                     Force exactly 1 exhaustion perk
                 </label>
-                <button id="survivor-perk-button" type="button">Choose Survivor Perks</button>
             </div>
 
             <p id="survivor-perk-error" class="error is-hidden"></p>
@@ -81,7 +81,11 @@
 
             <p id="survivor-item-error" class="error is-hidden"></p>
 
-            <section id="survivor-item-results" class="results is-hidden">
+            <section
+                id="survivor-item-results"
+                class="results is-hidden"
+                data-placeholder-template="Image unavailable for __NAME__"
+            >
                 <p id="survivor-item-title" class="selection-title">Survivor item is:</p>
                 <section id="survivor-item-loadout" class="text-loadout"></section>
             </section>

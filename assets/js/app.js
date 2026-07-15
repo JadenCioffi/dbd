@@ -177,34 +177,107 @@ function chooseSurvivorPerks(perkPool, options = {}) {
     ], PERK_LOADOUT_SIZE);
 }
 
-function buildItemLoadoutCard(item, addOns) {
+function normalizeRarity(rarity) {
+    return rarity.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+}
+
+function buildRarityBadge(rarity) {
+    const badge = document.createElement("span");
+    badge.className = "rarity-badge";
+    badge.dataset.rarity = normalizeRarity(rarity);
+    badge.textContent = rarity;
+
+    return badge;
+}
+
+function buildItemEntryCard(entry, config) {
+    const article = document.createElement("article");
+    article.className = `item-loadout-entry item-loadout-entry--${config.variant}`;
+    article.dataset.rarity = normalizeRarity(entry.rarity);
+
+    const media = document.createElement("div");
+    media.className = "item-loadout-media";
+
+    if (entry.imageUrl) {
+        const image = document.createElement("img");
+        image.className = "item-loadout-image";
+        image.src = entry.imageUrl;
+        image.alt = entry.name;
+        media.appendChild(image);
+    } else {
+        const placeholder = document.createElement("div");
+        placeholder.className = "placeholder item-loadout-placeholder";
+        placeholder.textContent = config.placeholderTemplate.replace("__NAME__", entry.name);
+        media.appendChild(placeholder);
+    }
+
+    article.appendChild(media);
+
+    const meta = document.createElement("div");
+    meta.className = "item-loadout-meta";
+
+    const label = document.createElement("p");
+    label.className = "item-loadout-kind";
+    label.textContent = config.label;
+    meta.appendChild(label);
+
+    const header = document.createElement("div");
+    header.className = "item-loadout-header";
+
+    const heading = document.createElement("h2");
+    heading.textContent = entry.name;
+    header.appendChild(heading);
+    header.appendChild(buildRarityBadge(entry.rarity));
+
+    meta.appendChild(header);
+    article.appendChild(meta);
+
+    return article;
+}
+
+function buildItemLoadoutCard(item, addOns, placeholderTemplate) {
     const article = document.createElement("article");
     article.className = "text-loadout-card";
 
-    const categoryLabel = document.createElement("p");
-    categoryLabel.className = "text-loadout-label";
-    categoryLabel.textContent = item.category;
-    article.appendChild(categoryLabel);
+    const content = document.createElement("div");
+    content.className = "item-loadout-content";
 
-    const heading = document.createElement("h2");
-    heading.textContent = item.name;
-    article.appendChild(heading);
+    const itemColumn = document.createElement("section");
+    itemColumn.className = "item-loadout-column";
+
+    const itemLabel = document.createElement("p");
+    itemLabel.className = "text-loadout-label";
+    itemLabel.textContent = "Item";
+    itemColumn.appendChild(itemLabel);
+    itemColumn.appendChild(buildItemEntryCard(item, {
+        variant: "item",
+        label: item.category,
+        placeholderTemplate,
+    }));
+
+    const addOnColumn = document.createElement("section");
+    addOnColumn.className = "item-loadout-column";
 
     const addOnLabel = document.createElement("p");
-    addOnLabel.className = "text-loadout-subtitle";
-    addOnLabel.textContent = "Add-ons";
-    article.appendChild(addOnLabel);
+    addOnLabel.className = "text-loadout-label";
+    addOnLabel.textContent = "Compatible Add-ons";
+    addOnColumn.appendChild(addOnLabel);
 
-    const list = document.createElement("ul");
-    list.className = "text-loadout-list";
+    const addOnGrid = document.createElement("div");
+    addOnGrid.className = "item-loadout-addon-grid";
 
     addOns.forEach((addOn) => {
-        const listItem = document.createElement("li");
-        listItem.textContent = addOn;
-        list.appendChild(listItem);
+        addOnGrid.appendChild(buildItemEntryCard(addOn, {
+            variant: "addon",
+            label: "Add-on",
+            placeholderTemplate,
+        }));
     });
 
-    article.appendChild(list);
+    addOnColumn.appendChild(addOnGrid);
+    content.appendChild(itemColumn);
+    content.appendChild(addOnColumn);
+    article.appendChild(content);
 
     return article;
 }
@@ -213,6 +286,7 @@ function updateItemResults(payload) {
     const results = document.getElementById("survivor-item-results");
     const title = document.getElementById("survivor-item-title");
     const loadout = document.getElementById("survivor-item-loadout");
+    const placeholderTemplate = results.dataset.placeholderTemplate;
 
     setErrorMessage("survivor-item-error", payload.error);
     loadout.replaceChildren();
@@ -224,7 +298,7 @@ function updateItemResults(payload) {
 
     results.classList.remove("is-hidden");
     title.textContent = "Survivor item is:";
-    loadout.appendChild(buildItemLoadoutCard(payload.item, payload.addOns));
+    loadout.appendChild(buildItemLoadoutCard(payload.item, payload.addOns, placeholderTemplate));
 }
 
 async function loadQuotes() {
@@ -294,7 +368,16 @@ async function loadItems() {
         throw new Error(`Unable to load item data (${response.status})`);
     }
 
-    return response.json();
+    const data = await response.json();
+
+    return data.map((item) => ({
+        ...item,
+        imageUrl: item.image ? `./${item.image}` : null,
+        addOns: item.addOns.map((addOn) => ({
+            ...addOn,
+            imageUrl: addOn.image ? `./${addOn.image}` : null,
+        })),
+    }));
 }
 
 function createKillerHandler(killersPromise) {
