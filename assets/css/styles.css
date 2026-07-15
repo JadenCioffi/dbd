@@ -306,19 +306,40 @@ button {
     line-height: 1.7;
 }
 
-.item-loadout-content {
+.item-loadout-board {
     display: grid;
-    grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-areas:
+        "item addon-one"
+        "button addon-two";
     gap: 1rem;
 }
 
-.item-loadout-column {
+.item-loadout-slot {
     min-width: 0;
 }
 
-.item-loadout-addon-grid {
+.item-loadout-slot--item {
+    grid-area: item;
+}
+
+.item-loadout-slot--addon-one {
+    grid-area: addon-one;
+}
+
+.item-loadout-slot--addon-two {
+    grid-area: addon-two;
+}
+
+.item-loadout-slot--button {
+    grid-area: button;
     display: grid;
-    gap: 1rem;
+    place-items: center;
+}
+
+.item-loadout-slot--button button {
+    width: auto;
+    min-height: auto;
 }
 
 .item-loadout-entry {
@@ -342,11 +363,11 @@ button {
 }
 
 .item-loadout-entry[data-rarity="common"] {
-    --rarity-accent: #7b858e;
+    --rarity-accent: #472407;
 }
 
 .item-loadout-entry[data-rarity="uncommon"] {
-    --rarity-accent: #d1b85a;
+    --rarity-accent: #56972b;
 }
 
 .item-loadout-entry[data-rarity="rare"] {
@@ -379,10 +400,6 @@ button {
     background:
         radial-gradient(circle at top, rgba(255, 255, 255, 0.12), transparent 58%),
         linear-gradient(180deg, rgba(255, 255, 255, 0.04), rgba(0, 0, 0, 0.18));
-}
-
-.item-loadout-entry--item .item-loadout-media {
-    width: min(100%, 9.5rem);
 }
 
 .item-loadout-image {
@@ -473,21 +490,19 @@ button {
         grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .item-loadout-content {
+    .item-loadout-board {
         grid-template-columns: 1fr;
-    }
-
-    .item-loadout-addon-grid {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-areas:
+            "item"
+            "addon-one"
+            "addon-two"
+            "button";
     }
 
     .item-loadout-media {
         width: min(100%, 7.25rem);
     }
 
-    .item-loadout-entry--item .item-loadout-media {
-        width: min(100%, 8rem);
-    }
 }
 
 @media (max-width: 560px) {
@@ -501,16 +516,11 @@ button {
         grid-template-columns: 1fr;
     }
 
-    .item-loadout-addon-grid {
-        grid-template-columns: 1fr;
-    }
-
     .checkbox-label {
         white-space: normal;
     }
 
-    .item-loadout-media,
-    .item-loadout-entry--item .item-loadout-media {
+    .item-loadout-media {
         width: min(100%, 6.5rem);
     }
 }

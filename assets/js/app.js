@@ -193,7 +193,10 @@ function buildRarityBadge(rarity) {
 function buildItemEntryCard(entry, config) {
     const article = document.createElement("article");
     article.className = `item-loadout-entry item-loadout-entry--${config.variant}`;
-    article.dataset.rarity = normalizeRarity(entry.rarity);
+
+    if (entry.rarity) {
+        article.dataset.rarity = normalizeRarity(entry.rarity);
+    }
 
     const media = document.createElement("div");
     media.className = "item-loadout-media";
@@ -207,7 +210,7 @@ function buildItemEntryCard(entry, config) {
     } else {
         const placeholder = document.createElement("div");
         placeholder.className = "placeholder item-loadout-placeholder";
-        placeholder.textContent = config.placeholderTemplate.replace("__NAME__", entry.name);
+        placeholder.textContent = config.emptyStateText || config.placeholderTemplate.replace("__NAME__", entry.name);
         media.appendChild(placeholder);
     }
 
@@ -227,7 +230,10 @@ function buildItemEntryCard(entry, config) {
     const heading = document.createElement("h2");
     heading.textContent = entry.name;
     header.appendChild(heading);
-    header.appendChild(buildRarityBadge(entry.rarity));
+
+    if (entry.rarity) {
+        header.appendChild(buildRarityBadge(entry.rarity));
+    }
 
     meta.appendChild(header);
     article.appendChild(meta);
@@ -235,70 +241,59 @@ function buildItemEntryCard(entry, config) {
     return article;
 }
 
-function buildItemLoadoutCard(item, addOns, placeholderTemplate) {
-    const article = document.createElement("article");
-    article.className = "text-loadout-card";
+function buildPendingLoadoutEntry(name) {
+    return {
+        name,
+        rarity: null,
+        imageUrl: null,
+    };
+}
 
-    const content = document.createElement("div");
-    content.className = "item-loadout-content";
+function renderItemSlot(elementId, entry, config) {
+    const slot = document.getElementById(elementId);
 
-    const itemColumn = document.createElement("section");
-    itemColumn.className = "item-loadout-column";
+    if (!slot) {
+        return;
+    }
 
-    const itemLabel = document.createElement("p");
-    itemLabel.className = "text-loadout-label";
-    itemLabel.textContent = "Item";
-    itemColumn.appendChild(itemLabel);
-    itemColumn.appendChild(buildItemEntryCard(item, {
-        variant: "item",
-        label: item.category,
-        placeholderTemplate,
-    }));
-
-    const addOnColumn = document.createElement("section");
-    addOnColumn.className = "item-loadout-column";
-
-    const addOnLabel = document.createElement("p");
-    addOnLabel.className = "text-loadout-label";
-    addOnLabel.textContent = "Compatible Add-ons";
-    addOnColumn.appendChild(addOnLabel);
-
-    const addOnGrid = document.createElement("div");
-    addOnGrid.className = "item-loadout-addon-grid";
-
-    addOns.forEach((addOn) => {
-        addOnGrid.appendChild(buildItemEntryCard(addOn, {
-            variant: "addon",
-            label: "Add-on",
-            placeholderTemplate,
-        }));
-    });
-
-    addOnColumn.appendChild(addOnGrid);
-    content.appendChild(itemColumn);
-    content.appendChild(addOnColumn);
-    article.appendChild(content);
-
-    return article;
+    slot.replaceChildren(buildItemEntryCard(entry, config));
 }
 
 function updateItemResults(payload) {
     const results = document.getElementById("survivor-item-results");
     const title = document.getElementById("survivor-item-title");
-    const loadout = document.getElementById("survivor-item-loadout");
     const placeholderTemplate = results.dataset.placeholderTemplate;
 
     setErrorMessage("survivor-item-error", payload.error);
-    loadout.replaceChildren();
 
-    if (!payload.item) {
-        results.classList.add("is-hidden");
-        return;
-    }
+    const itemEntry = payload.item || buildPendingLoadoutEntry("No item rolled yet");
+    const addOnEntries = payload.item
+        ? payload.addOns
+        : [
+            buildPendingLoadoutEntry("First add-on will appear here"),
+            buildPendingLoadoutEntry("Second add-on will appear here"),
+        ];
 
-    results.classList.remove("is-hidden");
-    title.textContent = "Survivor item is:";
-    loadout.appendChild(buildItemLoadoutCard(payload.item, payload.addOns, placeholderTemplate));
+    title.textContent = "Survivor item loadout:";
+
+    renderItemSlot("survivor-item-slot", itemEntry, {
+        variant: "item",
+        label: payload.item ? itemEntry.category : "Item",
+        placeholderTemplate,
+        emptyStateText: "Roll to generate an item",
+    });
+    renderItemSlot("survivor-addon-one-slot", addOnEntries[0], {
+        variant: "addon",
+        label: "Add-on",
+        placeholderTemplate,
+        emptyStateText: "Roll to generate the first add-on",
+    });
+    renderItemSlot("survivor-addon-two-slot", addOnEntries[1], {
+        variant: "addon",
+        label: "Add-on",
+        placeholderTemplate,
+        emptyStateText: "Roll to generate the second add-on",
+    });
 }
 
 async function loadQuotes() {
@@ -486,6 +481,12 @@ document.addEventListener("DOMContentLoaded", () => {
     ) {
         return;
     }
+
+    updateItemResults({
+        error: null,
+        item: null,
+        addOns: [],
+    });
 
     killersPromise
         .then((killers) => {
