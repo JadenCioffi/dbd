@@ -157,6 +157,26 @@ function updatePerkResults(config, perks) {
     });
 }
 
+function chooseSurvivorPerks(perkPool, options = {}) {
+    const { forceExactlyOneExhaustion = false } = options;
+
+    if (!forceExactlyOneExhaustion) {
+        return chooseDistinct(perkPool, PERK_LOADOUT_SIZE);
+    }
+
+    const exhaustionPerks = perkPool.filter((perk) => perk.isExhaustionPerk);
+    const nonExhaustionPerks = perkPool.filter((perk) => !perk.isExhaustionPerk);
+
+    if (exhaustionPerks.length === 0 || nonExhaustionPerks.length < PERK_LOADOUT_SIZE - 1) {
+        throw new Error("Not enough survivor perks are available to force exactly one exhaustion perk.");
+    }
+
+    return chooseDistinct([
+        ...chooseDistinct(exhaustionPerks, 1),
+        ...chooseDistinct(nonExhaustionPerks, PERK_LOADOUT_SIZE - 1),
+    ], PERK_LOADOUT_SIZE);
+}
+
 function buildItemLoadoutCard(item, addOns) {
     const article = document.createElement("article");
     article.className = "text-loadout-card";
@@ -294,15 +314,22 @@ function createKillerHandler(killersPromise) {
     };
 }
 
-function createPerkHandler(perksPromise, perkType, config) {
+function createPerkHandler(perksPromise, perkType, config, options = {}) {
     return async function handlePerkSelection() {
         try {
             const perkData = await perksPromise;
             const perkPool = perkType === "survivor" ? perkData.survivorPerks : perkData.killerPerks;
-            const selectedPerks = chooseDistinct(perkPool, PERK_LOADOUT_SIZE);
+            const selectedPerks = perkType === "survivor"
+                ? chooseSurvivorPerks(perkPool, {
+                    forceExactlyOneExhaustion: options.forceExactlyOneExhaustion?.() ?? false,
+                })
+                : chooseDistinct(perkPool, PERK_LOADOUT_SIZE);
             updatePerkResults(config, selectedPerks);
         } catch (error) {
-            setErrorMessage(config.errorId, "Unable to load perks right now.");
+            const message = error.message === "Not enough survivor perks are available to force exactly one exhaustion perk."
+                ? error.message
+                : "Unable to load perks right now.";
+            setErrorMessage(config.errorId, message);
         }
     };
 }
@@ -353,6 +380,7 @@ function initializeQuote(quotesPromise) {
 document.addEventListener("DOMContentLoaded", () => {
     const killerForm = document.getElementById("killer-form");
     const survivorPerkButton = document.getElementById("survivor-perk-button");
+    const survivorPerkForceExhaustion = document.getElementById("survivor-perk-force-exhaustion");
     const survivorItemButton = document.getElementById("survivor-item-button");
     const killerPerkButton = document.getElementById("killer-perk-button");
     const numSelectionsInput = document.getElementById("num_selections");
@@ -364,7 +392,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
     initializeQuote(quotesPromise);
 
-    if (!killerForm || !survivorPerkButton || !survivorItemButton || !killerPerkButton || !numSelectionsInput || !helperText) {
+    if (
+        !killerForm
+        || !survivorPerkButton
+        || !survivorPerkForceExhaustion
+        || !survivorItemButton
+        || !killerPerkButton
+        || !numSelectionsInput
+        || !helperText
+    ) {
         return;
     }
 
@@ -386,6 +422,8 @@ document.addEventListener("DOMContentLoaded", () => {
             titleId: "survivor-perk-title",
             gridId: "survivor-perk-grid",
             titleText: "Survivor perks are:",
+        }, {
+            forceExactlyOneExhaustion: () => survivorPerkForceExhaustion.checked,
         }),
     );
     survivorItemButton.addEventListener("click", createItemHandler(itemsPromise));

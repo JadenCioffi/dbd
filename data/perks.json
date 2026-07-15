@@ -3,6 +3,7 @@
     "id": "aNursesCalling",
     "name": "A Nurses Calling",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/aNursesCalling.png",
     "description": ""
   },
@@ -10,6 +11,7 @@
     "id": "aceInTheHole",
     "name": "Ace In The Hole",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/aceInTheHole.png",
     "description": ""
   },
@@ -17,6 +19,7 @@
     "id": "adrenaline",
     "name": "Adrenaline",
     "type": "survivor",
+    "isExhaustionPerk": true,
     "image": "assets/images/perks/survivor/adrenaline.png",
     "description": ""
   },
@@ -24,6 +27,7 @@
     "id": "aftercare",
     "name": "Aftercare",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/aftercare.png",
     "description": ""
   },
@@ -31,6 +35,7 @@
     "id": "agitation",
     "name": "Agitation",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/agitation.png",
     "description": ""
   },
@@ -38,6 +43,7 @@
     "id": "alert",
     "name": "Alert",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/alert.png",
     "description": ""
   },
@@ -45,6 +51,7 @@
     "id": "alienInstinct",
     "name": "Alien Instinct",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/alienInstinct.png",
     "description": ""
   },
@@ -52,6 +59,7 @@
     "id": "allShakingThunder",
     "name": "All Shaking Thunder",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/allShakingThunder.png",
     "description": ""
   },
@@ -59,6 +67,7 @@
     "id": "anyMeansNecessary",
     "name": "Any Means Necessary",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/anyMeansNecessary.png",
     "description": ""
   },
@@ -66,6 +75,7 @@
     "id": "appraisal",
     "name": "Appraisal",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/appraisal.png",
     "description": ""
   },
@@ -73,6 +83,7 @@
     "id": "autodidact",
     "name": "Autodidact",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/autodidact.png",
     "description": ""
   },
@@ -80,6 +91,7 @@
     "id": "awakenedAwareness",
     "name": "Awakened Awareness",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/awakenedAwareness.png",
     "description": ""
   },
@@ -87,6 +99,7 @@
     "id": "babysitter",
     "name": "Babysitter",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/babysitter.png",
     "description": ""
   },
@@ -94,6 +107,7 @@
     "id": "backgroundPlayer",
     "name": "Background Player",
     "type": "survivor",
+    "isExhaustionPerk": true,
     "image": "assets/images/perks/survivor/backgroundPlayer.png",
     "description": ""
   },
@@ -101,6 +115,7 @@
     "id": "balancedLanding",
     "name": "Balanced Landing",
     "type": "survivor",
+    "isExhaustionPerk": true,
     "image": "assets/images/perks/survivor/balancedLanding.png",
     "description": ""
   },
@@ -108,6 +123,7 @@
     "id": "bamboozle",
     "name": "Bamboozle",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/bamboozle.png",
     "description": ""
   },
@@ -115,6 +131,7 @@
     "id": "barbecueAndChilli",
     "name": "Barbecue And Chilli",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/barbecueAndChilli.png",
     "description": ""
   },
@@ -122,6 +139,7 @@
     "id": "bardicInspiration",
     "name": "Bardic Inspiration",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/bardicInspiration.png",
     "description": ""
   },
@@ -129,6 +147,7 @@
     "id": "batteriesIncluded",
     "name": "Batteries Included",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/batteriesIncluded.png",
     "description": ""
   },
@@ -136,6 +155,7 @@
     "id": "beastOfPrey",
     "name": "Beast Of Prey",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/beastOfPrey.png",
     "description": ""
   },
@@ -143,6 +163,7 @@
     "id": "betterThanNew",
     "name": "Better Than New",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/betterThanNew.png",
     "description": ""
   },
@@ -150,6 +171,7 @@
     "id": "betterTogether",
     "name": "Better Together",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/betterTogether.png",
     "description": ""
   },
@@ -157,6 +179,7 @@
     "id": "biteTheBullet",
     "name": "Bite The Bullet",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/biteTheBullet.png",
     "description": ""
   },
@@ -164,6 +187,7 @@
     "id": "bitterMurmur",
     "name": "Bitter Murmur",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/bitterMurmur.png",
     "description": ""
   },
@@ -171,6 +195,7 @@
     "id": "blastMine",
     "name": "Blast Mine",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/blastMine.png",
     "description": ""
   },
@@ -178,6 +203,7 @@
     "id": "bloodEcho",
     "name": "Blood Echo",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/bloodEcho.png",
     "description": ""
   },
@@ -185,6 +211,7 @@
     "id": "bloodPact",
     "name": "Blood Pact",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/bloodPact.png",
     "description": ""
   },
@@ -192,6 +219,7 @@
     "id": "bloodRush",
     "name": "Blood Rush",
     "type": "survivor",
+    "isExhaustionPerk": true,
     "image": "assets/images/perks/survivor/bloodRush.png",
     "description": ""
   },
@@ -199,6 +227,7 @@
     "id": "bloodWarden",
     "name": "Blood Warden",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/bloodWarden.png",
     "description": ""
   },
@@ -206,6 +235,7 @@
     "id": "bloodhound",
     "name": "Bloodhound",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/bloodhound.png",
     "description": ""
   },
@@ -213,6 +243,7 @@
     "id": "boilOver",
     "name": "Boil Over",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/boilOver.png",
     "description": ""
   },
@@ -220,6 +251,7 @@
     "id": "bond",
     "name": "Bond",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/bond.png",
     "description": ""
   },
@@ -227,6 +259,7 @@
     "id": "boonCircleOfHealing",
     "name": "Boon Circle Of Healing",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/boonCircleOfHealing.png",
     "description": ""
   },
@@ -234,6 +267,7 @@
     "id": "boonDarkTheory",
     "name": "Boon Dark Theory",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/boonDarkTheory.png",
     "description": ""
   },
@@ -241,6 +275,7 @@
     "id": "boonExponential",
     "name": "Boon Exponential",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/boonExponential.png",
     "description": ""
   },
@@ -248,6 +283,7 @@
     "id": "boonIllumination",
     "name": "Boon Illumination",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/boonIllumination.png",
     "description": ""
   },
@@ -255,6 +291,7 @@
     "id": "boonShadowStep",
     "name": "Boon Shadow Step",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/boonShadowStep.png",
     "description": ""
   },
@@ -262,6 +299,7 @@
     "id": "borrowedTime",
     "name": "Borrowed Time",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/borrowedTime.png",
     "description": ""
   },
@@ -269,6 +307,7 @@
     "id": "botanyKnowledge",
     "name": "Botany Knowledge",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/botanyKnowledge.png",
     "description": ""
   },
@@ -276,6 +315,7 @@
     "id": "breakdown",
     "name": "Breakdown",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/breakdown.png",
     "description": ""
   },
@@ -283,6 +323,7 @@
     "id": "breakout",
     "name": "Breakout",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/breakout.png",
     "description": ""
   },
@@ -290,6 +331,7 @@
     "id": "brutalStrength",
     "name": "Brutal Strength",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/brutalStrength.png",
     "description": ""
   },
@@ -297,6 +339,7 @@
     "id": "buckleUp",
     "name": "Buckle Up",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/buckleUp.png",
     "description": ""
   },
@@ -304,6 +347,7 @@
     "id": "builtToLast",
     "name": "Built To Last",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/builtToLast.png",
     "description": ""
   },
@@ -311,6 +355,7 @@
     "id": "callOfBrine",
     "name": "Call Of Brine",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/callOfBrine.png",
     "description": ""
   },
@@ -318,6 +363,7 @@
     "id": "calmSpirit",
     "name": "Calm Spirit",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/calmSpirit.png",
     "description": ""
   },
@@ -325,6 +371,7 @@
     "id": "camaraderie",
     "name": "Camaraderie",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/camaraderie.png",
     "description": ""
   },
@@ -332,6 +379,7 @@
     "id": "championOfLight",
     "name": "Champion Of Light",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/championOfLight.png",
     "description": ""
   },
@@ -339,6 +387,7 @@
     "id": "chemicalTrap",
     "name": "Chemical Trap",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/chemicalTrap.png",
     "description": ""
   },
@@ -346,6 +395,7 @@
     "id": "clairvoyance",
     "name": "Clairvoyance",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/clairvoyance.png",
     "description": ""
   },
@@ -353,6 +403,7 @@
     "id": "cleanBreak",
     "name": "Clean Break",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/cleanBreak.png",
     "description": ""
   },
@@ -360,6 +411,7 @@
     "id": "correctiveAction",
     "name": "Corrective Action",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/correctiveAction.png",
     "description": ""
   },
@@ -367,6 +419,7 @@
     "id": "corruptIntervention",
     "name": "Corrupt Intervention",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/corruptIntervention.png",
     "description": ""
   },
@@ -374,6 +427,7 @@
     "id": "coulrophobia",
     "name": "Coulrophobia",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/coulrophobia.png",
     "description": ""
   },
@@ -381,6 +435,7 @@
     "id": "counterforce",
     "name": "Counterforce",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/counterforce.png",
     "description": ""
   },
@@ -388,6 +443,7 @@
     "id": "coupDeGrace",
     "name": "Coup De Grace",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/coupDeGrace.png",
     "description": ""
   },
@@ -395,6 +451,7 @@
     "id": "crossExamination",
     "name": "Cross Examination",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/crossExamination.png",
     "description": ""
   },
@@ -402,6 +459,7 @@
     "id": "cruelLimits",
     "name": "Cruel Limits",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/cruelLimits.png",
     "description": ""
   },
@@ -409,6 +467,7 @@
     "id": "cutLoose",
     "name": "Cut Loose",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/cutLoose.png",
     "description": ""
   },
@@ -416,6 +475,7 @@
     "id": "danceWithMe",
     "name": "Dance With Me",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/danceWithMe.png",
     "description": ""
   },
@@ -423,6 +483,7 @@
     "id": "darkArrogance",
     "name": "Dark Arrogance",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/darkArrogance.png",
     "description": ""
   },
@@ -430,6 +491,7 @@
     "id": "darkDevotion",
     "name": "Dark Devotion",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/darkDevotion.png",
     "description": ""
   },
@@ -437,6 +499,7 @@
     "id": "darkSense",
     "name": "Dark Sense",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/darkSense.png",
     "description": ""
   },
@@ -444,6 +507,7 @@
     "id": "darknessRevealed",
     "name": "Darkness Revealed",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/darknessRevealed.png",
     "description": ""
   },
@@ -451,6 +515,7 @@
     "id": "deadHard",
     "name": "Dead Hard",
     "type": "survivor",
+    "isExhaustionPerk": true,
     "image": "assets/images/perks/survivor/deadHard.png",
     "description": ""
   },
@@ -458,6 +523,7 @@
     "id": "deadMansSwitch",
     "name": "Dead Mans Switch",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/deadMansSwitch.png",
     "description": ""
   },
@@ -465,6 +531,7 @@
     "id": "deadline",
     "name": "Deadline",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/deadline.png",
     "description": ""
   },
@@ -472,6 +539,7 @@
     "id": "deathbound",
     "name": "Deathbound",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/deathbound.png",
     "description": ""
   },
@@ -479,6 +547,7 @@
     "id": "deception",
     "name": "Deception",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/deception.png",
     "description": ""
   },
@@ -486,6 +555,7 @@
     "id": "decisiveStrike",
     "name": "Decisive Strike",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/decisiveStrike.png",
     "description": ""
   },
@@ -493,6 +563,7 @@
     "id": "deerstalker",
     "name": "Deerstalker",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/deerstalker.png",
     "description": ""
   },
@@ -500,6 +571,7 @@
     "id": "dejaVu",
     "name": "Deja Vu",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/dejaVu.png",
     "description": ""
   },
@@ -507,6 +579,7 @@
     "id": "deliverance",
     "name": "Deliverance",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/deliverance.png",
     "description": ""
   },
@@ -514,6 +587,7 @@
     "id": "desperateMeasures",
     "name": "Desperate Measures",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/desperateMeasures.png",
     "description": ""
   },
@@ -521,6 +595,7 @@
     "id": "detectivesHunch",
     "name": "Detectives Hunch",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/detectivesHunch.png",
     "description": ""
   },
@@ -528,6 +603,7 @@
     "id": "discordance",
     "name": "Discordance",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/discordance.png",
     "description": ""
   },
@@ -535,6 +611,7 @@
     "id": "dissolution",
     "name": "Dissolution",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/dissolution.png",
     "description": ""
   },
@@ -542,6 +619,7 @@
     "id": "distortion",
     "name": "Distortion",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/distortion.png",
     "description": ""
   },
@@ -549,6 +627,7 @@
     "id": "distressing",
     "name": "Distressing",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/distressing.png",
     "description": ""
   },
@@ -556,6 +635,7 @@
     "id": "diversion",
     "name": "Diversion",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/diversion.png",
     "description": ""
   },
@@ -563,6 +643,7 @@
     "id": "dominance",
     "name": "Dominance",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/dominance.png",
     "description": ""
   },
@@ -570,6 +651,7 @@
     "id": "dragonsGrip",
     "name": "Dragons Grip",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/dragonsGrip.png",
     "description": ""
   },
@@ -577,6 +659,7 @@
     "id": "dramaturgy",
     "name": "Dramaturgy",
     "type": "survivor",
+    "isExhaustionPerk": true,
     "image": "assets/images/perks/survivor/dramaturgy.png",
     "description": ""
   },
@@ -584,6 +667,7 @@
     "id": "dyingLight",
     "name": "Dying Light",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/dyingLight.png",
     "description": ""
   },
@@ -591,6 +675,7 @@
     "id": "empathicConnection",
     "name": "Empathic Connection",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/empathicConnection.png",
     "description": ""
   },
@@ -598,6 +683,7 @@
     "id": "empathy",
     "name": "Empathy",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/empathy.png",
     "description": ""
   },
@@ -605,6 +691,7 @@
     "id": "enduring",
     "name": "Enduring",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/enduring.png",
     "description": ""
   },
@@ -612,6 +699,7 @@
     "id": "eruption",
     "name": "Eruption",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/eruption.png",
     "description": ""
   },
@@ -619,6 +707,7 @@
     "id": "Exultation",
     "name": "Exultation",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/Exultation.png",
     "description": ""
   },
@@ -626,6 +715,7 @@
     "id": "EyesOfBelmont",
     "name": "Eyes Of Belmont",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/EyesOfBelmont.png",
     "description": ""
   },
@@ -633,6 +723,7 @@
     "id": "fastTrack",
     "name": "Fast Track",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/fastTrack.png",
     "description": ""
   },
@@ -640,6 +731,7 @@
     "id": "finesse",
     "name": "Finesse",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/finesse.png",
     "description": ""
   },
@@ -647,6 +739,7 @@
     "id": "fireUp",
     "name": "Fire Up",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/fireUp.png",
     "description": ""
   },
@@ -654,6 +747,7 @@
     "id": "fixated",
     "name": "Fixated",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/fixated.png",
     "description": ""
   },
@@ -661,6 +755,7 @@
     "id": "flashbang",
     "name": "Flashbang",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/flashbang.png",
     "description": ""
   },
@@ -668,6 +763,7 @@
     "id": "flip-Flop",
     "name": "Flip- Flop",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/flip-Flop.png",
     "description": ""
   },
@@ -675,6 +771,7 @@
     "id": "fogwise",
     "name": "Fogwise",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/fogwise.png",
     "description": ""
   },
@@ -682,6 +779,7 @@
     "id": "forThePeople",
     "name": "For The People",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/forThePeople.png",
     "description": ""
   },
@@ -689,6 +787,7 @@
     "id": "forcedHesitation",
     "name": "Forced Hesitation",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/forcedHesitation.png",
     "description": ""
   },
@@ -696,6 +795,7 @@
     "id": "forcedPenance",
     "name": "Forced Penance",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/forcedPenance.png",
     "description": ""
   },
@@ -703,6 +803,7 @@
     "id": "foreverEntwined",
     "name": "Forever Entwined",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/foreverEntwined.png",
     "description": ""
   },
@@ -710,6 +811,7 @@
     "id": "franklinsDemise",
     "name": "Franklins Demise",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/franklinsDemise.png",
     "description": ""
   },
@@ -717,6 +819,7 @@
     "id": "friendlyCompetition",
     "name": "Friendly Competition",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/friendlyCompetition.png",
     "description": ""
   },
@@ -724,6 +827,7 @@
     "id": "friendsTilTheEnd",
     "name": "Friends Til The End",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/friendsTilTheEnd.png",
     "description": ""
   },
@@ -731,6 +835,7 @@
     "id": "furtiveChase",
     "name": "Furtive Chase",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/furtiveChase.png",
     "description": ""
   },
@@ -738,6 +843,7 @@
     "id": "gameAfoot",
     "name": "Game Afoot",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/gameAfoot.png",
     "description": ""
   },
@@ -745,6 +851,7 @@
     "id": "gearhead",
     "name": "Gearhead",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/gearhead.png",
     "description": ""
   },
@@ -752,6 +859,7 @@
     "id": "geneticLimits",
     "name": "Genetic Limits",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/geneticLimits.png",
     "description": ""
   },
@@ -759,6 +867,7 @@
     "id": "grimEmbrace",
     "name": "Grim Embrace",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/grimEmbrace.png",
     "description": ""
   },
@@ -766,6 +875,7 @@
     "id": "hardened",
     "name": "Hardened",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/hardened.png",
     "description": ""
   },
@@ -773,6 +883,7 @@
     "id": "haywire",
     "name": "Haywire",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/haywire.png",
     "description": ""
   },
@@ -780,6 +891,7 @@
     "id": "headOn",
     "name": "Head On",
     "type": "survivor",
+    "isExhaustionPerk": true,
     "image": "assets/images/perks/survivor/headOn.png",
     "description": ""
   },
@@ -787,6 +899,7 @@
     "id": "helpWanted",
     "name": "Help Wanted",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/helpWanted.png",
     "description": ""
   },
@@ -794,6 +907,7 @@
     "id": "hexBloodFavour",
     "name": "Hex Blood Favour",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexBloodFavour.png",
     "description": ""
   },
@@ -801,6 +915,7 @@
     "id": "hexCrowdControl",
     "name": "Hex Crowd Control",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexCrowdControl.png",
     "description": ""
   },
@@ -808,6 +923,7 @@
     "id": "hexDevourHope",
     "name": "Hex Devour Hope",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexDevourHope.png",
     "description": ""
   },
@@ -815,6 +931,7 @@
     "id": "hexFaceTheDarkness",
     "name": "Hex Face The Darkness",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexFaceTheDarkness.png",
     "description": ""
   },
@@ -822,6 +939,7 @@
     "id": "hexHauntedGround",
     "name": "Hex Haunted Ground",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexHauntedGround.png",
     "description": ""
   },
@@ -829,6 +947,7 @@
     "id": "hexHuntressLullaby",
     "name": "Hex Huntress Lullaby",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexHuntressLullaby.png",
     "description": ""
   },
@@ -836,6 +955,7 @@
     "id": "hexNoOneEscapesDeath",
     "name": "Hex No One Escapes Death",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexNoOneEscapesDeath.png",
     "description": ""
   },
@@ -843,6 +963,7 @@
     "id": "hexNothingButMisery",
     "name": "Hex Nothing But Misery",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexNothingButMisery.png",
     "description": ""
   },
@@ -850,6 +971,7 @@
     "id": "hexPentimento",
     "name": "Hex Pentimento",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexPentimento.png",
     "description": ""
   },
@@ -857,6 +979,7 @@
     "id": "hexRetribution",
     "name": "Hex Retribution",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexRetribution.png",
     "description": ""
   },
@@ -864,6 +987,7 @@
     "id": "hexRuin",
     "name": "Hex Ruin",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexRuin.png",
     "description": ""
   },
@@ -871,6 +995,7 @@
     "id": "hexTheThirdSeal",
     "name": "Hex The Third Seal",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexTheThirdSeal.png",
     "description": ""
   },
@@ -878,6 +1003,7 @@
     "id": "hexThrillOfTheHunt",
     "name": "Hex Thrill Of The Hunt",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexThrillOfTheHunt.png",
     "description": ""
   },
@@ -885,6 +1011,7 @@
     "id": "hexTwoCanPlay",
     "name": "Hex Two Can Play",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexTwoCanPlay.png",
     "description": ""
   },
@@ -892,6 +1019,7 @@
     "id": "hexUndying",
     "name": "Hex Undying",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexUndying.png",
     "description": ""
   },
@@ -899,6 +1027,7 @@
     "id": "hexWretchedFate",
     "name": "Hex Wretched Fate",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hexWretchedFate.png",
     "description": ""
   },
@@ -906,6 +1035,7 @@
     "id": "hoarder",
     "name": "Hoarder",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hoarder.png",
     "description": ""
   },
@@ -913,6 +1043,7 @@
     "id": "hope",
     "name": "Hope",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/hope.png",
     "description": ""
   },
@@ -920,6 +1051,7 @@
     "id": "hubris",
     "name": "Hubris",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hubris.png",
     "description": ""
   },
@@ -927,6 +1059,7 @@
     "id": "humanGreed",
     "name": "Human Greed",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/humanGreed.png",
     "description": ""
   },
@@ -934,6 +1067,7 @@
     "id": "hyperfocus",
     "name": "Hyperfocus",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/hyperfocus.png",
     "description": ""
   },
@@ -941,6 +1075,7 @@
     "id": "hysteria",
     "name": "Hysteria",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/hysteria.png",
     "description": ""
   },
@@ -948,6 +1083,7 @@
     "id": "imAllEars",
     "name": "Im All Ears",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/imAllEars.png",
     "description": ""
   },
@@ -955,6 +1091,7 @@
     "id": "infectiousFright",
     "name": "Infectious Fright",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/infectiousFright.png",
     "description": ""
   },
@@ -962,6 +1099,7 @@
     "id": "innerFocus",
     "name": "Inner Focus",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/innerFocus.png",
     "description": ""
   },
@@ -969,6 +1107,7 @@
     "id": "innerStrength",
     "name": "Inner Strength",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/innerStrength.png",
     "description": ""
   },
@@ -976,6 +1115,7 @@
     "id": "insidious",
     "name": "Insidious",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/insidious.png",
     "description": ""
   },
@@ -983,6 +1123,7 @@
     "id": "invocationTreacherousCrows",
     "name": "Invocation Treacherous Crows",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/invocationTreacherousCrows.png",
     "description": ""
   },
@@ -990,6 +1131,7 @@
     "id": "invocationWeavingSpiders",
     "name": "Invocation Weaving Spiders",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/invocationWeavingSpiders.png",
     "description": ""
   },
@@ -997,6 +1139,7 @@
     "id": "ironGrasp",
     "name": "Iron Grasp",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/ironGrasp.png",
     "description": ""
   },
@@ -1004,6 +1147,7 @@
     "id": "ironMaiden",
     "name": "Iron Maiden",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/ironMaiden.png",
     "description": ""
   },
@@ -1011,6 +1155,7 @@
     "id": "ironWill",
     "name": "Iron Will",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/ironWill.png",
     "description": ""
   },
@@ -1018,6 +1163,7 @@
     "id": "kindred",
     "name": "Kindred",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/kindred.png",
     "description": ""
   },
@@ -1025,6 +1171,7 @@
     "id": "knockOut",
     "name": "Knock Out",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/knockOut.png",
     "description": ""
   },
@@ -1032,6 +1179,7 @@
     "id": "languidTouch",
     "name": "Languid Touch",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/languidTouch.png",
     "description": ""
   },
@@ -1039,6 +1187,7 @@
     "id": "leader",
     "name": "Leader",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/leader.png",
     "description": ""
   },
@@ -1046,6 +1195,7 @@
     "id": "leftBehind",
     "name": "Left Behind",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/leftBehind.png",
     "description": ""
   },
@@ -1053,6 +1203,7 @@
     "id": "lendAHand",
     "name": "Lend A Hand",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/lendAHand.png",
     "description": ""
   },
@@ -1060,6 +1211,7 @@
     "id": "lethalPursuer",
     "name": "Lethal Pursuer",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/lethalPursuer.png",
     "description": ""
   },
@@ -1067,6 +1219,7 @@
     "id": "leverage",
     "name": "Leverage",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/leverage.png",
     "description": ""
   },
@@ -1074,6 +1227,7 @@
     "id": "light-Footed",
     "name": "Light- Footed",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/light-Footed.png",
     "description": ""
   },
@@ -1081,6 +1235,7 @@
     "id": "lightborn",
     "name": "Lightborn",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/lightborn.png",
     "description": ""
   },
@@ -1088,6 +1243,7 @@
     "id": "lightweight",
     "name": "Lightweight",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/lightweight.png",
     "description": ""
   },
@@ -1095,6 +1251,7 @@
     "id": "lithe",
     "name": "Lithe",
     "type": "survivor",
+    "isExhaustionPerk": true,
     "image": "assets/images/perks/survivor/lithe.png",
     "description": ""
   },
@@ -1102,6 +1259,7 @@
     "id": "lowProfile",
     "name": "Low Profile",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/lowProfile.png",
     "description": ""
   },
@@ -1109,6 +1267,7 @@
     "id": "luckyBreak",
     "name": "Lucky Break",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/luckyBreak.png",
     "description": ""
   },
@@ -1116,6 +1275,7 @@
     "id": "luckyStar",
     "name": "Lucky Star",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/luckyStar.png",
     "description": ""
   },
@@ -1123,6 +1283,7 @@
     "id": "machineLearning",
     "name": "Machine Learning",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/machineLearning.png",
     "description": ""
   },
@@ -1130,6 +1291,7 @@
     "id": "madGrit",
     "name": "Mad Grit",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/madGrit.png",
     "description": ""
   },
@@ -1137,6 +1299,7 @@
     "id": "madeForThis",
     "name": "Made For This",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/madeForThis.png",
     "description": ""
   },
@@ -1144,6 +1307,7 @@
     "id": "makeYourChoice",
     "name": "Make Your Choice",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/makeYourChoice.png",
     "description": ""
   },
@@ -1151,6 +1315,7 @@
     "id": "mercilessStorm",
     "name": "Merciless Storm",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/mercilessStorm.png",
     "description": ""
   },
@@ -1158,6 +1323,7 @@
     "id": "mettleOfMan",
     "name": "Mettle Of Man",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/mettleOfMan.png",
     "description": ""
   },
@@ -1165,6 +1331,7 @@
     "id": "mindbreaker",
     "name": "Mindbreaker",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/mindbreaker.png",
     "description": ""
   },
@@ -1172,6 +1339,7 @@
     "id": "mirroredIllusion",
     "name": "Mirrored Illusion",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/mirroredIllusion.png",
     "description": ""
   },
@@ -1179,6 +1347,7 @@
     "id": "MomentOfGlory",
     "name": "Moment Of Glory",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/MomentOfGlory.png",
     "description": ""
   },
@@ -1186,6 +1355,7 @@
     "id": "monitorAndAbuse",
     "name": "Monitor And Abuse",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/monitorAndAbuse.png",
     "description": ""
   },
@@ -1193,6 +1363,7 @@
     "id": "nemesis",
     "name": "Nemesis",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/nemesis.png",
     "description": ""
   },
@@ -1200,6 +1371,7 @@
     "id": "noMither",
     "name": "No Mither",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/noMither.png",
     "description": ""
   },
@@ -1207,6 +1379,7 @@
     "id": "noOneLeftBehind",
     "name": "No One Left Behind",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/noOneLeftBehind.png",
     "description": ""
   },
@@ -1214,6 +1387,7 @@
     "id": "noQuarter",
     "name": "No Quarter",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/noQuarter.png",
     "description": ""
   },
@@ -1221,6 +1395,7 @@
     "id": "noWayOut",
     "name": "No Way Out",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/noWayOut.png",
     "description": ""
   },
@@ -1228,6 +1403,7 @@
     "id": "noneAreFree",
     "name": "None Are Free",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/noneAreFree.png",
     "description": ""
   },
@@ -1235,6 +1411,7 @@
     "id": "nowhereToHide",
     "name": "Nowhere To Hide",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/nowhereToHide.png",
     "description": ""
   },
@@ -1242,6 +1419,7 @@
     "id": "objectOfObsession",
     "name": "Object Of Obsession",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/objectOfObsession.png",
     "description": ""
   },
@@ -1249,6 +1427,7 @@
     "id": "offTheRecord",
     "name": "Off The Record",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/offTheRecord.png",
     "description": ""
   },
@@ -1256,6 +1435,7 @@
     "id": "open-Handed",
     "name": "Open- Handed",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/open-Handed.png",
     "description": ""
   },
@@ -1263,6 +1443,7 @@
     "id": "oppression",
     "name": "Oppression",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/oppression.png",
     "description": ""
   },
@@ -1270,6 +1451,7 @@
     "id": "overcharge",
     "name": "Overcharge",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/overcharge.png",
     "description": ""
   },
@@ -1277,6 +1459,7 @@
     "id": "overcome",
     "name": "Overcome",
     "type": "survivor",
+    "isExhaustionPerk": true,
     "image": "assets/images/perks/survivor/overcome.png",
     "description": ""
   },
@@ -1284,6 +1467,7 @@
     "id": "overwhelmingPresence",
     "name": "Overwhelming Presence",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/overwhelmingPresence.png",
     "description": ""
   },
@@ -1291,6 +1475,7 @@
     "id": "overzealous",
     "name": "Overzealous",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/overzealous.png",
     "description": ""
   },
@@ -1298,6 +1483,7 @@
     "id": "parentalGuidance",
     "name": "Parental Guidance",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/parentalGuidance.png",
     "description": ""
   },
@@ -1305,6 +1491,7 @@
     "id": "phantomFear",
     "name": "Phantom Fear",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/phantomFear.png",
     "description": ""
   },
@@ -1312,6 +1499,7 @@
     "id": "pharmacy",
     "name": "Pharmacy",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/pharmacy.png",
     "description": ""
   },
@@ -1319,6 +1507,7 @@
     "id": "playWithYourFood",
     "name": "Play With Your Food",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/playWithYourFood.png",
     "description": ""
   },
@@ -1326,6 +1515,7 @@
     "id": "plotTwist",
     "name": "Plot Twist",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/plotTwist.png",
     "description": ""
   },
@@ -1333,6 +1523,7 @@
     "id": "plunderersInstinct",
     "name": "Plunderers Instinct",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/plunderersInstinct.png",
     "description": ""
   },
@@ -1340,6 +1531,7 @@
     "id": "poised",
     "name": "Poised",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/poised.png",
     "description": ""
   },
@@ -1347,6 +1539,7 @@
     "id": "popGoesTheWeasel",
     "name": "Pop Goes The Weasel",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/popGoesTheWeasel.png",
     "description": ""
   },
@@ -1354,6 +1547,7 @@
     "id": "potentialEnergy",
     "name": "Potential Energy",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/potentialEnergy.png",
     "description": ""
   },
@@ -1361,6 +1555,7 @@
     "id": "powerStruggle",
     "name": "Power Struggle",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/powerStruggle.png",
     "description": ""
   },
@@ -1368,6 +1563,7 @@
     "id": "predator",
     "name": "Predator",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/predator.png",
     "description": ""
   },
@@ -1375,6 +1571,7 @@
     "id": "premonition",
     "name": "Premonition",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/premonition.png",
     "description": ""
   },
@@ -1382,6 +1579,7 @@
     "id": "proveThyself",
     "name": "Prove Thyself",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/proveThyself.png",
     "description": ""
   },
@@ -1389,6 +1587,7 @@
     "id": "quickAndQuiet",
     "name": "Quick And Quiet",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/quickAndQuiet.png",
     "description": ""
   },
@@ -1396,6 +1595,7 @@
     "id": "quickGambit",
     "name": "Quick Gambit",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/quickGambit.png",
     "description": ""
   },
@@ -1403,6 +1603,7 @@
     "id": "rampage",
     "name": "Rampage",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/rampage.png",
     "description": ""
   },
@@ -1410,6 +1611,7 @@
     "id": "rancor",
     "name": "Rancor",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/rancor.png",
     "description": ""
   },
@@ -1417,6 +1619,7 @@
     "id": "rapidBrutality",
     "name": "Rapid Brutality",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/rapidBrutality.png",
     "description": ""
   },
@@ -1424,6 +1627,7 @@
     "id": "reactiveHealing",
     "name": "Reactive Healing",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/reactiveHealing.png",
     "description": ""
   },
@@ -1431,6 +1635,7 @@
     "id": "reassurance",
     "name": "Reassurance",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/reassurance.png",
     "description": ""
   },
@@ -1438,6 +1643,7 @@
     "id": "redHerring",
     "name": "Red Herring",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/redHerring.png",
     "description": ""
   },
@@ -1445,6 +1651,7 @@
     "id": "rememberMe",
     "name": "Remember Me",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/rememberMe.png",
     "description": ""
   },
@@ -1452,6 +1659,7 @@
     "id": "repressedAlliance",
     "name": "Repressed Alliance",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/repressedAlliance.png",
     "description": ""
   },
@@ -1459,6 +1667,7 @@
     "id": "residualManifest",
     "name": "Residual Manifest",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/residualManifest.png",
     "description": ""
   },
@@ -1466,6 +1675,7 @@
     "id": "resilience",
     "name": "Resilience",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/resilience.png",
     "description": ""
   },
@@ -1473,6 +1683,7 @@
     "id": "resurgence",
     "name": "Resurgence",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/resurgence.png",
     "description": ""
   },
@@ -1480,6 +1691,7 @@
     "id": "rookieSpirit",
     "name": "Rookie Spirit",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/rookieSpirit.png",
     "description": ""
   },
@@ -1487,6 +1699,7 @@
     "id": "saboteur",
     "name": "Saboteur",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/saboteur.png",
     "description": ""
   },
@@ -1494,6 +1707,7 @@
     "id": "saveTheBestForLast",
     "name": "Save The Best For Last",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/saveTheBestForLast.png",
     "description": ""
   },
@@ -1501,6 +1715,7 @@
     "id": "scaredToDeath",
     "name": "Scared To Death",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/scaredToDeath.png",
     "description": ""
   },
@@ -1508,6 +1723,7 @@
     "id": "scavenger",
     "name": "Scavenger",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/scavenger.png",
     "description": ""
   },
@@ -1515,6 +1731,7 @@
     "id": "scenePartner",
     "name": "Scene Partner",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/scenePartner.png",
     "description": ""
   },
@@ -1522,6 +1739,7 @@
     "id": "scourgeHookFloodsOfRage",
     "name": "Scourge Hook Floods Of Rage",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/scourgeHookFloodsOfRage.png",
     "description": ""
   },
@@ -1529,6 +1747,7 @@
     "id": "scourgeHookHangmansTrick",
     "name": "Scourge Hook Hangmans Trick",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/scourgeHookHangmansTrick.png",
     "description": ""
   },
@@ -1536,6 +1755,7 @@
     "id": "scourgeHookJaggedCompass",
     "name": "Scourge Hook Jagged Compass",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/scourgeHookJaggedCompass.png",
     "description": ""
   },
@@ -1543,6 +1763,7 @@
     "id": "scourgeHookMonstrousShrine",
     "name": "Scourge Hook Monstrous Shrine",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/scourgeHookMonstrousShrine.png",
     "description": ""
   },
@@ -1550,6 +1771,7 @@
     "id": "scourgeHookPainResonance",
     "name": "Scourge Hook Pain Resonance",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/scourgeHookPainResonance.png",
     "description": ""
   },
@@ -1557,6 +1779,7 @@
     "id": "secondWind",
     "name": "Second Wind",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/secondWind.png",
     "description": ""
   },
@@ -1564,6 +1787,7 @@
     "id": "self-Care",
     "name": "Self-Care",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/self-Care.png",
     "description": ""
   },
@@ -1571,6 +1795,7 @@
     "id": "self-Preservation",
     "name": "Self-Preservation",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/self-Preservation.png",
     "description": ""
   },
@@ -1578,6 +1803,7 @@
     "id": "septicTouch",
     "name": "Septic Touch",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/septicTouch.png",
     "description": ""
   },
@@ -1585,6 +1811,7 @@
     "id": "shadowborn",
     "name": "Shadowborn",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/shadowborn.png",
     "description": ""
   },
@@ -1592,6 +1819,7 @@
     "id": "shatteredHope",
     "name": "Shattered Hope",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/shatteredHope.png",
     "description": ""
   },
@@ -1599,6 +1827,7 @@
     "id": "shoulderTheBurden",
     "name": "Shoulder The Burden",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/shoulderTheBurden.png",
     "description": ""
   },
@@ -1606,6 +1835,7 @@
     "id": "silentShadow",
     "name": "Silent Shadow",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/silentShadow.png",
     "description": ""
   },
@@ -1613,6 +1843,7 @@
     "id": "slipperyMeat",
     "name": "Slippery Meat",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/slipperyMeat.png",
     "description": ""
   },
@@ -1620,6 +1851,7 @@
     "id": "sloppyButcher",
     "name": "Sloppy Butcher",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/sloppyButcher.png",
     "description": ""
   },
@@ -1627,6 +1859,7 @@
     "id": "smallGame",
     "name": "Small Game",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/smallGame.png",
     "description": ""
   },
@@ -1634,6 +1867,7 @@
     "id": "smashHit",
     "name": "Smash Hit",
     "type": "survivor",
+    "isExhaustionPerk": true,
     "image": "assets/images/perks/survivor/smashHit.png",
     "description": ""
   },
@@ -1641,6 +1875,7 @@
     "id": "soleSurvivor",
     "name": "Sole Survivor",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/soleSurvivor.png",
     "description": ""
   },
@@ -1648,6 +1883,7 @@
     "id": "solidarity",
     "name": "Solidarity",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/solidarity.png",
     "description": ""
   },
@@ -1655,6 +1891,7 @@
     "id": "soulGuard",
     "name": "Soul Guard",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/soulGuard.png",
     "description": ""
   },
@@ -1662,6 +1899,7 @@
     "id": "specialist",
     "name": "Specialist",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/specialist.png",
     "description": ""
   },
@@ -1669,6 +1907,7 @@
     "id": "spiesFromTheShadows",
     "name": "Spies From The Shadows",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/spiesFromTheShadows.png",
     "description": ""
   },
@@ -1676,6 +1915,7 @@
     "id": "spineChill",
     "name": "Spine Chill",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/spineChill.png",
     "description": ""
   },
@@ -1683,6 +1923,7 @@
     "id": "spiritFury",
     "name": "Spirit Fury",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/spiritFury.png",
     "description": ""
   },
@@ -1690,6 +1931,7 @@
     "id": "sprintBurst",
     "name": "Sprint Burst",
     "type": "survivor",
+    "isExhaustionPerk": true,
     "image": "assets/images/perks/survivor/sprintBurst.png",
     "description": ""
   },
@@ -1697,6 +1939,7 @@
     "id": "stakeOut",
     "name": "Stake Out",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/stakeOut.png",
     "description": ""
   },
@@ -1704,6 +1947,7 @@
     "id": "starstruck",
     "name": "Starstruck",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/starstruck.png",
     "description": ""
   },
@@ -1711,6 +1955,7 @@
     "id": "stillSight",
     "name": "Still Sight",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/stillSight.png",
     "description": ""
   },
@@ -1718,6 +1963,7 @@
     "id": "streetwise",
     "name": "Streetwise",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/streetwise.png",
     "description": ""
   },
@@ -1725,6 +1971,7 @@
     "id": "strengthInShadows",
     "name": "Strength In Shadows",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/strengthInShadows.png",
     "description": ""
   },
@@ -1732,6 +1979,7 @@
     "id": "stridor",
     "name": "Stridor",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/stridor.png",
     "description": ""
   },
@@ -1739,6 +1987,7 @@
     "id": "superiorAnatomy",
     "name": "Superior Anatomy",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/superiorAnatomy.png",
     "description": ""
   },
@@ -1746,6 +1995,7 @@
     "id": "surge",
     "name": "Surge",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/surge.png",
     "description": ""
   },
@@ -1753,6 +2003,7 @@
     "id": "surveillance",
     "name": "Surveillance",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/surveillance.png",
     "description": ""
   },
@@ -1760,6 +2011,7 @@
     "id": "teamworkCollectiveStealth",
     "name": "Teamwork Collective Stealth",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/teamworkCollectiveStealth.png",
     "description": ""
   },
@@ -1767,6 +2019,7 @@
     "id": "teamworkPowerOfTwo",
     "name": "Teamwork Power Of Two",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/teamworkPowerOfTwo.png",
     "description": ""
   },
@@ -1774,6 +2027,7 @@
     "id": "technician",
     "name": "Technician",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/technician.png",
     "description": ""
   },
@@ -1781,6 +2035,7 @@
     "id": "tenacity",
     "name": "Tenacity",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/tenacity.png",
     "description": ""
   },
@@ -1788,6 +2043,7 @@
     "id": "terminus",
     "name": "Terminus",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/terminus.png",
     "description": ""
   },
@@ -1795,6 +2051,7 @@
     "id": "territorialImperative",
     "name": "Territorial Imperative",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/territorialImperative.png",
     "description": ""
   },
@@ -1802,6 +2059,7 @@
     "id": "thanatophobia",
     "name": "Thanatophobia",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/thanatophobia.png",
     "description": ""
   },
@@ -1809,6 +2067,7 @@
     "id": "thisIsNotHappening",
     "name": "This Is Not Happening",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/thisIsNotHappening.png",
     "description": ""
   },
@@ -1816,6 +2075,7 @@
     "id": "thrillingTremors",
     "name": "Thrilling Tremors",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/thrillingTremors.png",
     "description": ""
   },
@@ -1823,6 +2083,7 @@
     "id": "thwack",
     "name": "Thwack",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/thwack.png",
     "description": ""
   },
@@ -1830,6 +2091,7 @@
     "id": "tinkerer",
     "name": "Tinkerer",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/tinkerer.png",
     "description": ""
   },
@@ -1837,6 +2099,7 @@
     "id": "trailOfTorment",
     "name": "Trail Of Torment",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/trailOfTorment.png",
     "description": ""
   },
@@ -1844,6 +2107,7 @@
     "id": "troubleshooter",
     "name": "Troubleshooter",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/troubleshooter.png",
     "description": ""
   },
@@ -1851,6 +2115,7 @@
     "id": "ultimateWeapon",
     "name": "Ultimate Weapon",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/ultimateWeapon.png",
     "description": ""
   },
@@ -1858,6 +2123,7 @@
     "id": "unbound",
     "name": "Unbound",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/unbound.png",
     "description": ""
   },
@@ -1865,6 +2131,7 @@
     "id": "unbreakable",
     "name": "Unbreakable",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/unbreakable.png",
     "description": ""
   },
@@ -1872,6 +2139,7 @@
     "id": "undone",
     "name": "Undone",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/undone.png",
     "description": ""
   },
@@ -1879,6 +2147,7 @@
     "id": "unforeseen",
     "name": "Unforeseen",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/unforeseen.png",
     "description": ""
   },
@@ -1886,6 +2155,7 @@
     "id": "unnervingPresence",
     "name": "Unnerving Presence",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/unnervingPresence.png",
     "description": ""
   },
@@ -1893,6 +2163,7 @@
     "id": "unrelenting",
     "name": "Unrelenting",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/unrelenting.png",
     "description": ""
   },
@@ -1900,6 +2171,7 @@
     "id": "upTheAnte",
     "name": "Up The Ante",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/upTheAnte.png",
     "description": ""
   },
@@ -1907,6 +2179,7 @@
     "id": "urbanEvasion",
     "name": "Urban Evasion",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/urbanEvasion.png",
     "description": ""
   },
@@ -1914,6 +2187,7 @@
     "id": "vigil",
     "name": "Vigil",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/vigil.png",
     "description": ""
   },
@@ -1921,6 +2195,7 @@
     "id": "visionary",
     "name": "Visionary",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/visionary.png",
     "description": ""
   },
@@ -1928,6 +2203,7 @@
     "id": "wakeUp",
     "name": "Wake Up",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/wakeUp.png",
     "description": ""
   },
@@ -1935,6 +2211,7 @@
     "id": "weaveAttunement",
     "name": "Weave Attunement",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/weaveAttunement.png",
     "description": ""
   },
@@ -1942,6 +2219,7 @@
     "id": "wellMakeIt",
     "name": "Well Make It",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/wellMakeIt.png",
     "description": ""
   },
@@ -1949,6 +2227,7 @@
     "id": "wereGonnaLiveForever",
     "name": "Were Gonna Live Forever",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/wereGonnaLiveForever.png",
     "description": ""
   },
@@ -1956,6 +2235,7 @@
     "id": "whispers",
     "name": "Whispers",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/whispers.png",
     "description": ""
   },
@@ -1963,6 +2243,7 @@
     "id": "wicked",
     "name": "Wicked",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/wicked.png",
     "description": ""
   },
@@ -1970,6 +2251,7 @@
     "id": "wideOpenThrottle",
     "name": "Wide Open Throttle",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/wideOpenThrottle.png",
     "description": ""
   },
@@ -1977,6 +2259,7 @@
     "id": "windowsOfOpportunity",
     "name": "Windows Of Opportunity",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/windowsOfOpportunity.png",
     "description": ""
   },
@@ -1984,6 +2267,7 @@
     "id": "wiretap",
     "name": "Wiretap",
     "type": "survivor",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/survivor/wiretap.png",
     "description": ""
   },
@@ -1991,6 +2275,7 @@
     "id": "zanshinTactics",
     "name": "Zanshin Tactics",
     "type": "killer",
+    "isExhaustionPerk": false,
     "image": "assets/images/perks/killer/zanshinTactics.png",
     "description": ""
   }
